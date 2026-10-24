@@ -6,212 +6,140 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-24T09:46:13+00:00",
+ "retrieved_at": "2026-10-24T14:43:49+00:00",
  "date": "2026-10-24",
  "trends": [
   {
+   "topic": "deea248a62c8",
+   "display_name": "Ossoff challenges Mike Collins on CNN report",
+   "rank": 1,
+   "post_count": 141,
+   "category": "politics",
+   "started": "2026-10-23",
+   "new": true
+  },
+  {
+   "topic": "a478bd2b6a1b",
+   "display_name": "Push to vote early in US election",
+   "rank": 2,
+   "post_count": 40406,
+   "category": "politics",
+   "started": "2026-10-01",
+   "new": false
+  },
+  {
    "topic": "848dde8d4a0b",
    "display_name": "Things that got better in our lifetime",
-   "rank": 1,
-   "post_count": 3475,
+   "rank": 3,
+   "post_count": 4054,
    "category": "culture",
    "started": "2026-10-23",
    "new": true
   },
   {
-   "topic": "58b562d979b8",
-   "display_name": "Trump says Ukraine Starlink restored",
-   "rank": 2,
-   "post_count": 241539,
-   "category": "politics",
-   "started": "2026-09-16",
-   "new": false
-  },
-  {
-   "topic": "c95b84502833",
-   "display_name": "Trump's remarks on Cuba after Iran",
-   "rank": 3,
-   "post_count": 891,
-   "category": "politics",
-   "started": "2026-10-23",
-   "new": true
-  },
-  {
-   "topic": "d42821a0c937",
-   "display_name": "Storm Austen brings weather warnings",
-   "rank": 4,
-   "post_count": 2102,
-   "category": "other",
-   "started": "2026-10-21",
-   "new": false
-  },
-  {
    "topic": "930c3797b762",
    "display_name": "Tabletop role-playing games",
-   "rank": 5,
-   "post_count": 6416,
+   "rank": 4,
+   "post_count": 6543,
    "category": "culture",
    "started": "2026-10-03",
    "new": false
   },
   {
-   "topic": "2c57a1fbb234",
-   "display_name": "PHP vulnerabilities take websites offline",
-   "rank": 6,
-   "post_count": 6857,
-   "category": "science-tech",
-   "started": "2026-10-21",
-   "new": false
-  },
-  {
-   "topic": "6a184942f97b",
-   "display_name": "Hila Klein alleges Ethan Klein affair",
-   "rank": 7,
-   "post_count": 1627,
-   "category": "entertainment",
-   "started": "2026-10-23",
-   "new": false
-  },
-  {
-   "topic": "d3c1bec66421",
-   "display_name": "Steam Next Fest begins",
-   "rank": 8,
-   "post_count": 3472,
-   "category": "entertainment",
-   "started": "2026-10-19",
-   "new": false
-  },
-  {
    "topic": "56473f8b11dc",
    "display_name": "Letter-themed bird photo prompt",
-   "rank": 9,
-   "post_count": 8416,
+   "rank": 5,
+   "post_count": 8596,
    "category": "culture",
    "started": "2026-10-06",
    "new": true
   },
   {
-   "topic": "78e213bcc782",
-   "display_name": "Telegraph cuts jobs in AI push",
-   "rank": 10,
-   "post_count": 144,
-   "category": "business",
+   "topic": "f88ed544be51",
+   "display_name": "Letterboxd Friday recent watches",
+   "rank": 6,
+   "post_count": 1093,
+   "category": "entertainment",
    "started": "2026-10-23",
+   "new": true
+  },
+  {
+   "topic": "d42821a0c937",
+   "display_name": "Storm Boelo hits the UK",
+   "rank": 7,
+   "post_count": 2324,
+   "category": "other",
+   "started": "2026-10-21",
+   "new": true
+  },
+  {
+   "topic": "86705e4915b7",
+   "display_name": "Castlevania: Belmont's Curse",
+   "rank": 8,
+   "post_count": 1188,
+   "category": "entertainment",
+   "started": "2026-10-21",
+   "new": false
+  },
+  {
+   "topic": "5417c6b9b399",
+   "display_name": "Spooky month stream schedules",
+   "rank": 9,
+   "post_count": 19133,
+   "category": "entertainment",
+   "started": "2026-09-24",
+   "new": false
+  },
+  {
+   "topic": "4fe7253027d8",
+   "display_name": "Aston Villa vs. Manchester City",
+   "rank": 10,
+   "post_count": 223,
+   "category": "sports",
+   "started": "2026-10-24",
    "new": true
   },
   {
    "topic": "de4525a2fb9d",
    "display_name": "Russian firm seeks Alaska gas stake",
    "rank": 11,
-   "post_count": 194,
+   "post_count": 531,
    "category": "politics",
    "started": "2026-10-24",
    "new": true
   },
   {
+   "topic": "61bc81bfb286",
+   "display_name": "Ramaswamy doubles down on campaign ad",
+   "rank": 12,
+   "post_count": 6610,
+   "category": "politics",
+   "started": "2026-10-21",
+   "new": false
+  },
+  {
    "topic": "1817951e5646",
    "display_name": "Justice Department sues over Alaska race",
-   "rank": 12,
-   "post_count": 3263,
+   "rank": 13,
+   "post_count": 3601,
    "category": "politics",
    "started": "2026-10-22",
    "new": false
   },
   {
-   "topic": "0d2efcf9f503",
-   "display_name": "Trump's \"sick person\" post",
-   "rank": 13,
-   "post_count": 675,
-   "category": "politics",
-   "started": "2026-10-23",
-   "new": false
-  },
-  {
-   "topic": "5a541697d6d6",
-   "display_name": "Putin proposes Trump-Xi summit",
+   "topic": "bf8f1620-d6de-43e6-b23f-80bd26c28462",
+   "display_name": "El-Sayed's viral town hall response",
    "rank": 14,
-   "post_count": 3626,
+   "post_count": 8622,
    "category": "politics",
    "started": "2026-10-18",
    "new": false
   },
   {
-   "topic": "aa231c803609",
-   "display_name": "Russian missiles hit Kyiv overnight",
+   "topic": "c95b84502833",
+   "display_name": "Trump's remarks on Cuba after Iran",
    "rank": 15,
-   "post_count": 4134,
-   "category": "politics",
-   "started": "2026-10-19",
-   "new": false
-  },
-  {
-   "topic": "a96c020af1ef",
-   "display_name": "Book alleges Kushner Gulf transfers",
-   "rank": 16,
-   "post_count": 2299,
-   "category": "politics",
-   "started": "2026-10-22",
-   "new": false
-  },
-  {
-   "topic": "1091498fba96",
-   "display_name": "Playing Deadlock",
-   "rank": 17,
-   "post_count": 8009,
-   "category": "entertainment",
-   "started": "2026-09-29",
-   "new": true
-  },
-  {
-   "topic": "05d016ea2a01",
-   "display_name": "'You Can See Everything' premieres",
-   "rank": 18,
-   "post_count": 8137,
-   "category": "entertainment",
-   "started": "2026-10-15",
-   "new": false
-  },
-  {
-   "topic": "2da8e0715fa0",
-   "display_name": "First film seen at the cinema",
-   "rank": 19,
-   "post_count": 861,
-   "category": "entertainment",
-   "started": "2026-10-23",
-   "new": false
-  },
-  {
-   "topic": "a3cd8711525e",
-   "display_name": "Trump demands Ilhan Omar resign",
-   "rank": 20,
-   "post_count": 1953,
-   "category": "politics",
-   "started": "2026-10-22",
-   "new": true
-  },
-  {
-   "topic": "7edd1f032804",
-   "display_name": "J.K. Rowling updates trans essay",
-   "rank": 21,
-   "post_count": 314,
-   "category": "culture",
-   "started": "2026-10-23",
-   "new": true
-  },
-  {
-   "topic": "8bc52074293b",
-   "display_name": "Alberta separation referendum results",
-   "rank": 22,
-   "post_count": 26158,
-   "category": "politics",
-   "started": "2026-09-25",
-   "new": false
-  },
-  {
-   "topic": "7eb0d1973fc4",
-   "display_name": "Israel launches Hebron military operation",
-   "rank": 23,
-   "post_count": 835,
+   "post_count": 1137,
    "category": "politics",
    "started": "2026-10-23",
    "new": true
@@ -219,19 +147,91 @@
   {
    "topic": "0e29cc083290",
    "display_name": "Texas GOP warns of furries",
-   "rank": 24,
-   "post_count": 3537,
+   "rank": 16,
+   "post_count": 3735,
    "category": "politics",
    "started": "2026-10-20",
    "new": true
   },
   {
-   "topic": "4ad3d00eb433",
-   "display_name": "France deploys 70,000 police",
-   "rank": 25,
-   "post_count": 1515,
+   "topic": "b49d951bb74d",
+   "display_name": "DOJ demands California sequester ballots",
+   "rank": 17,
+   "post_count": 1275,
+   "category": "politics",
+   "started": "2026-10-22",
+   "new": true
+  },
+  {
+   "topic": "6ddd91c3cea4",
+   "display_name": "Warning of MAGA violence after midterms",
+   "rank": 18,
+   "post_count": 297,
+   "category": "politics",
+   "started": "2026-10-24",
+   "new": true
+  },
+  {
+   "topic": "58b562d979b8",
+   "display_name": "Trump says Ukraine Starlink restored",
+   "rank": 19,
+   "post_count": 242041,
+   "category": "politics",
+   "started": "2026-09-16",
+   "new": false
+  },
+  {
+   "topic": "1f093ef18136",
+   "display_name": "Trump praises RFK Jr.'s physique",
+   "rank": 20,
+   "post_count": 2254,
    "category": "politics",
    "started": "2026-10-21",
+   "new": true
+  },
+  {
+   "topic": "a3cd8711525e",
+   "display_name": "Trump demands Ilhan Omar resign",
+   "rank": 21,
+   "post_count": 2120,
+   "category": "politics",
+   "started": "2026-10-22",
+   "new": true
+  },
+  {
+   "topic": "4109c6d866aa",
+   "display_name": "Trump waives clean-air rules",
+   "rank": 22,
+   "post_count": 226,
+   "category": "politics",
+   "started": "2026-10-24",
+   "new": true
+  },
+  {
+   "topic": "448dc758b497",
+   "display_name": "Michigan voters' remarks on national TV",
+   "rank": 23,
+   "post_count": 456,
+   "category": "politics",
+   "started": "2026-10-23",
+   "new": true
+  },
+  {
+   "topic": "de4d677624c5",
+   "display_name": "AI-narrated audiobooks",
+   "rank": 24,
+   "post_count": 196,
+   "category": "culture",
+   "started": "2026-10-24",
+   "new": true
+  },
+  {
+   "topic": "622882930cc9",
+   "display_name": "Trump's stock trades outnumber Congress",
+   "rank": 25,
+   "post_count": 493,
+   "category": "politics",
+   "started": "2026-10-23",
    "new": true
   }
  ],
@@ -609,9 +609,13 @@
   ],
   "2026-10-24": [
    "'You Can See Everything' premieres",
+   "AI-narrated audiobooks",
    "Alberta separation referendum results",
    "Amy Acton's mother in Ramaswamy ad",
+   "Aston Villa vs. Manchester City",
    "Book alleges Kushner Gulf transfers",
+   "Castlevania: Belmont's Curse",
+   "DOJ demands California sequester ballots",
    "El-Sayed's viral town hall response",
    "Fake trans student group mailers",
    "Fall Covid and flu vaccines",
@@ -623,8 +627,10 @@
    "Justice Department sues over Alaska race",
    "Letter-themed bird photo prompt",
    "Letterboxd Friday recent watches",
+   "Michigan voters' remarks on national TV",
    "Milwaukee Brewers in World Series",
    "Musk invests $1B in Skydance",
+   "Ossoff challenges Mike Collins on CNN report",
    "PHP vulnerabilities take websites offline",
    "Playing Deadlock",
    "Push to vote early in US election",
@@ -635,6 +641,7 @@
    "Spooky month stream schedules",
    "Steam Next Fest begins",
    "Storm Austen brings weather warnings",
+   "Storm Boelo hits the UK",
    "Tabletop role-playing games",
    "Talarico ad targets Paxton police vote",
    "Telegraph cuts jobs in AI push",
@@ -645,10 +652,14 @@
    "Trump describes studying a man's body",
    "Trump laments missing Nobel Prize",
    "Trump pledges $8 billion farmer aid",
+   "Trump praises RFK Jr.'s physique",
    "Trump says Ukraine Starlink restored",
    "Trump touts cognitive test again",
+   "Trump waives clean-air rules",
    "Trump's \"sick person\" post",
-   "Trump's remarks on Cuba after Iran"
+   "Trump's remarks on Cuba after Iran",
+   "Trump's stock trades outnumber Congress",
+   "Warning of MAGA violence after midterms"
   ]
  }
 }
