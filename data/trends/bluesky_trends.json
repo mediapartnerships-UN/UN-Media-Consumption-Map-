@@ -6,233 +6,233 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-25T15:01:27+00:00",
+ "retrieved_at": "2026-10-25T18:56:29+00:00",
  "date": "2026-10-25",
  "trends": [
   {
-   "topic": "819f34046dd5",
-   "display_name": "Todd Blanche spars with Dana Bash",
+   "topic": "21cb2b9eac09",
+   "display_name": "Catholic bishops pray over Trump",
    "rank": 1,
-   "post_count": 158,
+   "post_count": 411,
    "category": "politics",
-   "started": "2026-10-25",
+   "started": "2026-10-24",
    "new": true
   },
   {
-   "topic": "f66d7249e0ed",
-   "display_name": "Talarico's Texas Senate race",
+   "topic": "ed1905f56c87",
+   "display_name": "Clinton and Obama on White House redo",
    "rank": 2,
-   "post_count": 557,
+   "post_count": 2030,
    "category": "politics",
    "started": "2026-10-24",
-   "new": false
+   "new": true
   },
   {
-   "topic": "419227c4b2ac",
-   "display_name": "Sonic the Hedgehog fan creations",
+   "topic": "58b562d979b8",
+   "display_name": "Musk admits restricting Ukraine's Starlink",
    "rank": 3,
-   "post_count": 2626,
-   "category": "entertainment",
-   "started": "2026-10-21",
-   "new": false
+   "post_count": 256997,
+   "category": "science-tech",
+   "started": "2026-09-16",
+   "new": true
   },
   {
    "topic": "5417c6b9b399",
    "display_name": "Spooky month stream schedules",
    "rank": 4,
-   "post_count": 20962,
+   "post_count": 21547,
    "category": "entertainment",
    "started": "2026-09-24",
    "new": false
   },
   {
+   "topic": "419227c4b2ac",
+   "display_name": "Sonic the Hedgehog fan creations",
+   "rank": 5,
+   "post_count": 2911,
+   "category": "entertainment",
+   "started": "2026-10-21",
+   "new": false
+  },
+  {
    "topic": "f88ed544be51",
    "display_name": "Letterboxd Friday recent watches",
-   "rank": 5,
-   "post_count": 2257,
+   "rank": 6,
+   "post_count": 2514,
    "category": "entertainment",
    "started": "2026-10-23",
    "new": false
   },
   {
-   "topic": "2ca4c4509c8a",
-   "display_name": "Clocks go back an hour",
-   "rank": 6,
-   "post_count": 516,
-   "category": "other",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "4749ee8415f3",
-   "display_name": "World Series: Brewers vs. Rays",
+   "topic": "e1ea61866e5c",
+   "display_name": "Art Spiegelman uses AI artwork",
    "rank": 7,
-   "post_count": 2671,
-   "category": "sports",
-   "started": "2026-10-22",
+   "post_count": 833,
+   "category": "culture",
+   "started": "2026-10-24",
    "new": true
   },
   {
-   "topic": "d42821a0c937",
-   "display_name": "Storm Boelo hits the UK",
+   "topic": "1ac52268b10a",
+   "display_name": "iPhone Duo goes on sale",
    "rank": 8,
-   "post_count": 3441,
-   "category": "other",
+   "post_count": 1726,
+   "category": "science-tech",
    "started": "2026-10-21",
-   "new": false
+   "new": true
   },
   {
    "topic": "930c3797b762",
    "display_name": "First five role-playing games played",
    "rank": 9,
-   "post_count": 8438,
+   "post_count": 8644,
    "category": "culture",
    "started": "2026-10-03",
    "new": true
   },
   {
-   "topic": "e1ea61866e5c",
-   "display_name": "Art Spiegelman uses AI artwork",
+   "topic": "2ca4c4509c8a",
+   "display_name": "Clocks go back an hour",
    "rank": 10,
-   "post_count": 627,
-   "category": "culture",
-   "started": "2026-10-24",
+   "post_count": 819,
+   "category": "other",
+   "started": "2026-10-25",
    "new": true
-  },
-  {
-   "topic": "bf8f1620-d6de-43e6-b23f-80bd26c28462",
-   "display_name": "El-Sayed's viral town hall response",
-   "rank": 11,
-   "post_count": 10046,
-   "category": "politics",
-   "started": "2026-10-18",
-   "new": false
   },
   {
    "topic": "1817951e5646",
    "display_name": "Justice Department sues over Alaska race",
-   "rank": 12,
-   "post_count": 4793,
+   "rank": 11,
+   "post_count": 5634,
    "category": "politics",
    "started": "2026-10-22",
    "new": false
   },
   {
-   "topic": "ed1905f56c87",
-   "display_name": "Clinton and Obama on White House redo",
-   "rank": 13,
-   "post_count": 1357,
-   "category": "politics",
-   "started": "2026-10-24",
-   "new": true
-  },
-  {
-   "topic": "0d2efcf9f503",
-   "display_name": "Trump's \"sick person\" post",
-   "rank": 14,
-   "post_count": 1413,
-   "category": "politics",
-   "started": "2026-10-23",
-   "new": false
-  },
-  {
    "topic": "a478bd2b6a1b",
    "display_name": "Push to vote early in US election",
-   "rank": 15,
-   "post_count": 44787,
+   "rank": 12,
+   "post_count": 45371,
    "category": "politics",
    "started": "2026-10-01",
    "new": false
   },
   {
-   "topic": "58b562d979b8",
-   "display_name": "Trump says Ukraine Starlink restored",
-   "rank": 16,
-   "post_count": 244158,
-   "category": "politics",
-   "started": "2026-09-16",
-   "new": false
-  },
-  {
-   "topic": "61bc81bfb286",
-   "display_name": "Ramaswamy doubles down on campaign ad",
-   "rank": 17,
-   "post_count": 8164,
-   "category": "politics",
-   "started": "2026-10-21",
-   "new": false
-  },
-  {
    "topic": "8bc52074293b",
-   "display_name": "Alberta separation referendum results",
-   "rank": 18,
-   "post_count": 27819,
+   "display_name": "British Columbia provincial election",
+   "rank": 13,
+   "post_count": 30103,
    "category": "politics",
    "started": "2026-09-25",
-   "new": false
-  },
-  {
-   "topic": "705a58b62059",
-   "display_name": "Democrats' congressional agenda",
-   "rank": 19,
-   "post_count": 1661,
-   "category": "politics",
-   "started": "2026-10-23",
-   "new": false
-  },
-  {
-   "topic": "8e6558d920a4",
-   "display_name": "\"Liberals are the new racists\" ad",
-   "rank": 20,
-   "post_count": 1530,
-   "category": "politics",
-   "started": "2026-10-24",
-   "new": true
-  },
-  {
-   "topic": "74ada5bf2b57",
-   "display_name": "Iowa attack ad speaker's DUI case",
-   "rank": 21,
-   "post_count": 404,
-   "category": "politics",
-   "started": "2026-10-24",
-   "new": true
-  },
-  {
-   "topic": "181f93831aa0",
-   "display_name": "Brazil votes in presidential runoff",
-   "rank": 22,
-   "post_count": 1438,
-   "category": "politics",
-   "started": "2026-10-21",
-   "new": true
-  },
-  {
-   "topic": "88ba45fd7f99",
-   "display_name": "Obama rallies in Cleveland",
-   "rank": 23,
-   "post_count": 1742,
-   "category": "politics",
-   "started": "2026-10-24",
    "new": true
   },
   {
    "topic": "0e29cc083290",
    "display_name": "Texas GOP warns of furries",
-   "rank": 24,
-   "post_count": 9440,
+   "rank": 14,
+   "post_count": 9619,
    "category": "politics",
    "started": "2026-10-20",
    "new": false
   },
   {
-   "topic": "5952ca2a6c7d",
-   "display_name": "Midterm ratings shift toward Democrats",
-   "rank": 25,
-   "post_count": 978,
+   "topic": "8e6558d920a4",
+   "display_name": "\"Liberals are the new racists\" ad",
+   "rank": 15,
+   "post_count": 1963,
+   "category": "politics",
+   "started": "2026-10-24",
+   "new": true
+  },
+  {
+   "topic": "34fb468fecd3",
+   "display_name": "Small-town Texas cop aids ICE",
+   "rank": 16,
+   "post_count": 2382,
+   "category": "politics",
+   "started": "2026-10-20",
+   "new": true
+  },
+  {
+   "topic": "819f34046dd5",
+   "display_name": "Todd Blanche spars with Dana Bash",
+   "rank": 17,
+   "post_count": 750,
+   "category": "politics",
+   "started": "2026-10-25",
+   "new": true
+  },
+  {
+   "topic": "0d2efcf9f503",
+   "display_name": "Trump's \"sick person\" post",
+   "rank": 18,
+   "post_count": 1601,
    "category": "politics",
    "started": "2026-10-23",
    "new": false
+  },
+  {
+   "topic": "65031a54e0a5",
+   "display_name": "California weighs billionaire wealth tax",
+   "rank": 19,
+   "post_count": 1197,
+   "category": "politics",
+   "started": "2026-10-21",
+   "new": true
+  },
+  {
+   "topic": "05d016ea2a01",
+   "display_name": "'You Can See Everything' premieres",
+   "rank": 20,
+   "post_count": 9672,
+   "category": "entertainment",
+   "started": "2026-10-15",
+   "new": false
+  },
+  {
+   "topic": "1091498fba96",
+   "display_name": "Playing Deadlock",
+   "rank": 21,
+   "post_count": 8657,
+   "category": "entertainment",
+   "started": "2026-09-29",
+   "new": false
+  },
+  {
+   "topic": "181f93831aa0",
+   "display_name": "Brazil votes in presidential runoff",
+   "rank": 22,
+   "post_count": 1710,
+   "category": "politics",
+   "started": "2026-10-21",
+   "new": true
+  },
+  {
+   "topic": "f66d7249e0ed",
+   "display_name": "Talarico's Texas Senate race",
+   "rank": 23,
+   "post_count": 677,
+   "category": "politics",
+   "started": "2026-10-24",
+   "new": false
+  },
+  {
+   "topic": "b49d951bb74d",
+   "display_name": "DOJ demands California sequester ballots",
+   "rank": 24,
+   "post_count": 1920,
+   "category": "politics",
+   "started": "2026-10-22",
+   "new": false
+  },
+  {
+   "topic": "61bc81bfb286",
+   "display_name": "Venues drop Ramaswamy bus tour stops",
+   "rank": 25,
+   "post_count": 9704,
+   "category": "politics",
+   "started": "2026-10-21",
+   "new": true
   }
  ],
  "history": {
@@ -621,10 +621,14 @@
    "Alberta separation referendum results",
    "Art Spiegelman uses AI artwork",
    "Brazil votes in presidential runoff",
+   "British Columbia provincial election",
    "Burnham opens EU free movement debate",
+   "California weighs billionaire wealth tax",
+   "Catholic bishops pray over Trump",
    "Claude Code leaders leave Anthropic",
    "Clinton and Obama on White House redo",
    "Clocks go back an hour",
+   "DOJ demands California sequester ballots",
    "Democrats' congressional agenda",
    "El-Sayed's viral town hall response",
    "Favorite Simpsons quotes",
@@ -637,10 +641,13 @@
    "Letterboxd Friday recent watches",
    "Mass arrests at France protests",
    "Midterm ratings shift toward Democrats",
+   "Musk admits restricting Ukraine's Starlink",
    "Obama rallies in Cleveland",
+   "Playing Deadlock",
    "Push to vote early in US election",
    "Ramaswamy doubles down on campaign ad",
    "Russian firm seeks Alaska gas stake",
+   "Small-town Texas cop aids ICE",
    "Sonic the Hedgehog fan creations",
    "Spooky month stream schedules",
    "Steam Next Fest begins",
@@ -655,6 +662,7 @@
    "Trump's \"sick person\" post",
    "Trump's odd noises during speech",
    "UK's \"British approach\" to AI",
+   "Venues drop Ramaswamy bus tour stops",
    "World Series: Brewers vs. Rays",
    "iPhone Duo goes on sale"
   ]
