@@ -6,41 +6,50 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-26T00:36:00+00:00",
+ "retrieved_at": "2026-10-26T11:27:48+00:00",
  "date": "2026-10-26",
  "trends": [
   {
-   "topic": "181f93831aa0",
-   "display_name": "Brazil votes in presidential runoff",
+   "topic": "45b5e8ff3a98",
+   "display_name": "Reports of Eric Bauza's death",
    "rank": 1,
-   "post_count": 6585,
-   "category": "politics",
-   "started": "2026-10-21",
-   "new": false
+   "post_count": 1762,
+   "category": "entertainment",
+   "started": "2026-10-26",
+   "new": true
   },
   {
    "topic": "c6b9ac1c94df",
    "display_name": "Vučić and Serbian election",
    "rank": 2,
-   "post_count": 1689,
+   "post_count": 3663,
    "category": "politics",
    "started": "2026-10-25",
    "new": true
   },
   {
-   "topic": "dbbdfaf352bf",
-   "display_name": "Clayface hits theaters",
+   "topic": "1f093ef18136",
+   "display_name": "Trump's remarks on Husted, Nicki Minaj",
    "rank": 3,
-   "post_count": 101,
-   "category": "entertainment",
-   "started": "2026-10-25",
+   "post_count": 10171,
+   "category": "politics",
+   "started": "2026-10-21",
    "new": true
+  },
+  {
+   "topic": "58b562d979b8",
+   "display_name": "Musk admits restricting Ukraine's Starlink",
+   "rank": 4,
+   "post_count": 258131,
+   "category": "science-tech",
+   "started": "2026-09-16",
+   "new": false
   },
   {
    "topic": "5417c6b9b399",
    "display_name": "Spooky month stream schedules",
-   "rank": 4,
-   "post_count": 26800,
+   "rank": 5,
+   "post_count": 27673,
    "category": "entertainment",
    "started": "2026-09-24",
    "new": false
@@ -48,89 +57,62 @@
   {
    "topic": "bf9f4ba97dd6",
    "display_name": "Marissa Mayer uses AI to describe daughter",
-   "rank": 5,
-   "post_count": 603,
+   "rank": 6,
+   "post_count": 1272,
    "category": "science-tech",
    "started": "2026-10-25",
    "new": true
   },
   {
-   "topic": "f88ed544be51",
-   "display_name": "Letterboxd Friday recent watches",
-   "rank": 6,
-   "post_count": 2918,
+   "topic": "7db70ce4c1b1",
+   "display_name": "Characters who seem like the same person",
+   "rank": 7,
+   "post_count": 147,
    "category": "entertainment",
-   "started": "2026-10-23",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "e1ea61866e5c",
+   "display_name": "Art Spiegelman uses AI artwork",
+   "rank": 8,
+   "post_count": 1277,
+   "category": "culture",
+   "started": "2026-10-24",
    "new": false
   },
   {
-   "topic": "787e3e9b0174",
-   "display_name": "Police called on Black toddler at soccer",
-   "rank": 7,
-   "post_count": 372,
-   "category": "culture",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "1ac52268b10a",
-   "display_name": "iPhone Duo goes on sale",
-   "rank": 8,
-   "post_count": 1880,
-   "category": "science-tech",
+   "topic": "d42821a0c937",
+   "display_name": "Storm Boelo hits the UK",
+   "rank": 9,
+   "post_count": 3813,
+   "category": "other",
    "started": "2026-10-21",
    "new": false
   },
   {
-   "topic": "58b562d979b8",
-   "display_name": "Musk admits restricting Ukraine's Starlink",
-   "rank": 9,
-   "post_count": 257441,
-   "category": "science-tech",
-   "started": "2026-09-16",
-   "new": false
-  },
-  {
-   "topic": "2ca4c4509c8a",
-   "display_name": "Clocks go back an hour in Europe",
+   "topic": "56473f8b11dc",
+   "display_name": "One-legged bird photo prompt",
    "rank": 10,
-   "post_count": 1059,
-   "category": "other",
-   "started": "2026-10-25",
+   "post_count": 9107,
+   "category": "culture",
+   "started": "2026-10-06",
    "new": true
   },
   {
-   "topic": "c5ce5e839502",
-   "display_name": "Minaj floated as press secretary",
+   "topic": "61bc81bfb286",
+   "display_name": "Venues drop Ramaswamy bus tour stops",
    "rank": 11,
-   "post_count": 638,
+   "post_count": 10181,
    "category": "politics",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "bf8f1620-d6de-43e6-b23f-80bd26c28462",
-   "display_name": "El-Sayed's viral town hall response",
-   "rank": 12,
-   "post_count": 11533,
-   "category": "politics",
-   "started": "2026-10-18",
-   "new": false
-  },
-  {
-   "topic": "8bc52074293b",
-   "display_name": "British Columbia provincial election",
-   "rank": 13,
-   "post_count": 30539,
-   "category": "politics",
-   "started": "2026-09-25",
+   "started": "2026-10-21",
    "new": false
   },
   {
    "topic": "58c1f5de7858",
    "display_name": "Trump blames voters for possible losses",
-   "rank": 14,
-   "post_count": 394,
+   "rank": 12,
+   "post_count": 887,
    "category": "politics",
    "started": "2026-10-25",
    "new": true
@@ -138,100 +120,118 @@
   {
    "topic": "a478bd2b6a1b",
    "display_name": "Push to vote early in US election",
-   "rank": 15,
-   "post_count": 46077,
+   "rank": 13,
+   "post_count": 46588,
    "category": "politics",
    "started": "2026-10-01",
    "new": false
   },
   {
-   "topic": "1f093ef18136",
-   "display_name": "Trump's comments on men's looks",
-   "rank": 16,
-   "post_count": 8705,
-   "category": "politics",
-   "started": "2026-10-21",
-   "new": true
-  },
-  {
-   "topic": "7eb0d1973fc4",
-   "display_name": "Israel launches Hebron military operation",
-   "rank": 17,
-   "post_count": 2177,
+   "topic": "0d2efcf9f503",
+   "display_name": "Trump's \"sick person\" post",
+   "rank": 14,
+   "post_count": 2210,
    "category": "politics",
    "started": "2026-10-23",
    "new": false
   },
   {
-   "topic": "ed1905f56c87",
-   "display_name": "Obama's Cheesecake Factory joke",
-   "rank": 18,
-   "post_count": 3123,
+   "topic": "181f93831aa0",
+   "display_name": "Brazil votes in presidential runoff",
+   "rank": 15,
+   "post_count": 16561,
    "category": "politics",
-   "started": "2026-10-24",
-   "new": true
-  },
-  {
-   "topic": "f2b49023ecb8",
-   "display_name": "Final Fantasy Resonance",
-   "rank": 19,
-   "post_count": 272,
-   "category": "entertainment",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "419227c4b2ac",
-   "display_name": "Sonic the Hedgehog fan creations",
-   "rank": 20,
-   "post_count": 3347,
-   "category": "entertainment",
    "started": "2026-10-21",
-   "new": false
-  },
-  {
-   "topic": "1cb716c90023",
-   "display_name": "Favorite Simpsons quotes",
-   "rank": 21,
-   "post_count": 6359,
-   "category": "entertainment",
-   "started": "2026-10-10",
-   "new": false
-  },
-  {
-   "topic": "1091498fba96",
-   "display_name": "Playing Deadlock",
-   "rank": 22,
-   "post_count": 8832,
-   "category": "entertainment",
-   "started": "2026-09-29",
-   "new": false
-  },
-  {
-   "topic": "05d016ea2a01",
-   "display_name": "'You Can See Everything' premieres",
-   "rank": 23,
-   "post_count": 10004,
-   "category": "entertainment",
-   "started": "2026-10-15",
    "new": false
   },
   {
    "topic": "8e6558d920a4",
    "display_name": "\"Liberals are the new racists\" ad",
-   "rank": 24,
-   "post_count": 2616,
+   "rank": 16,
+   "post_count": 2953,
    "category": "politics",
    "started": "2026-10-24",
    "new": false
   },
   {
+   "topic": "880e111c24d4",
+   "display_name": "Oxford Street goes traffic-free",
+   "rank": 17,
+   "post_count": 140,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "bf8f1620-d6de-43e6-b23f-80bd26c28462",
+   "display_name": "El-Sayed's viral town hall response",
+   "rank": 18,
+   "post_count": 12072,
+   "category": "politics",
+   "started": "2026-10-18",
+   "new": false
+  },
+  {
    "topic": "1817951e5646",
    "display_name": "Justice Department sues over Alaska race",
-   "rank": 25,
-   "post_count": 6189,
+   "rank": 19,
+   "post_count": 6482,
    "category": "politics",
    "started": "2026-10-22",
+   "new": false
+  },
+  {
+   "topic": "0b6d413afb1b",
+   "display_name": "FFXIV flight seatmate wheel spin",
+   "rank": 20,
+   "post_count": 508,
+   "category": "entertainment",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "8bc52074293b",
+   "display_name": "British Columbia provincial election",
+   "rank": 21,
+   "post_count": 35299,
+   "category": "politics",
+   "started": "2026-09-25",
+   "new": false
+  },
+  {
+   "topic": "37b7fd3205cb",
+   "display_name": "Canada responds to Trump's tariffs",
+   "rank": 22,
+   "post_count": 272,
+   "category": "politics",
+   "started": "2026-10-25",
+   "new": true
+  },
+  {
+   "topic": "1cb716c90023",
+   "display_name": "Favorite Simpsons quotes",
+   "rank": 23,
+   "post_count": 6494,
+   "category": "entertainment",
+   "started": "2026-10-10",
+   "new": false
+  },
+  {
+   "topic": "787e3e9b0174",
+   "display_name": "Police called on Black toddler at soccer",
+   "rank": 24,
+   "post_count": 785,
+   "category": "culture",
+   "started": "2026-10-25",
+   "new": true
+  },
+  {
+   "topic": "1bd34c21a6c6",
+   "display_name": "EA shuts down BioWare",
+   "rank": 25,
+   "post_count": 10384,
+   "category": "entertainment",
+   "started": "2026-10-21",
    "new": false
   }
  ],
@@ -610,11 +610,16 @@
   "2026-10-26": [
    "\"Liberals are the new racists\" ad",
    "'You Can See Everything' premieres",
+   "Art Spiegelman uses AI artwork",
    "Brazil votes in presidential runoff",
    "British Columbia provincial election",
+   "Canada responds to Trump's tariffs",
+   "Characters who seem like the same person",
    "Clayface hits theaters",
    "Clocks go back an hour in Europe",
+   "EA shuts down BioWare",
    "El-Sayed's viral town hall response",
+   "FFXIV flight seatmate wheel spin",
    "Favorite Simpsons quotes",
    "Final Fantasy Resonance",
    "Israel launches Hebron military operation",
@@ -624,13 +629,20 @@
    "Minaj floated as press secretary",
    "Musk admits restricting Ukraine's Starlink",
    "Obama's Cheesecake Factory joke",
+   "One-legged bird photo prompt",
+   "Oxford Street goes traffic-free",
    "Playing Deadlock",
    "Police called on Black toddler at soccer",
    "Push to vote early in US election",
+   "Reports of Eric Bauza's death",
    "Sonic the Hedgehog fan creations",
    "Spooky month stream schedules",
+   "Storm Boelo hits the UK",
    "Trump blames voters for possible losses",
+   "Trump's \"sick person\" post",
    "Trump's comments on men's looks",
+   "Trump's remarks on Husted, Nicki Minaj",
+   "Venues drop Ramaswamy bus tour stops",
    "Vučić and Serbian election",
    "iPhone Duo goes on sale"
   ]
