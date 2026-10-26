@@ -6,233 +6,233 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-26T11:27:48+00:00",
+ "retrieved_at": "2026-10-26T17:31:28+00:00",
  "date": "2026-10-26",
  "trends": [
   {
-   "topic": "45b5e8ff3a98",
-   "display_name": "Reports of Eric Bauza's death",
-   "rank": 1,
-   "post_count": 1762,
-   "category": "entertainment",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "c6b9ac1c94df",
-   "display_name": "Vučić and Serbian election",
-   "rank": 2,
-   "post_count": 3663,
-   "category": "politics",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "1f093ef18136",
-   "display_name": "Trump's remarks on Husted, Nicki Minaj",
-   "rank": 3,
-   "post_count": 10171,
-   "category": "politics",
-   "started": "2026-10-21",
-   "new": true
-  },
-  {
-   "topic": "58b562d979b8",
-   "display_name": "Musk admits restricting Ukraine's Starlink",
-   "rank": 4,
-   "post_count": 258131,
-   "category": "science-tech",
-   "started": "2026-09-16",
-   "new": false
-  },
-  {
    "topic": "5417c6b9b399",
    "display_name": "Spooky month stream schedules",
-   "rank": 5,
-   "post_count": 27673,
+   "rank": 1,
+   "post_count": 28657,
    "category": "entertainment",
    "started": "2026-09-24",
    "new": false
   },
   {
-   "topic": "bf9f4ba97dd6",
-   "display_name": "Marissa Mayer uses AI to describe daughter",
-   "rank": 6,
-   "post_count": 1272,
-   "category": "science-tech",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "7db70ce4c1b1",
-   "display_name": "Characters who seem like the same person",
-   "rank": 7,
-   "post_count": 147,
-   "category": "entertainment",
+   "topic": "61e8f2e29dd2",
+   "display_name": "Brazil's advice on ignoring far-right trolls",
+   "rank": 2,
+   "post_count": 785,
+   "category": "politics",
    "started": "2026-10-26",
    "new": true
   },
   {
-   "topic": "e1ea61866e5c",
-   "display_name": "Art Spiegelman uses AI artwork",
-   "rank": 8,
-   "post_count": 1277,
+   "topic": "0ea1085660e3",
+   "display_name": "Yglesias on caring about foreign elections",
+   "rank": 3,
+   "post_count": 382,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "d7b4f00ff755",
+   "display_name": "'Kinds of Bluesky users' meme",
+   "rank": 4,
+   "post_count": 628,
    "category": "culture",
-   "started": "2026-10-24",
-   "new": false
-  },
-  {
-   "topic": "d42821a0c937",
-   "display_name": "Storm Boelo hits the UK",
-   "rank": 9,
-   "post_count": 3813,
-   "category": "other",
-   "started": "2026-10-21",
-   "new": false
-  },
-  {
-   "topic": "56473f8b11dc",
-   "display_name": "One-legged bird photo prompt",
-   "rank": 10,
-   "post_count": 9107,
-   "category": "culture",
-   "started": "2026-10-06",
-   "new": true
-  },
-  {
-   "topic": "61bc81bfb286",
-   "display_name": "Venues drop Ramaswamy bus tour stops",
-   "rank": 11,
-   "post_count": 10181,
-   "category": "politics",
-   "started": "2026-10-21",
-   "new": false
-  },
-  {
-   "topic": "58c1f5de7858",
-   "display_name": "Trump blames voters for possible losses",
-   "rank": 12,
-   "post_count": 887,
-   "category": "politics",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "a478bd2b6a1b",
-   "display_name": "Push to vote early in US election",
-   "rank": 13,
-   "post_count": 46588,
-   "category": "politics",
-   "started": "2026-10-01",
-   "new": false
-  },
-  {
-   "topic": "0d2efcf9f503",
-   "display_name": "Trump's \"sick person\" post",
-   "rank": 14,
-   "post_count": 2210,
-   "category": "politics",
-   "started": "2026-10-23",
-   "new": false
-  },
-  {
-   "topic": "181f93831aa0",
-   "display_name": "Brazil votes in presidential runoff",
-   "rank": 15,
-   "post_count": 16561,
-   "category": "politics",
-   "started": "2026-10-21",
-   "new": false
-  },
-  {
-   "topic": "8e6558d920a4",
-   "display_name": "\"Liberals are the new racists\" ad",
-   "rank": 16,
-   "post_count": 2953,
-   "category": "politics",
-   "started": "2026-10-24",
-   "new": false
-  },
-  {
-   "topic": "880e111c24d4",
-   "display_name": "Oxford Street goes traffic-free",
-   "rank": 17,
-   "post_count": 140,
-   "category": "politics",
    "started": "2026-10-26",
    "new": true
   },
   {
-   "topic": "bf8f1620-d6de-43e6-b23f-80bd26c28462",
-   "display_name": "El-Sayed's viral town hall response",
-   "rank": 18,
-   "post_count": 12072,
-   "category": "politics",
-   "started": "2026-10-18",
-   "new": false
-  },
-  {
-   "topic": "1817951e5646",
-   "display_name": "Justice Department sues over Alaska race",
-   "rank": 19,
-   "post_count": 6482,
-   "category": "politics",
-   "started": "2026-10-22",
-   "new": false
-  },
-  {
-   "topic": "0b6d413afb1b",
-   "display_name": "FFXIV flight seatmate wheel spin",
-   "rank": 20,
-   "post_count": 508,
+   "topic": "419227c4b2ac",
+   "display_name": "Sonic the Hedgehog fan creations",
+   "rank": 5,
+   "post_count": 3823,
    "category": "entertainment",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "8bc52074293b",
-   "display_name": "British Columbia provincial election",
-   "rank": 21,
-   "post_count": 35299,
-   "category": "politics",
-   "started": "2026-09-25",
-   "new": false
-  },
-  {
-   "topic": "37b7fd3205cb",
-   "display_name": "Canada responds to Trump's tariffs",
-   "rank": 22,
-   "post_count": 272,
-   "category": "politics",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "1cb716c90023",
-   "display_name": "Favorite Simpsons quotes",
-   "rank": 23,
-   "post_count": 6494,
-   "category": "entertainment",
-   "started": "2026-10-10",
+   "started": "2026-10-21",
    "new": false
   },
   {
    "topic": "787e3e9b0174",
    "display_name": "Police called on Black toddler at soccer",
-   "rank": 24,
-   "post_count": 785,
+   "rank": 6,
+   "post_count": 1052,
    "category": "culture",
    "started": "2026-10-25",
    "new": true
   },
   {
-   "topic": "1bd34c21a6c6",
-   "display_name": "EA shuts down BioWare",
-   "rank": 25,
-   "post_count": 10384,
-   "category": "entertainment",
+   "topic": "2ca4c4509c8a",
+   "display_name": "Clocks go back an hour in Europe",
+   "rank": 7,
+   "post_count": 1464,
+   "category": "other",
+   "started": "2026-10-25",
+   "new": true
+  },
+  {
+   "topic": "1ac52268b10a",
+   "display_name": "iPhone Duo screen cracks reported",
+   "rank": 8,
+   "post_count": 2156,
+   "category": "science-tech",
    "started": "2026-10-21",
+   "new": true
+  },
+  {
+   "topic": "b9ea8c04b4a8",
+   "display_name": "Local fights over AI data centers",
+   "rank": 9,
+   "post_count": 739,
+   "category": "science-tech",
+   "started": "2026-10-25",
+   "new": true
+  },
+  {
+   "topic": "cb06390f169b",
+   "display_name": "AI agents praying for souls",
+   "rank": 10,
+   "post_count": 521,
+   "category": "culture",
+   "started": "2026-10-24",
+   "new": true
+  },
+  {
+   "topic": "58c1f5de7858",
+   "display_name": "Trump blames voters for possible losses",
+   "rank": 11,
+   "post_count": 1713,
+   "category": "politics",
+   "started": "2026-10-25",
+   "new": true
+  },
+  {
+   "topic": "622882930cc9",
+   "display_name": "Trump's stock trades outnumber Congress",
+   "rank": 12,
+   "post_count": 1426,
+   "category": "politics",
+   "started": "2026-10-23",
    "new": false
+  },
+  {
+   "topic": "1121cce2ecb7",
+   "display_name": "Trump-allied executives fear reckoning",
+   "rank": 13,
+   "post_count": 171,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "21cb2b9eac09",
+   "display_name": "Archbishop apologizes for Trump prayer",
+   "rank": 14,
+   "post_count": 976,
+   "category": "politics",
+   "started": "2026-10-24",
+   "new": true
+  },
+  {
+   "topic": "37b7fd3205cb",
+   "display_name": "Canada responds to Trump's tariffs",
+   "rank": 15,
+   "post_count": 473,
+   "category": "politics",
+   "started": "2026-10-25",
+   "new": true
+  },
+  {
+   "topic": "9cd53a7e0f1b",
+   "display_name": "Israeli treatment of Palestinians",
+   "rank": 16,
+   "post_count": 264,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "8e1815d1a28d",
+   "display_name": "Andy Burnham's EU, migration stance",
+   "rank": 17,
+   "post_count": 330,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "455aa61b52a0",
+   "display_name": "AIPAC ends candidate endorsements",
+   "rank": 18,
+   "post_count": 677,
+   "category": "politics",
+   "started": "2026-10-23",
+   "new": false
+  },
+  {
+   "topic": "73dfd69fbb49",
+   "display_name": "Apple unveils OLED iPad mini",
+   "rank": 19,
+   "post_count": 138,
+   "category": "science-tech",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "ef29a513d3fd",
+   "display_name": "House Democrats' Trump-Epstein report",
+   "rank": 20,
+   "post_count": 121,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "f4d22389c47e",
+   "display_name": "Walter Koenig dies at 90",
+   "rank": 21,
+   "post_count": 1398,
+   "category": "entertainment",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "1f093ef18136",
+   "display_name": "Trump's remarks on Husted, Nicki Minaj",
+   "rank": 22,
+   "post_count": 11015,
+   "category": "politics",
+   "started": "2026-10-21",
+   "new": true
+  },
+  {
+   "topic": "a478bd2b6a1b",
+   "display_name": "Push to vote early in US election",
+   "rank": 23,
+   "post_count": 47599,
+   "category": "politics",
+   "started": "2026-10-01",
+   "new": false
+  },
+  {
+   "topic": "d697d11b859a",
+   "display_name": "Anthropic files for IPO",
+   "rank": 24,
+   "post_count": 2913,
+   "category": "science-tech",
+   "started": "2026-10-20",
+   "new": true
+  },
+  {
+   "topic": "51be43db7128",
+   "display_name": "Maurene Comey firing lawsuit ruling",
+   "rank": 25,
+   "post_count": 232,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
   }
  ],
  "history": {
@@ -609,9 +609,17 @@
   ],
   "2026-10-26": [
    "\"Liberals are the new racists\" ad",
+   "'Kinds of Bluesky users' meme",
    "'You Can See Everything' premieres",
+   "AI agents praying for souls",
+   "AIPAC ends candidate endorsements",
+   "Andy Burnham's EU, migration stance",
+   "Anthropic files for IPO",
+   "Apple unveils OLED iPad mini",
+   "Archbishop apologizes for Trump prayer",
    "Art Spiegelman uses AI artwork",
    "Brazil votes in presidential runoff",
+   "Brazil's advice on ignoring far-right trolls",
    "British Columbia provincial election",
    "Canada responds to Trump's tariffs",
    "Characters who seem like the same person",
@@ -622,10 +630,14 @@
    "FFXIV flight seatmate wheel spin",
    "Favorite Simpsons quotes",
    "Final Fantasy Resonance",
+   "House Democrats' Trump-Epstein report",
    "Israel launches Hebron military operation",
+   "Israeli treatment of Palestinians",
    "Justice Department sues over Alaska race",
    "Letterboxd Friday recent watches",
+   "Local fights over AI data centers",
    "Marissa Mayer uses AI to describe daughter",
+   "Maurene Comey firing lawsuit ruling",
    "Minaj floated as press secretary",
    "Musk admits restricting Ukraine's Starlink",
    "Obama's Cheesecake Factory joke",
@@ -642,9 +654,14 @@
    "Trump's \"sick person\" post",
    "Trump's comments on men's looks",
    "Trump's remarks on Husted, Nicki Minaj",
+   "Trump's stock trades outnumber Congress",
+   "Trump-allied executives fear reckoning",
    "Venues drop Ramaswamy bus tour stops",
    "Vučić and Serbian election",
-   "iPhone Duo goes on sale"
+   "Walter Koenig dies at 90",
+   "Yglesias on caring about foreign elections",
+   "iPhone Duo goes on sale",
+   "iPhone Duo screen cracks reported"
   ]
  }
 }
