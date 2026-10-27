@@ -6,233 +6,233 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-27T01:36:08+00:00",
+ "retrieved_at": "2026-10-27T10:51:22+00:00",
  "date": "2026-10-27",
  "trends": [
   {
-   "topic": "ca8276188546",
-   "display_name": "RFK Jr.'s remarks about Arabs",
-   "rank": 1,
-   "post_count": 104,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "fd18b057d0ad",
-   "display_name": "Mississauga votes for new mayor",
-   "rank": 2,
-   "post_count": 216,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "419227c4b2ac",
-   "display_name": "Sonic the Hedgehog fan creations",
-   "rank": 3,
-   "post_count": 4456,
-   "category": "entertainment",
-   "started": "2026-10-21",
-   "new": false
-  },
-  {
-   "topic": "13c5e23e88c6",
-   "display_name": "Full moon photos",
-   "rank": 4,
-   "post_count": 220,
-   "category": "science-tech",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "6d14247b3707",
-   "display_name": "Fox's World Series broadcast",
-   "rank": 5,
-   "post_count": 236,
-   "category": "sports",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "3c138dee9e96",
-   "display_name": "Thunder lose Jalen Williams, Cason Wallace",
-   "rank": 6,
-   "post_count": 207,
-   "category": "sports",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "e3d486f85833",
-   "display_name": "Freddy Peralta faces former team Brewers",
-   "rank": 7,
-   "post_count": 206,
-   "category": "sports",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "5417c6b9b399",
-   "display_name": "Spooky month stream schedules",
-   "rank": 8,
-   "post_count": 30291,
-   "category": "entertainment",
-   "started": "2026-09-24",
-   "new": false
-  },
-  {
-   "topic": "d7b4f00ff755",
-   "display_name": "'Kinds of Bluesky users' meme",
-   "rank": 9,
-   "post_count": 1456,
-   "category": "culture",
-   "started": "2026-10-26",
-   "new": false
-  },
-  {
-   "topic": "f88ed544be51",
-   "display_name": "Letterboxd Friday recent watches",
-   "rank": 10,
-   "post_count": 4052,
-   "category": "entertainment",
-   "started": "2026-10-23",
-   "new": false
-  },
-  {
-   "topic": "21dac81347f9",
-   "display_name": "Trump insults Norway over Nobel",
-   "rank": 11,
-   "post_count": 232,
-   "category": "politics",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "4e6e59fb46b0",
-   "display_name": "Trump claims Soros pays protesters",
-   "rank": 12,
-   "post_count": 111,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
    "topic": "ed1905f56c87",
    "display_name": "Obama's Cheesecake Factory joke",
-   "rank": 13,
-   "post_count": 4851,
+   "rank": 1,
+   "post_count": 5475,
    "category": "politics",
    "started": "2026-10-24",
    "new": false
   },
   {
-   "topic": "ef29a513d3fd",
-   "display_name": "House Democrats' Trump-Epstein report",
-   "rank": 14,
-   "post_count": 1208,
+   "topic": "5f19c988d591",
+   "display_name": "Trump's 'freaking fortune' gas remark",
+   "rank": 2,
+   "post_count": 28018,
    "category": "politics",
+   "started": "2026-10-16",
+   "new": true
+  },
+  {
+   "topic": "5417c6b9b399",
+   "display_name": "Spooky month stream schedules",
+   "rank": 3,
+   "post_count": 30807,
+   "category": "entertainment",
+   "started": "2026-09-24",
+   "new": false
+  },
+  {
+   "topic": "8fafd5c2c8cb",
+   "display_name": "Microsoft offers buyouts to 60,000 employees",
+   "rank": 4,
+   "post_count": 917,
+   "category": "business",
    "started": "2026-10-26",
    "new": false
   },
   {
-   "topic": "1f093ef18136",
-   "display_name": "Trump on Obama's Cheesecake jab",
-   "rank": 15,
-   "post_count": 12640,
-   "category": "politics",
-   "started": "2026-10-21",
-   "new": true
-  },
-  {
-   "topic": "bf8f1620-d6de-43e6-b23f-80bd26c28462",
-   "display_name": "El-Sayed's viral town hall response",
-   "rank": 16,
-   "post_count": 13107,
-   "category": "politics",
-   "started": "2026-10-18",
+   "topic": "58b562d979b8",
+   "display_name": "Musk admits restricting Ukraine's Starlink",
+   "rank": 5,
+   "post_count": 265283,
+   "category": "science-tech",
+   "started": "2026-09-16",
    "new": false
   },
   {
-   "topic": "bdaed255d1a8",
-   "display_name": "WNBA Finals Game 6 tipoff",
-   "rank": 17,
-   "post_count": 257,
+   "topic": "d697d11b859a",
+   "display_name": "Anthropic files for IPO",
+   "rank": 6,
+   "post_count": 3765,
+   "category": "business",
+   "started": "2026-10-20",
+   "new": false
+  },
+  {
+   "topic": "7b73282a5e7c",
+   "display_name": "Harry Kane earns long-awaited honor",
+   "rank": 7,
+   "post_count": 834,
    "category": "sports",
    "started": "2026-10-26",
    "new": true
   },
   {
-   "topic": "0e29cc083290",
-   "display_name": "Texas votes in Talarico Senate race",
-   "rank": 18,
-   "post_count": 11585,
-   "category": "politics",
-   "started": "2026-10-20",
-   "new": true
-  },
-  {
-   "topic": "a478bd2b6a1b",
-   "display_name": "Push to vote early in US election",
-   "rank": 19,
-   "post_count": 48832,
-   "category": "politics",
-   "started": "2026-10-01",
+   "topic": "787e3e9b0174",
+   "display_name": "Police called on Black toddler at soccer",
+   "rank": 8,
+   "post_count": 1612,
+   "category": "culture",
+   "started": "2026-10-25",
    "new": false
   },
   {
-   "topic": "0d2efcf9f503",
-   "display_name": "Trump's rambling Bill Maher post",
-   "rank": 20,
-   "post_count": 3103,
+   "topic": "3823698e8a14",
+   "display_name": "Halloween trick-or-treating traditions",
+   "rank": 9,
+   "post_count": 472,
+   "category": "culture",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "52eb633e0488",
+   "display_name": "FFXIV isekai wolqotd prompt",
+   "rank": 10,
+   "post_count": 147,
+   "category": "entertainment",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "ca8276188546",
+   "display_name": "RFK Jr.'s remarks about Arabs",
+   "rank": 11,
+   "post_count": 2562,
    "category": "politics",
-   "started": "2026-10-23",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "1f093ef18136",
+   "display_name": "Trump on Obama's Cheesecake jab",
+   "rank": 12,
+   "post_count": 13146,
+   "category": "politics",
+   "started": "2026-10-21",
    "new": true
   },
   {
    "topic": "fdb8667d43a7",
    "display_name": "Trump calls renovation costs \"peanuts\"",
-   "rank": 21,
-   "post_count": 221,
+   "rank": 13,
+   "post_count": 582,
    "category": "politics",
    "started": "2026-10-27",
    "new": true
   },
   {
-   "topic": "b190661e8338",
-   "display_name": "Musk network funded Cornel West campaign",
-   "rank": 22,
-   "post_count": 413,
+   "topic": "8c7b49c8e834",
+   "display_name": "Police seize Flávio Bolsonaro's passport",
+   "rank": 14,
+   "post_count": 750,
    "category": "politics",
    "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "a478bd2b6a1b",
+   "display_name": "Push to vote early in US election",
+   "rank": 15,
+   "post_count": 49264,
+   "category": "politics",
+   "started": "2026-10-01",
    "new": false
-  },
-  {
-   "topic": "2879d1614861",
-   "display_name": "DOJ brings new Comey charges",
-   "rank": 23,
-   "post_count": 466,
-   "category": "politics",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "16570afc7b4f",
-   "display_name": "Trump praises Mississippi schools",
-   "rank": 24,
-   "post_count": 166,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
   },
   {
    "topic": "61e8f2e29dd2",
    "display_name": "Brazil's advice on ignoring far-right trolls",
-   "rank": 25,
-   "post_count": 1928,
+   "rank": 16,
+   "post_count": 2320,
    "category": "politics",
    "started": "2026-10-26",
    "new": false
+  },
+  {
+   "topic": "4e6e59fb46b0",
+   "display_name": "Trump claims Soros pays protesters",
+   "rank": 17,
+   "post_count": 500,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "bf8f1620-d6de-43e6-b23f-80bd26c28462",
+   "display_name": "El-Sayed's viral town hall response",
+   "rank": 18,
+   "post_count": 13404,
+   "category": "politics",
+   "started": "2026-10-18",
+   "new": false
+  },
+  {
+   "topic": "ef29a513d3fd",
+   "display_name": "House Democrats' Trump-Epstein report",
+   "rank": 19,
+   "post_count": 1696,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": false
+  },
+  {
+   "topic": "02616038cfa4",
+   "display_name": "BBC Radio 4 Today coverage",
+   "rank": 20,
+   "post_count": 233,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "b3359779b6f6",
+   "display_name": "Nicki Minaj campaigns for Trump",
+   "rank": 21,
+   "post_count": 271,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "21dac81347f9",
+   "display_name": "Trump insults Norway over Nobel",
+   "rank": 22,
+   "post_count": 631,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "a96c020af1ef",
+   "display_name": "Book alleges Kushner Gulf transfers",
+   "rank": 23,
+   "post_count": 3415,
+   "category": "politics",
+   "started": "2026-10-22",
+   "new": false
+  },
+  {
+   "topic": "cdb0886d3fd8",
+   "display_name": "JD Vance's record and past",
+   "rank": 24,
+   "post_count": 896,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": false
+  },
+  {
+   "topic": "90d1874e6eed",
+   "display_name": "JD Vance's \"Sexus\" slip",
+   "rank": 25,
+   "post_count": 362,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
   }
  ],
  "history": {
@@ -607,17 +607,30 @@
   ],
   "2026-10-27": [
    "'Kinds of Bluesky users' meme",
+   "Anthropic files for IPO",
+   "BBC Radio 4 Today coverage",
+   "Book alleges Kushner Gulf transfers",
    "Brazil's advice on ignoring far-right trolls",
    "DOJ brings new Comey charges",
    "El-Sayed's viral town hall response",
+   "FFXIV isekai wolqotd prompt",
    "Fox's World Series broadcast",
    "Freddy Peralta faces former team Brewers",
    "Full moon photos",
+   "Halloween trick-or-treating traditions",
+   "Harry Kane earns long-awaited honor",
    "House Democrats' Trump-Epstein report",
+   "JD Vance's \"Sexus\" slip",
+   "JD Vance's record and past",
    "Letterboxd Friday recent watches",
+   "Microsoft offers buyouts to 60,000 employees",
    "Mississauga votes for new mayor",
+   "Musk admits restricting Ukraine's Starlink",
    "Musk network funded Cornel West campaign",
+   "Nicki Minaj campaigns for Trump",
    "Obama's Cheesecake Factory joke",
+   "Police called on Black toddler at soccer",
+   "Police seize Flávio Bolsonaro's passport",
    "Push to vote early in US election",
    "RFK Jr.'s remarks about Arabs",
    "Sonic the Hedgehog fan creations",
@@ -629,6 +642,7 @@
    "Trump insults Norway over Nobel",
    "Trump on Obama's Cheesecake jab",
    "Trump praises Mississippi schools",
+   "Trump's 'freaking fortune' gas remark",
    "Trump's rambling Bill Maher post",
    "WNBA Finals Game 6 tipoff"
   ]
