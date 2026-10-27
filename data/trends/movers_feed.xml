@@ -5,8 +5,15 @@
     <link>https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html</link>
     <description>The Topic Explorer's daily movers list: which of the tracked UN-relevant topics are rising or falling in worldwide Wikipedia attention, published figures only. Decision support, not a measure of media coverage or public opinion.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:54:14 +0000</lastBuildDate>
     <atom:link href="https://shakcoder.github.io/UN-Media-Consumption-Map-/data/trends/movers_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic movers 2026-10-26: ChatGPT +184%, Cost of living +99%, United Nations General Assembly -72%</title>
+      <link>https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html</link>
+      <guid isPermaLink="false">atlas-movers-2026-10-26</guid>
+      <pubDate>Tue, 27 Oct 2026 21:54:14 +0000</pubDate>
+      <description>&lt;p&gt;&lt;b&gt;Topic movers, measured through 2026-10-26:&lt;/b&gt; attention in the 7 days to that date compared with the prior 30 days.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rising&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ChatGPT +184%&lt;/li&gt;&lt;li&gt;Cost of living +99%&lt;/li&gt;&lt;li&gt;Ebola +96%&lt;/li&gt;&lt;li&gt;Terrorism +76%&lt;/li&gt;&lt;li&gt;Debt relief +75%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Falling&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;United Nations General Assembly -72% (driven by English Wikipedia)&lt;/li&gt;&lt;li&gt;Renewable energy -61% (driven by Vietnamese Wikipedia)&lt;/li&gt;&lt;li&gt;International Criminal Court -54%&lt;/li&gt;&lt;li&gt;Digital divide -47% (driven by English Wikipedia)&lt;/li&gt;&lt;li&gt;Internet censorship -44% (driven by English Wikipedia)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;179 topics measured in 22 languages; 4 tracked topics could not be measured today (no current data, too little traffic, or quarantined as non-organic) and are excluded rather than scored from stale figures. Velocity is measured from Wikipedia reading patterns per language edition, volume-weighted: what people look up, not what media publish. Attention trends are decision support, never a measure of media coverage or public opinion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html"&gt;Open the Topic Explorer&lt;/a&gt; for detail, language breakdowns and custom date ranges.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Topic movers 2026-10-25: Cost of living +261%, ChatGPT +202%, United Nations General Assembly -73%</title>
       <link>https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">atlas-movers-2026-09-26</guid>
       <pubDate>Sun, 27 Sep 2026 21:00:34 +0000</pubDate>
       <description>&lt;p&gt;&lt;b&gt;Topic movers, measured through 2026-09-26:&lt;/b&gt; attention in the 7 days to that date compared with the prior 30 days.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rising&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;United Nations General Assembly +695%&lt;/li&gt;&lt;li&gt;Renewable energy +549%&lt;/li&gt;&lt;li&gt;Vocational education +331%&lt;/li&gt;&lt;li&gt;UNESCO +285%&lt;/li&gt;&lt;li&gt;United Nations +185%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Falling&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Debt relief -37% (driven by French Wikipedia)&lt;/li&gt;&lt;li&gt;Heat wave -36%&lt;/li&gt;&lt;li&gt;Ebola -33%&lt;/li&gt;&lt;li&gt;Earthquake -21%&lt;/li&gt;&lt;li&gt;Cancer -20%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;181 topics measured in 22 languages; 2 tracked topics could not be measured today (no current data, too little traffic, or quarantined as non-organic) and are excluded rather than scored from stale figures. Velocity is measured from Wikipedia reading patterns per language edition, volume-weighted: what people look up, not what media publish. Attention trends are decision support, never a measure of media coverage or public opinion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html"&gt;Open the Topic Explorer&lt;/a&gt; for detail, language breakdowns and custom date ranges.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Topic movers 2026-09-25: United Nations General Assembly +663%, Renewable energy +441%, Debt relief -45%</title>
-      <link>https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html</link>
-      <guid isPermaLink="false">atlas-movers-2026-09-25</guid>
-      <pubDate>Sat, 26 Sep 2026 20:27:59 +0000</pubDate>
-      <description>&lt;p&gt;&lt;b&gt;Topic movers, measured through 2026-09-25:&lt;/b&gt; attention in the 7 days to that date compared with the prior 30 days.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rising&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;United Nations General Assembly +663%&lt;/li&gt;&lt;li&gt;Renewable energy +441%&lt;/li&gt;&lt;li&gt;Vocational education +292%&lt;/li&gt;&lt;li&gt;UNESCO +232%&lt;/li&gt;&lt;li&gt;United Nations +153%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Falling&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Debt relief -45% (driven by French Wikipedia)&lt;/li&gt;&lt;li&gt;Heat wave -41%&lt;/li&gt;&lt;li&gt;Ebola -34%&lt;/li&gt;&lt;li&gt;Earthquake -25%&lt;/li&gt;&lt;li&gt;Facial recognition system -22% (driven by English Wikipedia)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;181 topics measured in 22 languages; 2 tracked topics could not be measured today (no current data, too little traffic, or quarantined as non-organic) and are excluded rather than scored from stale figures. Velocity is measured from Wikipedia reading patterns per language edition, volume-weighted: what people look up, not what media publish. Attention trends are decision support, never a measure of media coverage or public opinion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html"&gt;Open the Topic Explorer&lt;/a&gt; for detail, language breakdowns and custom date ranges.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
