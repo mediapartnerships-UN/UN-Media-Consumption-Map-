@@ -6,185 +6,167 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-28T17:15:26+00:00",
+ "retrieved_at": "2026-10-28T20:59:18+00:00",
  "date": "2026-10-28",
  "trends": [
   {
-   "topic": "d37e6a3b0ab2",
-   "display_name": "John Healey delivers first Budget",
+   "topic": "2799e9e30b58",
+   "display_name": "Four favorite movies",
    "rank": 1,
-   "post_count": 167,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": true
-  },
-  {
-   "topic": "b484971c19e5",
-   "display_name": "High-speed train crash reported in Spain",
-   "rank": 2,
-   "post_count": 429,
-   "category": "other",
-   "started": "2026-10-28",
-   "new": true
-  },
-  {
-   "topic": "d7b80bf70519",
-   "display_name": "UK to scrap gas standing charges",
-   "rank": 3,
-   "post_count": 203,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": true
-  },
-  {
-   "topic": "d697d11b859a",
-   "display_name": "Anthropic files for IPO",
-   "rank": 4,
-   "post_count": 4660,
-   "category": "business",
-   "started": "2026-10-20",
-   "new": false
-  },
-  {
-   "topic": "5417c6b9b399",
-   "display_name": "Spooky month stream schedules",
-   "rank": 5,
-   "post_count": 33287,
+   "post_count": 417,
    "category": "entertainment",
-   "started": "2026-09-24",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "fbe4bf120d02",
+   "display_name": "Trump's Arnold Palmer shower remarks",
+   "rank": 2,
+   "post_count": 119,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "ce60e3cf463b",
+   "display_name": "Mamdani favorability poll results",
+   "rank": 3,
+   "post_count": 113,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "1a1a54ae1071",
+   "display_name": "Valve addresses Steam AI cloning",
+   "rank": 4,
+   "post_count": 439,
+   "category": "science-tech",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "9a192281a97d",
+   "display_name": "Illan Meslier in penalty shootout",
+   "rank": 5,
+   "post_count": 735,
+   "category": "sports",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "342e53aa5161",
+   "display_name": "Star Wars prequels reception debate",
+   "rank": 6,
+   "post_count": 734,
+   "category": "entertainment",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "f88ed544be51",
+   "display_name": "Letterboxd Friday recent watches",
+   "rank": 7,
+   "post_count": 5349,
+   "category": "entertainment",
+   "started": "2026-10-23",
    "new": false
   },
   {
-   "topic": "26eca311ebb8",
-   "display_name": "Grok's AI-generated Odyssey clip",
-   "rank": 6,
-   "post_count": 1224,
+   "topic": "d4f3e0551544",
+   "display_name": "Google AI dodges 2020 winner",
+   "rank": 8,
+   "post_count": 199,
    "category": "science-tech",
-   "started": "2026-10-26",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "4c6d17c71b2d",
+   "display_name": "Apple unveils touchscreen MacBook Pro",
+   "rank": 9,
+   "post_count": 436,
+   "category": "science-tech",
+   "started": "2026-10-28",
    "new": true
   },
   {
    "topic": "9de471638bfa",
    "display_name": "Brewers vs. Rays, Game 4",
-   "rank": 7,
-   "post_count": 6146,
-   "category": "sports",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "aecb9e79ef84",
-   "display_name": "Pat McAfee's Utah GameDay remarks",
-   "rank": 8,
-   "post_count": 1220,
-   "category": "sports",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "f8e66d2ca342",
-   "display_name": "OpenAI releases GPT-6.1 Terra",
-   "rank": 9,
-   "post_count": 686,
-   "category": "science-tech",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "2ca4c4509c8a",
-   "display_name": "Clocks go back an hour in Europe",
    "rank": 10,
-   "post_count": 2266,
-   "category": "other",
-   "started": "2026-10-25",
-   "new": false
+   "post_count": 6280,
+   "category": "sports",
+   "started": "2026-10-26",
+   "new": true
   },
   {
-   "topic": "5c6d85bac079",
-   "display_name": "Serbian election",
+   "topic": "2d0307c454a2",
+   "display_name": "Russia, Ukraine trade drone strikes",
    "rank": 11,
-   "post_count": 776,
+   "post_count": 291,
    "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "7c3000863e6a",
-   "display_name": "US and Cuba clash at UN",
-   "rank": 12,
-   "post_count": 309,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "cdf4b65c1d52",
-   "display_name": "Trump's 'love the meat' comment",
-   "rank": 13,
-   "post_count": 2122,
-   "category": "politics",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "8c7b49c8e834",
-   "display_name": "Flávio Bolsonaro US travel",
-   "rank": 14,
-   "post_count": 6275,
-   "category": "politics",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "0e29cc083290",
-   "display_name": "Trump warns of Talarico win",
-   "rank": 15,
-   "post_count": 13627,
-   "category": "politics",
-   "started": "2026-10-20",
+   "started": "2026-10-28",
    "new": true
   },
   {
    "topic": "61e8f2e29dd2",
-   "display_name": "Trump on Brazil runoff",
-   "rank": 16,
-   "post_count": 7639,
+   "display_name": "Flávio Bolsonaro lands in Miami",
+   "rank": 12,
+   "post_count": 8211,
    "category": "politics",
    "started": "2026-10-26",
-   "new": false
+   "new": true
   },
   {
-   "topic": "035bd2c32628",
-   "display_name": "Bolsonaro reportedly heads to US",
+   "topic": "d5b528039dd2",
+   "display_name": "James O'Keefe charged in Minnesota",
+   "rank": 13,
+   "post_count": 364,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "1817951e5646",
+   "display_name": "Peltola allies recruit spoiler candidates",
+   "rank": 14,
+   "post_count": 10433,
+   "category": "politics",
+   "started": "2026-10-22",
+   "new": true
+  },
+  {
+   "topic": "5a7280544fdc",
+   "display_name": "ICE surveillance of left-wing activists",
+   "rank": 15,
+   "post_count": 176,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "438d3e9e180f",
+   "display_name": "Dolores Huerta dies at 96",
+   "rank": 16,
+   "post_count": 526,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "38f7f3815dc1",
+   "display_name": "DHS employee records leak",
    "rank": 17,
-   "post_count": 5119,
+   "post_count": 143,
    "category": "politics",
-   "started": "2026-10-27",
-   "new": false
+   "started": "2026-10-28",
+   "new": true
   },
   {
-   "topic": "455aa61b52a0",
-   "display_name": "Israel votes in national election",
+   "topic": "82a467da3a2c",
+   "display_name": "Murkowski endorses Democrat for governor",
    "rank": 18,
-   "post_count": 3069,
-   "category": "politics",
-   "started": "2026-10-23",
-   "new": true
-  },
-  {
-   "topic": "61de51a794fe",
-   "display_name": "Trump vows \"artificial intelligence\" ban",
-   "rank": 19,
-   "post_count": 1158,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "20db2b6d438b",
-   "display_name": "Trump says solar panels fry animals",
-   "rank": 20,
-   "post_count": 987,
+   "post_count": 165,
    "category": "politics",
    "started": "2026-10-28",
    "new": true
@@ -192,47 +174,65 @@
   {
    "topic": "a478bd2b6a1b",
    "display_name": "Push to vote early in US election",
-   "rank": 21,
-   "post_count": 52383,
+   "rank": 19,
+   "post_count": 52847,
    "category": "politics",
    "started": "2026-10-01",
    "new": false
   },
   {
-   "topic": "06e6e1a937f4",
-   "display_name": "Lessons from Brazil's presidential runoff",
-   "rank": 22,
-   "post_count": 1572,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "b190661e8338",
-   "display_name": "Musk's record political spending",
-   "rank": 23,
-   "post_count": 1802,
-   "category": "politics",
-   "started": "2026-10-26",
+   "topic": "5417c6b9b399",
+   "display_name": "Spooky month stream schedules",
+   "rank": 20,
+   "post_count": 33736,
+   "category": "entertainment",
+   "started": "2026-09-24",
    "new": false
   },
   {
-   "topic": "1f093ef18136",
-   "display_name": "Trump on Obama's Cheesecake jab",
-   "rank": 24,
-   "post_count": 15119,
+   "topic": "0e29cc083290",
+   "display_name": "Trump warns of Talarico win",
+   "rank": 21,
+   "post_count": 14000,
    "category": "politics",
+   "started": "2026-10-20",
+   "new": true
+  },
+  {
+   "topic": "1d2e4f6842d9",
+   "display_name": "Trump on accepting midterm results",
+   "rank": 22,
+   "post_count": 2818,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "455aa61b52a0",
+   "display_name": "Israel votes in national election",
+   "rank": 23,
+   "post_count": 3483,
+   "category": "politics",
+   "started": "2026-10-23",
+   "new": true
+  },
+  {
+   "topic": "1bd34c21a6c6",
+   "display_name": "EA shuts down BioWare",
+   "rank": 24,
+   "post_count": 12654,
+   "category": "entertainment",
    "started": "2026-10-21",
    "new": false
   },
   {
-   "topic": "7831cda60835",
-   "display_name": "Brazil probes foreign election financing",
+   "topic": "1cb716c90023",
+   "display_name": "Favorite Simpsons quotes",
    "rank": 25,
-   "post_count": 681,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
+   "post_count": 7547,
+   "category": "entertainment",
+   "started": "2026-10-10",
+   "new": false
   }
  ],
  "history": {
@@ -620,6 +620,7 @@
   "2026-10-28": [
    "Alex Pretti's parents demand justice",
    "Anthropic files for IPO",
+   "Apple unveils touchscreen MacBook Pro",
    "Bleach anime series finale",
    "Bluesky a band pun game",
    "Bolsonaro reportedly heads to US",
@@ -629,32 +630,47 @@
    "Brewers play World Series Game 4",
    "Brewers vs. Rays, Game 4",
    "Clocks go back an hour in Europe",
+   "DHS employee records leak",
+   "Dolores Huerta dies at 96",
    "EA shuts down BioWare",
    "El-Sayed vs. Rogers Senate poll",
+   "Favorite Simpsons quotes",
    "Final Fantasy Resonance",
    "Flávio Bolsonaro US travel",
+   "Flávio Bolsonaro lands in Miami",
+   "Four favorite movies",
+   "Google AI dodges 2020 winner",
    "Grok's AI-generated Odyssey clip",
    "Halloween trick-or-treating traditions",
    "Heckler shouts at Trump over ballroom",
    "High-speed train crash reported in Spain",
+   "ICE surveillance of left-wing activists",
+   "Illan Meslier in penalty shootout",
    "Iran war spreads to Saudi Arabia",
    "Israel election sees record turnout",
    "Israel votes in national election",
+   "James O'Keefe charged in Minnesota",
    "John Healey delivers first Budget",
    "John Smoltz's Brewers rally claim",
    "Kamala Harris opposes Trump impeachment push",
    "Ken Paxton mispronounces \"Christianity\"",
    "Lessons from Brazil's presidential runoff",
+   "Letterboxd Friday recent watches",
+   "Mamdani favorability poll results",
+   "Murkowski endorses Democrat for governor",
    "Musk's record political spending",
    "Mystery Skulls Animated finale releases",
    "NYT Cooking adds AI tools",
    "National Black Cat Day",
    "OpenAI releases GPT-6.1 Terra",
    "Pat McAfee's Utah GameDay remarks",
+   "Peltola allies recruit spoiler candidates",
    "Playing Deadlock",
    "Push to vote early in US election",
+   "Russia, Ukraine trade drone strikes",
    "Serbian election",
    "Spooky month stream schedules",
+   "Star Wars prequels reception debate",
    "Susan Collins fights for reelection",
    "Sweeney criticizes Steam AI disclosures",
    "Tlaib calls for Israel arms embargo",
@@ -667,10 +683,12 @@
    "Trump warns of Talarico win",
    "Trump weighs in on Canadian politics",
    "Trump's 'love the meat' comment",
+   "Trump's Arnold Palmer shower remarks",
    "Trump's windmill country claim",
    "UK to scrap gas standing charges",
    "US and Cuba clash at UN",
-   "US prepares possible Iran strikes"
+   "US prepares possible Iran strikes",
+   "Valve addresses Steam AI cloning"
   ]
  }
 }
