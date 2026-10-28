@@ -6,212 +6,104 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-28T01:33:44+00:00",
+ "retrieved_at": "2026-10-28T11:33:10+00:00",
  "date": "2026-10-28",
  "trends": [
   {
-   "topic": "cdf4b65c1d52",
-   "display_name": "Trump's 'love the meat' comment",
+   "topic": "d7b80bf70519",
+   "display_name": "UK to scrap gas standing charges",
    "rank": 1,
-   "post_count": 1023,
+   "post_count": 152,
    "category": "politics",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "37b7fd3205cb",
-   "display_name": "Trump weighs in on Canadian politics",
-   "rank": 2,
-   "post_count": 1553,
-   "category": "politics",
-   "started": "2026-10-25",
-   "new": true
-  },
-  {
-   "topic": "bf36eb0f6beb",
-   "display_name": "Mystery Skulls Animated finale releases",
-   "rank": 3,
-   "post_count": 246,
-   "category": "entertainment",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "f2b49023ecb8",
-   "display_name": "Final Fantasy Resonance",
-   "rank": 4,
-   "post_count": 1305,
-   "category": "entertainment",
-   "started": "2026-10-25",
-   "new": false
-  },
-  {
-   "topic": "5f60bb45a5d7",
-   "display_name": "Bleach anime series finale",
-   "rank": 5,
-   "post_count": 802,
-   "category": "entertainment",
-   "started": "2026-10-26",
-   "new": true
-  },
-  {
-   "topic": "297802f9d921",
-   "display_name": "Brandon Woodruff warms up in bullpen",
-   "rank": 6,
-   "post_count": 1214,
-   "category": "sports",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "aee5b952c6d1",
-   "display_name": "Bluesky a band pun game",
-   "rank": 7,
-   "post_count": 654,
-   "category": "culture",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "840f7e123728",
-   "display_name": "National Black Cat Day",
-   "rank": 8,
-   "post_count": 755,
-   "category": "culture",
-   "started": "2026-10-27",
-   "new": false
-  },
-  {
-   "topic": "3823698e8a14",
-   "display_name": "Halloween trick-or-treating traditions",
-   "rank": 9,
-   "post_count": 1267,
-   "category": "culture",
-   "started": "2026-10-26",
-   "new": false
-  },
-  {
-   "topic": "e3d486f85833",
-   "display_name": "Brewers play World Series Game 4",
-   "rank": 10,
-   "post_count": 1910,
-   "category": "sports",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "61de51a794fe",
-   "display_name": "Trump vows \"artificial intelligence\" ban",
-   "rank": 11,
-   "post_count": 713,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "1d2e4f6842d9",
-   "display_name": "Trump on accepting midterm results",
-   "rank": 12,
-   "post_count": 1714,
-   "category": "politics",
-   "started": "2026-10-26",
+   "started": "2026-10-28",
    "new": true
   },
   {
    "topic": "455aa61b52a0",
    "display_name": "Israel votes in national election",
-   "rank": 13,
-   "post_count": 1594,
+   "rank": 2,
+   "post_count": 2780,
    "category": "politics",
    "started": "2026-10-23",
    "new": true
   },
   {
-   "topic": "acd7fbf32ac1",
-   "display_name": "Ken Paxton mispronounces \"Christianity\"",
-   "rank": 14,
-   "post_count": 346,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "d115e35d88fd",
-   "display_name": "Trump speaks in Corpus Christi",
-   "rank": 15,
-   "post_count": 552,
-   "category": "politics",
-   "started": "2026-10-27",
-   "new": true
-  },
-  {
-   "topic": "bfeda1030791",
-   "display_name": "US prepares possible Iran strikes",
-   "rank": 16,
-   "post_count": 643,
-   "category": "politics",
+   "topic": "9de471638bfa",
+   "display_name": "Brewers vs. Rays, Game 4",
+   "rank": 3,
+   "post_count": 6045,
+   "category": "sports",
    "started": "2026-10-26",
    "new": true
   },
   {
-   "topic": "846b63174870",
-   "display_name": "Alex Pretti's parents demand justice",
-   "rank": 17,
-   "post_count": 261,
-   "category": "politics",
-   "started": "2026-10-27",
+   "topic": "31a55f40ca2b",
+   "display_name": "John Smoltz's Brewers rally claim",
+   "rank": 4,
+   "post_count": 1653,
+   "category": "sports",
+   "started": "2026-10-28",
    "new": true
   },
   {
-   "topic": "fd9633964c71",
-   "display_name": "Susan Collins fights for reelection",
-   "rank": 18,
-   "post_count": 296,
-   "category": "politics",
-   "started": "2026-10-27",
+   "topic": "b484971c19e5",
+   "display_name": "High-speed train crash reported in Spain",
+   "rank": 5,
+   "post_count": 261,
+   "category": "other",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "3823698e8a14",
+   "display_name": "Halloween trick-or-treating traditions",
+   "rank": 6,
+   "post_count": 1481,
+   "category": "culture",
+   "started": "2026-10-26",
    "new": false
   },
   {
-   "topic": "f66fa0185c9e",
-   "display_name": "Iran war spreads to Saudi Arabia",
-   "rank": 19,
-   "post_count": 120,
-   "category": "politics",
+   "topic": "3125574f3706",
+   "display_name": "NYT Cooking adds AI tools",
+   "rank": 7,
+   "post_count": 323,
+   "category": "science-tech",
    "started": "2026-10-27",
    "new": true
   },
   {
-   "topic": "20db2b6d438b",
-   "display_name": "Trump says solar panels fry animals",
-   "rank": 20,
-   "post_count": 249,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": true
+   "topic": "1bd34c21a6c6",
+   "display_name": "EA shuts down BioWare",
+   "rank": 8,
+   "post_count": 12462,
+   "category": "entertainment",
+   "started": "2026-10-21",
+   "new": false
   },
   {
-   "topic": "65adae1570c8",
-   "display_name": "Trump's windmill country claim",
-   "rank": 21,
-   "post_count": 187,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": true
+   "topic": "1091498fba96",
+   "display_name": "Playing Deadlock",
+   "rank": 9,
+   "post_count": 10020,
+   "category": "entertainment",
+   "started": "2026-09-29",
+   "new": false
   },
   {
-   "topic": "8222864f680e",
-   "display_name": "El-Sayed vs. Rogers Senate poll",
-   "rank": 22,
-   "post_count": 274,
-   "category": "politics",
+   "topic": "1a1a54ae1071",
+   "display_name": "Sweeney criticizes Steam AI disclosures",
+   "rank": 10,
+   "post_count": 301,
+   "category": "science-tech",
    "started": "2026-10-27",
    "new": true
   },
   {
    "topic": "8c7b49c8e834",
    "display_name": "Flávio Bolsonaro US travel",
-   "rank": 23,
-   "post_count": 4973,
+   "rank": 11,
+   "post_count": 6016,
    "category": "politics",
    "started": "2026-10-26",
    "new": true
@@ -219,8 +111,8 @@
   {
    "topic": "035bd2c32628",
    "display_name": "Bolsonaro reportedly heads to US",
-   "rank": 24,
-   "post_count": 3894,
+   "rank": 12,
+   "post_count": 4887,
    "category": "politics",
    "started": "2026-10-27",
    "new": false
@@ -228,11 +120,119 @@
   {
    "topic": "61e8f2e29dd2",
    "display_name": "Trump on Brazil runoff",
-   "rank": 25,
-   "post_count": 6314,
+   "rank": 13,
+   "post_count": 7389,
    "category": "politics",
    "started": "2026-10-26",
    "new": false
+  },
+  {
+   "topic": "7d37f31751af",
+   "display_name": "Bolsonaro's US entry without passport",
+   "rank": 14,
+   "post_count": 3057,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "06e6e1a937f4",
+   "display_name": "Lessons from Brazil's presidential runoff",
+   "rank": 15,
+   "post_count": 1396,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "1f093ef18136",
+   "display_name": "Trump on Obama's Cheesecake jab",
+   "rank": 16,
+   "post_count": 14977,
+   "category": "politics",
+   "started": "2026-10-21",
+   "new": false
+  },
+  {
+   "topic": "cdf4b65c1d52",
+   "display_name": "Trump's 'love the meat' comment",
+   "rank": 17,
+   "post_count": 1941,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "0e29cc083290",
+   "display_name": "Trump warns of Talarico win",
+   "rank": 18,
+   "post_count": 13422,
+   "category": "politics",
+   "started": "2026-10-20",
+   "new": true
+  },
+  {
+   "topic": "7222ecc33418",
+   "display_name": "Kamala Harris opposes Trump impeachment push",
+   "rank": 19,
+   "post_count": 2309,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "a8f77a8f21fd",
+   "display_name": "Israel election sees record turnout",
+   "rank": 20,
+   "post_count": 2973,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": false
+  },
+  {
+   "topic": "8048b1cea5ee",
+   "display_name": "Tlaib calls for Israel arms embargo",
+   "rank": 21,
+   "post_count": 475,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": false
+  },
+  {
+   "topic": "1d2e4f6842d9",
+   "display_name": "Trump on accepting midterm results",
+   "rank": 22,
+   "post_count": 2268,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "1c3cbf56edda",
+   "display_name": "Heckler shouts at Trump over ballroom",
+   "rank": 23,
+   "post_count": 2489,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "d115e35d88fd",
+   "display_name": "Trump speaks in Corpus Christi",
+   "rank": 24,
+   "post_count": 1014,
+   "category": "politics",
+   "started": "2026-10-27",
+   "new": true
+  },
+  {
+   "topic": "37b7fd3205cb",
+   "display_name": "Trump weighs in on Canadian politics",
+   "rank": 25,
+   "post_count": 2018,
+   "category": "politics",
+   "started": "2026-10-25",
+   "new": true
   }
  ],
  "history": {
@@ -622,26 +622,42 @@
    "Bleach anime series finale",
    "Bluesky a band pun game",
    "Bolsonaro reportedly heads to US",
+   "Bolsonaro's US entry without passport",
    "Brandon Woodruff warms up in bullpen",
    "Brewers play World Series Game 4",
+   "Brewers vs. Rays, Game 4",
+   "EA shuts down BioWare",
    "El-Sayed vs. Rogers Senate poll",
    "Final Fantasy Resonance",
    "Flávio Bolsonaro US travel",
    "Halloween trick-or-treating traditions",
+   "Heckler shouts at Trump over ballroom",
+   "High-speed train crash reported in Spain",
    "Iran war spreads to Saudi Arabia",
+   "Israel election sees record turnout",
    "Israel votes in national election",
+   "John Smoltz's Brewers rally claim",
+   "Kamala Harris opposes Trump impeachment push",
    "Ken Paxton mispronounces \"Christianity\"",
+   "Lessons from Brazil's presidential runoff",
    "Mystery Skulls Animated finale releases",
+   "NYT Cooking adds AI tools",
    "National Black Cat Day",
+   "Playing Deadlock",
    "Susan Collins fights for reelection",
+   "Sweeney criticizes Steam AI disclosures",
+   "Tlaib calls for Israel arms embargo",
    "Trump on Brazil runoff",
+   "Trump on Obama's Cheesecake jab",
    "Trump on accepting midterm results",
    "Trump says solar panels fry animals",
    "Trump speaks in Corpus Christi",
    "Trump vows \"artificial intelligence\" ban",
+   "Trump warns of Talarico win",
    "Trump weighs in on Canadian politics",
    "Trump's 'love the meat' comment",
    "Trump's windmill country claim",
+   "UK to scrap gas standing charges",
    "US prepares possible Iran strikes"
   ]
  }
