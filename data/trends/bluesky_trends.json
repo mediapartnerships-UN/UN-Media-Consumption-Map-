@@ -6,233 +6,233 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-31T16:14:16+00:00",
+ "retrieved_at": "2026-10-31T19:55:13+00:00",
  "date": "2026-10-31",
  "trends": [
   {
-   "topic": "3823698e8a14",
-   "display_name": "Halloween trick-or-treating traditions",
+   "topic": "5417c6b9b399",
+   "display_name": "Happy Halloween wishes",
    "rank": 1,
-   "post_count": 9563,
+   "post_count": 53130,
    "category": "culture",
-   "started": "2026-10-26",
-   "new": false
+   "started": "2026-09-24",
+   "new": true
   },
   {
-   "topic": "7a4fb3687b3b",
-   "display_name": "Soften up a horror film",
+   "topic": "d1a095d2a3c0",
+   "display_name": "Arrests at US embassy protest",
    "rank": 2,
-   "post_count": 112,
-   "category": "entertainment",
+   "post_count": 183,
+   "category": "politics",
    "started": "2026-10-31",
    "new": true
   },
   {
-   "topic": "5417c6b9b399",
-   "display_name": "Streamers host Halloween live streams",
+   "topic": "7a4fb3687b3b",
+   "display_name": "Soften up a horror film",
    "rank": 3,
-   "post_count": 39605,
+   "post_count": 2082,
    "category": "entertainment",
-   "started": "2026-09-24",
+   "started": "2026-10-31",
    "new": true
   },
   {
    "topic": "a478bd2b6a1b",
    "display_name": "Midterm elections days away",
    "rank": 4,
-   "post_count": 61054,
+   "post_count": 61964,
    "category": "politics",
    "started": "2026-10-01",
    "new": false
   },
   {
-   "topic": "b190661e8338",
-   "display_name": "Musk's record political spending",
-   "rank": 5,
-   "post_count": 5180,
-   "category": "politics",
-   "started": "2026-10-26",
-   "new": false
-  },
-  {
-   "topic": "0108681f8e72",
-   "display_name": "OpenAI CEO Sam Altman",
-   "rank": 6,
-   "post_count": 341,
-   "category": "science-tech",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
-   "topic": "8f0bd5156ab3",
-   "display_name": "AO3 outage extends to weeks",
-   "rank": 7,
-   "post_count": 4422,
-   "category": "culture",
-   "started": "2026-10-29",
-   "new": false
-  },
-  {
-   "topic": "81e1924a345d",
-   "display_name": "Daylight saving time ends Sunday",
-   "rank": 8,
-   "post_count": 1438,
-   "category": "other",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "86c60e769ba9",
-   "display_name": "FFXIV reveals Zephyr job",
-   "rank": 9,
-   "post_count": 188,
-   "category": "entertainment",
-   "started": "2026-10-31",
-   "new": true
-  },
-  {
-   "topic": "27eb500ebfa1",
-   "display_name": "Tech stocks fall after earnings",
-   "rank": 10,
-   "post_count": 1852,
-   "category": "business",
-   "started": "2026-10-30",
-   "new": false
-  },
-  {
-   "topic": "1817951e5646",
-   "display_name": "Peltola ballot-stacking allegations",
-   "rank": 11,
-   "post_count": 18237,
-   "category": "politics",
-   "started": "2026-10-22",
-   "new": false
-  },
-  {
-   "topic": "044181613706",
-   "display_name": "ICE observer tire video",
-   "rank": 12,
-   "post_count": 2166,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "5f60bb45a5d7",
-   "display_name": "Bleach anime series finale",
-   "rank": 13,
-   "post_count": 2311,
-   "category": "entertainment",
-   "started": "2026-10-26",
-   "new": false
-  },
-  {
-   "topic": "9185b2b5e9bb",
-   "display_name": "Nintendo airs Pikmin Day Direct",
-   "rank": 14,
-   "post_count": 142,
-   "category": "entertainment",
-   "started": "2026-10-31",
-   "new": true
-  },
-  {
-   "topic": "d9bcb5174f87",
-   "display_name": "Trump cuts US science research",
-   "rank": 15,
-   "post_count": 216,
-   "category": "politics",
-   "started": "2026-10-31",
-   "new": true
-  },
-  {
    "topic": "8a8472fc-55d4-431c-bc2f-ab0122a75665",
    "display_name": "Patrick Stewart dies",
-   "rank": 16,
-   "post_count": 201206,
+   "rank": 5,
+   "post_count": 201439,
    "category": "entertainment",
    "started": "2026-10-16",
    "new": false
   },
   {
+   "topic": "8f0bd5156ab3",
+   "display_name": "AO3 outage extends to weeks",
+   "rank": 6,
+   "post_count": 4521,
+   "category": "culture",
+   "started": "2026-10-29",
+   "new": false
+  },
+  {
+   "topic": "0108681f8e72",
+   "display_name": "OpenAI CEO Sam Altman",
+   "rank": 7,
+   "post_count": 485,
+   "category": "science-tech",
+   "started": "2026-10-30",
+   "new": true
+  },
+  {
+   "topic": "f2b49023ecb8",
+   "display_name": "Final Fantasy Resonance",
+   "rank": 8,
+   "post_count": 2608,
+   "category": "entertainment",
+   "started": "2026-10-25",
+   "new": false
+  },
+  {
+   "topic": "758b6f93c3ce",
+   "display_name": "Manchester United match under Carrick",
+   "rank": 9,
+   "post_count": 171,
+   "category": "sports",
+   "started": "2026-10-31",
+   "new": true
+  },
+  {
+   "topic": "d19ed9e781cd",
+   "display_name": "Oil industry's Iran war profits",
+   "rank": 10,
+   "post_count": 1708,
+   "category": "business",
+   "started": "2026-10-28",
+   "new": false
+  },
+  {
+   "topic": "c7191330e0bf",
+   "display_name": "California ballot challenge appeal",
+   "rank": 11,
+   "post_count": 3926,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": true
+  },
+  {
+   "topic": "044181613706",
+   "display_name": "North Hollywood ICE arrest video",
+   "rank": 12,
+   "post_count": 2300,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "1817951e5646",
+   "display_name": "Justice Department probes Alaska ballots",
+   "rank": 13,
+   "post_count": 18475,
+   "category": "politics",
+   "started": "2026-10-22",
+   "new": true
+  },
+  {
+   "topic": "c906b2630647",
+   "display_name": "Justice Department warns election officials",
+   "rank": 14,
+   "post_count": 2361,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
    "topic": "701c37d104d0",
    "display_name": "Michigan Senate candidates' partners feud",
-   "rank": 17,
-   "post_count": 785,
+   "rank": 15,
+   "post_count": 1056,
    "category": "politics",
    "started": "2026-10-30",
    "new": true
   },
   {
-   "topic": "5de93eba453e",
-   "display_name": "Sam Altman's home RAM comments",
+   "topic": "4e692d3af5c4",
+   "display_name": "Obamacare premiums rise again",
+   "rank": 16,
+   "post_count": 277,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": true
+  },
+  {
+   "topic": "fb875a5ea594",
+   "display_name": "Iran strikes damaged US bases",
+   "rank": 17,
+   "post_count": 139,
+   "category": "politics",
+   "started": "2026-10-31",
+   "new": true
+  },
+  {
+   "topic": "5f60bb45a5d7",
+   "display_name": "Bleach anime series finale",
    "rank": 18,
-   "post_count": 2243,
-   "category": "science-tech",
+   "post_count": 2387,
+   "category": "entertainment",
+   "started": "2026-10-26",
+   "new": false
+  },
+  {
+   "topic": "29c959ea8508",
+   "display_name": "Israel's war in Gaza",
+   "rank": 19,
+   "post_count": 649,
+   "category": "politics",
    "started": "2026-10-30",
    "new": false
   },
   {
    "topic": "c6a78ef9ea24",
    "display_name": "John Oliver on Republican far right",
-   "rank": 19,
-   "post_count": 2687,
+   "rank": 20,
+   "post_count": 2765,
    "category": "politics",
    "started": "2026-10-26",
    "new": false
   },
   {
-   "topic": "d19ed9e781cd",
-   "display_name": "Oil industry's Iran war profits",
-   "rank": 20,
-   "post_count": 1571,
-   "category": "business",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "8cb4ce165241",
-   "display_name": "Israeli election final results",
-   "rank": 21,
-   "post_count": 537,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": false
-  },
-  {
    "topic": "1091498fba96",
    "display_name": "Playing Deadlock",
-   "rank": 22,
-   "post_count": 10936,
+   "rank": 21,
+   "post_count": 10956,
    "category": "entertainment",
    "started": "2026-09-29",
    "new": false
   },
   {
-   "topic": "42fb1118d873",
-   "display_name": "Canada and EU launch alliance",
+   "topic": "56b8ae964ea9",
+   "display_name": "Lessons from Brazil's runoff election",
+   "rank": 22,
+   "post_count": 163,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": true
+  },
+  {
+   "topic": "a56eadca42c5",
+   "display_name": "Political fights over data centers",
    "rank": 23,
-   "post_count": 2035,
+   "post_count": 1274,
+   "category": "politics",
+   "started": "2026-10-29",
+   "new": false
+  },
+  {
+   "topic": "2d0307c454a2",
+   "display_name": "Russian drones hit Ukrainian cities",
+   "rank": 24,
+   "post_count": 2254,
    "category": "politics",
    "started": "2026-10-28",
    "new": false
   },
   {
-   "topic": "cbeceb297eac",
-   "display_name": "Apple's iPhone Duo reviews",
-   "rank": 24,
-   "post_count": 395,
-   "category": "science-tech",
-   "started": "2026-10-28",
-   "new": true
-  },
-  {
-   "topic": "c64f76582aea",
-   "display_name": "Police enter Poland's top court",
+   "topic": "81e1924a345d",
+   "display_name": "Daylight saving time ends Sunday",
    "rank": 25,
-   "post_count": 326,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": true
+   "post_count": 1641,
+   "category": "other",
+   "started": "2026-10-28",
+   "new": false
   }
  ],
  "history": {
@@ -639,8 +639,10 @@
    "AO3 outage extends to weeks",
    "Anthropic may get junk rating",
    "Apple's iPhone Duo reviews",
+   "Arrests at US embassy protest",
    "Birth year as Marvel character",
    "Bleach anime series finale",
+   "California ballot challenge appeal",
    "Canada and EU launch alliance",
    "Claude agent Pentagon network allegation",
    "DHS employee records leak",
@@ -648,20 +650,27 @@
    "Discord messages appear in Google",
    "EA picked Star Wars over BioWare",
    "FFXIV reveals Zephyr job",
+   "Final Fantasy Resonance",
    "Halloween trick-or-treating traditions",
+   "Happy Halloween wishes",
    "High-speed train crash reported in Spain",
    "ICE observer tire video",
+   "Iran strikes damaged US bases",
    "Israel's war in Gaza",
    "Israeli election final results",
    "John Oliver on Republican far right",
    "Jon Ossoff's trouser fit",
+   "Justice Department probes Alaska ballots",
    "Justice Department warns election officials",
+   "Lessons from Brazil's runoff election",
+   "Manchester United match under Carrick",
    "Michigan Senate candidates' partners feud",
    "Midterm elections days away",
    "Musk's record political spending",
    "NBC develops Gatsby police procedural",
    "Nikita Kucherov requests trade",
    "Nintendo airs Pikmin Day Direct",
+   "North Hollywood ICE arrest video",
    "Obamacare premiums rise again",
    "Oil industry's Iran war profits",
    "OpenAI CEO Sam Altman",
