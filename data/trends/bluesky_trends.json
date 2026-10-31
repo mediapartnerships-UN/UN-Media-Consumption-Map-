@@ -6,32 +6,14 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-10-31T01:45:31+00:00",
+ "retrieved_at": "2026-10-31T11:07:29+00:00",
  "date": "2026-10-31",
  "trends": [
   {
-   "topic": "c906b2630647",
-   "display_name": "Justice Department warns election officials",
-   "rank": 1,
-   "post_count": 1689,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": true
-  },
-  {
-   "topic": "fd1b694868e4",
-   "display_name": "Jon Ossoff's trouser fit",
-   "rank": 2,
-   "post_count": 450,
-   "category": "culture",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
    "topic": "3823698e8a14",
    "display_name": "Halloween trick-or-treating traditions",
-   "rank": 3,
-   "post_count": 5508,
+   "rank": 1,
+   "post_count": 6596,
    "category": "culture",
    "started": "2026-10-26",
    "new": false
@@ -39,199 +21,217 @@
   {
    "topic": "5de93eba453e",
    "display_name": "Sam Altman's home RAM comments",
-   "rank": 4,
-   "post_count": 1305,
+   "rank": 2,
+   "post_count": 1982,
    "category": "science-tech",
    "started": "2026-10-30",
    "new": false
   },
   {
-   "topic": "5417c6b9b399",
-   "display_name": "Spooky month stream schedules",
-   "rank": 5,
-   "post_count": 38891,
-   "category": "entertainment",
-   "started": "2026-09-24",
+   "topic": "c64f76582aea",
+   "display_name": "Police enter Poland's top court",
+   "rank": 3,
+   "post_count": 274,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": true
+  },
+  {
+   "topic": "2d0307c454a2",
+   "display_name": "Russian drones hit Ukrainian cities",
+   "rank": 4,
+   "post_count": 2041,
+   "category": "politics",
+   "started": "2026-10-28",
    "new": false
   },
   {
    "topic": "8a8472fc-55d4-431c-bc2f-ab0122a75665",
    "display_name": "Patrick Stewart dies",
-   "rank": 6,
-   "post_count": 200690,
+   "rank": 5,
+   "post_count": 200958,
    "category": "entertainment",
    "started": "2026-10-16",
    "new": false
   },
   {
-   "topic": "a478bd2b6a1b",
-   "display_name": "Midterm elections days away",
+   "topic": "5417c6b9b399",
+   "display_name": "Streamers host Halloween live streams",
+   "rank": 6,
+   "post_count": 39173,
+   "category": "entertainment",
+   "started": "2026-09-24",
+   "new": true
+  },
+  {
+   "topic": "75ea9cd73a96",
+   "display_name": "Reported $6.3 billion Binance hack",
    "rank": 7,
-   "post_count": 59607,
-   "category": "politics",
-   "started": "2026-10-01",
+   "post_count": 2399,
+   "category": "business",
+   "started": "2026-10-29",
    "new": false
   },
   {
-   "topic": "8f0bd5156ab3",
-   "display_name": "AO3 outage extends to weeks",
+   "topic": "abd76f38f979",
+   "display_name": "Claude agent Pentagon network allegation",
    "rank": 8,
-   "post_count": 4171,
-   "category": "culture",
+   "post_count": 366,
+   "category": "science-tech",
    "started": "2026-10-29",
-   "new": false
+   "new": true
   },
   {
    "topic": "d19ed9e781cd",
    "display_name": "Oil industry's Iran war profits",
    "rank": 9,
-   "post_count": 1341,
+   "post_count": 1461,
    "category": "business",
    "started": "2026-10-28",
    "new": false
   },
   {
-   "topic": "4651141faebf",
-   "display_name": "NBC develops Gatsby police procedural",
+   "topic": "74eb3c5ca94e",
+   "display_name": "Birth year as Marvel character",
    "rank": 10,
-   "post_count": 950,
+   "post_count": 333,
    "category": "entertainment",
+   "started": "2026-10-29",
+   "new": true
+  },
+  {
+   "topic": "8adda3af0a6a",
+   "display_name": "US cancels G20 group photo",
+   "rank": 11,
+   "post_count": 225,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": true
+  },
+  {
+   "topic": "1d2e4f6842d9",
+   "display_name": "Trump on accepting midterm results",
+   "rank": 12,
+   "post_count": 6381,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": false
+  },
+  {
+   "topic": "42fb1118d873",
+   "display_name": "Canada and EU launch alliance",
+   "rank": 13,
+   "post_count": 1952,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": false
+  },
+  {
+   "topic": "a478bd2b6a1b",
+   "display_name": "Midterm elections days away",
+   "rank": 14,
+   "post_count": 60080,
+   "category": "politics",
+   "started": "2026-10-01",
+   "new": false
+  },
+  {
+   "topic": "29c959ea8508",
+   "display_name": "Israel's war in Gaza",
+   "rank": 15,
+   "post_count": 541,
+   "category": "politics",
    "started": "2026-10-30",
    "new": false
   },
   {
+   "topic": "3d8249712a1e",
+   "display_name": "Trans voters reluctantly back Democrats",
+   "rank": 16,
+   "post_count": 2691,
+   "category": "politics",
+   "started": "2026-10-25",
+   "new": false
+  },
+  {
+   "topic": "5a7280544fdc",
+   "display_name": "DHS employee records leak",
+   "rank": 17,
+   "post_count": 4291,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": false
+  },
+  {
+   "topic": "c906b2630647",
+   "display_name": "Justice Department warns election officials",
+   "rank": 18,
+   "post_count": 1997,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "89755b318515",
+   "display_name": "Discord messages appear in Google",
+   "rank": 19,
+   "post_count": 583,
+   "category": "science-tech",
+   "started": "2026-10-28",
+   "new": true
+  },
+  {
+   "topic": "75e5be2a0776",
+   "display_name": "US approves Ukraine Patriot sale",
+   "rank": 20,
+   "post_count": 187,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": true
+  },
+  {
    "topic": "1817951e5646",
    "display_name": "Peltola ballot-stacking allegations",
-   "rank": 11,
-   "post_count": 17772,
+   "rank": 21,
+   "post_count": 17891,
    "category": "politics",
    "started": "2026-10-22",
    "new": false
   },
   {
-   "topic": "4e692d3af5c4",
-   "display_name": "Obamacare premiums rise again",
-   "rank": 12,
-   "post_count": 185,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
-   "topic": "044181613706",
-   "display_name": "ICE observer tire video",
-   "rank": 13,
-   "post_count": 1765,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "5f60bb45a5d7",
-   "display_name": "Bleach anime series finale",
-   "rank": 14,
-   "post_count": 2075,
+   "topic": "81147c9022c9",
+   "display_name": "Rockstar releases GTA VI trailer",
+   "rank": 22,
+   "post_count": 4866,
    "category": "entertainment",
-   "started": "2026-10-26",
-   "new": false
-  },
-  {
-   "topic": "c64f76582aea",
-   "display_name": "Police enter Poland's top court",
-   "rank": 15,
-   "post_count": 167,
-   "category": "politics",
-   "started": "2026-10-30",
+   "started": "2026-10-10",
    "new": true
   },
   {
-   "topic": "29c959ea8508",
-   "display_name": "Israel's war in Gaza",
-   "rank": 16,
-   "post_count": 392,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": false
-  },
-  {
-   "topic": "701c37d104d0",
-   "display_name": "Michigan Senate candidates' partners feud",
-   "rank": 17,
-   "post_count": 285,
-   "category": "politics",
-   "started": "2026-10-30",
+   "topic": "1a4aadecf9bb",
+   "display_name": "Anthropic may get junk rating",
+   "rank": 23,
+   "post_count": 587,
+   "category": "business",
+   "started": "2026-10-28",
    "new": true
   },
   {
-   "topic": "8e034b7eb868",
-   "display_name": "Nikita Kucherov requests trade",
-   "rank": 18,
-   "post_count": 171,
-   "category": "sports",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
-   "topic": "61bc81bfb286",
-   "display_name": "Ramaswamy pulls Acton attack ad",
-   "rank": 19,
-   "post_count": 12490,
-   "category": "politics",
+   "topic": "1bd34c21a6c6",
+   "display_name": "EA picked Star Wars over BioWare",
+   "rank": 24,
+   "post_count": 14264,
+   "category": "entertainment",
    "started": "2026-10-21",
    "new": true
   },
   {
-   "topic": "a56eadca42c5",
-   "display_name": "Political fights over data centers",
-   "rank": 20,
-   "post_count": 1059,
-   "category": "politics",
-   "started": "2026-10-29",
-   "new": false
-  },
-  {
-   "topic": "8adda3af0a6a",
-   "display_name": "US cancels G20 group photo",
-   "rank": 21,
-   "post_count": 162,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
-   "topic": "3fade8389fe8",
-   "display_name": "Strait of Hormuz vessel fire",
-   "rank": 22,
-   "post_count": 242,
-   "category": "politics",
-   "started": "2026-10-29",
-   "new": true
-  },
-  {
-   "topic": "033b4e635ed8",
-   "display_name": "Pentagon declines Starlink Ukraine probe",
-   "rank": 23,
-   "post_count": 457,
-   "category": "politics",
-   "started": "2026-10-29",
-   "new": true
-  },
-  {
-   "topic": "b484971c19e5",
-   "display_name": "High-speed train crash reported in Spain",
-   "rank": 24,
-   "post_count": 1140,
-   "category": "other",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "75ea9cd73a96",
-   "display_name": "Reported $6.3 billion Binance hack",
+   "topic": "27eb500ebfa1",
+   "display_name": "Tech stocks fall after earnings",
    "rank": 25,
-   "post_count": 2296,
+   "post_count": 1774,
    "category": "business",
-   "started": "2026-10-29",
+   "started": "2026-10-30",
    "new": false
   }
  ],
@@ -637,7 +637,14 @@
   ],
   "2026-10-31": [
    "AO3 outage extends to weeks",
+   "Anthropic may get junk rating",
+   "Birth year as Marvel character",
    "Bleach anime series finale",
+   "Canada and EU launch alliance",
+   "Claude agent Pentagon network allegation",
+   "DHS employee records leak",
+   "Discord messages appear in Google",
+   "EA picked Star Wars over BioWare",
    "Halloween trick-or-treating traditions",
    "High-speed train crash reported in Spain",
    "ICE observer tire video",
@@ -657,9 +664,16 @@
    "Political fights over data centers",
    "Ramaswamy pulls Acton attack ad",
    "Reported $6.3 billion Binance hack",
+   "Rockstar releases GTA VI trailer",
+   "Russian drones hit Ukrainian cities",
    "Sam Altman's home RAM comments",
    "Spooky month stream schedules",
    "Strait of Hormuz vessel fire",
+   "Streamers host Halloween live streams",
+   "Tech stocks fall after earnings",
+   "Trans voters reluctantly back Democrats",
+   "Trump on accepting midterm results",
+   "US approves Ukraine Patriot sale",
    "US cancels G20 group photo"
   ]
  }
