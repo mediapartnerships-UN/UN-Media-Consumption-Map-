@@ -6,148 +6,140 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-03T03:36:16+00:00",
+ "retrieved_at": "2026-11-03T12:58:59+00:00",
  "date": "2026-11-03",
  "trends": [
   {
-   "topic": "dfade489b6f4",
+   "topic": "d19ed9e781cd",
    "display_name": "US strikes Iran's Qeshm Island",
    "rank": 1,
-   "post_count": 330,
+   "post_count": 2781,
    "category": "politics",
-   "started": "2026-11-02",
-   "new": true
-  },
-  {
-   "topic": "4d25c025-ac46-4119-852c-135bff4c26e7",
-   "display_name": "Midterms 2026 preview",
-   "rank": 2,
-   "post_count": 145,
-   "started": "2026-11-02",
-   "new": false
-  },
-  {
-   "topic": "5fe1eb128bae",
-   "display_name": "California billionaire wealth tax",
-   "rank": 3,
-   "post_count": 284,
-   "category": "politics",
-   "started": "2026-11-02",
-   "new": true
-  },
-  {
-   "topic": "a38b5c0954ce",
-   "display_name": "Viral Darth Vader and Balrog post",
-   "rank": 4,
-   "post_count": 229,
-   "category": "culture",
-   "started": "2026-11-03",
+   "started": "2026-10-28",
    "new": true
   },
   {
    "topic": "77ebd10af54e",
    "display_name": "Right-wing Anakin Skywalker posting",
-   "rank": 5,
-   "post_count": 1277,
+   "rank": 2,
+   "post_count": 1424,
    "category": "culture",
    "started": "2026-11-01",
    "new": false
   },
   {
-   "topic": "09a017d70271",
-   "display_name": "Dancing with the Stars new episode",
-   "rank": 6,
-   "post_count": 133,
-   "category": "entertainment",
-   "started": "2026-11-03",
-   "new": true
-  },
-  {
    "topic": "81e1924a345d",
    "display_name": "Daylight saving time",
-   "rank": 7,
-   "post_count": 8454,
+   "rank": 3,
+   "post_count": 8676,
    "category": "other",
    "started": "2026-10-28",
    "new": false
   },
   {
-   "topic": "f1499cbdfac2",
-   "display_name": "Zelda: Ocarina of Time remake",
-   "rank": 8,
-   "post_count": 401,
-   "category": "entertainment",
-   "started": "2026-11-02",
-   "new": false
-  },
-  {
-   "topic": "2b6de2a574e9",
-   "display_name": "Songs over six minutes long",
-   "rank": 9,
-   "post_count": 3816,
-   "category": "entertainment",
-   "started": "2026-11-02",
-   "new": false
-  },
-  {
-   "topic": "75ea9cd73a96",
-   "display_name": "FBI attribution in Binance hack",
-   "rank": 10,
-   "post_count": 3084,
-   "category": "business",
-   "started": "2026-10-29",
-   "new": false
-  },
-  {
-   "topic": "155c64c8f4d7",
-   "display_name": "Halloween weekend shootings across US",
-   "rank": 11,
-   "post_count": 275,
-   "category": "other",
-   "started": "2026-11-01",
-   "new": false
-  },
-  {
-   "topic": "701c37d104d0",
-   "display_name": "Haley Stevens endorses Mike Rogers",
-   "rank": 12,
-   "post_count": 9962,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
-   "topic": "9a08bcad732c",
-   "display_name": "Haley Stevens compared to Fetterman",
-   "rank": 13,
-   "post_count": 8703,
-   "category": "politics",
-   "started": "2026-11-01",
-   "new": false
-  },
-  {
    "topic": "a478bd2b6a1b",
    "display_name": "Midterm campaigns enter final days",
-   "rank": 14,
-   "post_count": 68932,
+   "rank": 4,
+   "post_count": 69044,
    "category": "politics",
    "started": "2026-10-01",
    "new": false
   },
   {
+   "topic": "afe949efb622",
+   "display_name": "European supermarket freezers hacked",
+   "rank": 5,
+   "post_count": 1529,
+   "category": "science-tech",
+   "started": "2026-11-02",
+   "new": false
+  },
+  {
+   "topic": "f54b158fffe6",
+   "display_name": "Apple reports Ternus's first earnings",
+   "rank": 6,
+   "post_count": 110,
+   "category": "business",
+   "started": "2026-11-02",
+   "new": true
+  },
+  {
+   "topic": "8f0bd5156ab3",
+   "display_name": "AO3 outage extends to weeks",
+   "rank": 7,
+   "post_count": 5915,
+   "category": "culture",
+   "started": "2026-10-29",
+   "new": false
+  },
+  {
+   "topic": "d723b175679d",
+   "display_name": "Nintendo Switch 2 games",
+   "rank": 8,
+   "post_count": 591,
+   "category": "entertainment",
+   "started": "2026-10-30",
+   "new": false
+  },
+  {
+   "topic": "75ea9cd73a96",
+   "display_name": "FBI attribution in Binance hack",
+   "rank": 9,
+   "post_count": 3129,
+   "category": "business",
+   "started": "2026-10-29",
+   "new": false
+  },
+  {
+   "topic": "98430a54e31f",
+   "display_name": "Half of new Steam games use AI",
+   "rank": 10,
+   "post_count": 116,
+   "category": "science-tech",
+   "started": "2026-11-02",
+   "new": true
+  },
+  {
+   "topic": "a56eadca42c5",
+   "display_name": "Political fights over data centers",
+   "rank": 11,
+   "post_count": 2196,
+   "category": "politics",
+   "started": "2026-10-29",
+   "new": false
+  },
+  {
    "topic": "b190661e8338",
    "display_name": "Trump offers Musk preemptive pardon",
-   "rank": 15,
-   "post_count": 7486,
+   "rank": 12,
+   "post_count": 7609,
    "category": "politics",
    "started": "2026-10-26",
    "new": false
   },
   {
-   "topic": "41ea77b1aa0b",
-   "display_name": "Supreme Court voter roll case",
-   "rank": 16,
-   "post_count": 1660,
+   "topic": "29c959ea8508",
+   "display_name": "Israel's war in Gaza",
+   "rank": 13,
+   "post_count": 1682,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": false
+  },
+  {
+   "topic": "9a08bcad732c",
+   "display_name": "Haley Stevens compared to Fetterman",
+   "rank": 14,
+   "post_count": 9024,
+   "category": "politics",
+   "started": "2026-11-01",
+   "new": false
+  },
+  {
+   "topic": "b94108c18b38",
+   "display_name": "UK plans tighter permanent residency rules",
+   "rank": 15,
+   "post_count": 1195,
    "category": "politics",
    "started": "2026-11-02",
    "new": false
@@ -155,35 +147,35 @@
   {
    "topic": "c3936c223fd9",
    "display_name": "Abdul El-Sayed's Michigan Senate run",
-   "rank": 17,
-   "post_count": 3368,
+   "rank": 16,
+   "post_count": 3490,
    "category": "politics",
    "started": "2026-11-01",
    "new": false
   },
   {
-   "topic": "29c959ea8508",
-   "display_name": "Israel's war in Gaza",
-   "rank": 18,
-   "post_count": 1565,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": false
-  },
-  {
-   "topic": "b2ddbb1c60f0",
-   "display_name": "Trump: Canada can't survive alone",
-   "rank": 19,
-   "post_count": 144,
+   "topic": "d77193d6670c",
+   "display_name": "US pushes Russia-Ukraine energy truce",
+   "rank": 17,
+   "post_count": 124,
    "category": "politics",
    "started": "2026-11-02",
    "new": true
   },
   {
-   "topic": "00b6ddc12a4d",
-   "display_name": "Ken Paxton's Texas Senate race",
-   "rank": 20,
-   "post_count": 151,
+   "topic": "0d4d474a3759",
+   "display_name": "Deaths in ICE detention",
+   "rank": 18,
+   "post_count": 279,
+   "category": "politics",
+   "started": "2026-11-02",
+   "new": false
+  },
+  {
+   "topic": "8b0d2b1a54cd",
+   "display_name": "Israel's post-election coalition talks",
+   "rank": 19,
+   "post_count": 130,
    "category": "politics",
    "started": "2026-11-02",
    "new": true
@@ -191,46 +183,55 @@
   {
    "topic": "94bfa7a9ee84",
    "display_name": "Don Jr. campaigns in Ohio",
+   "rank": 20,
+   "post_count": 876,
+   "category": "politics",
+   "started": "2026-11-02",
+   "new": false
+  },
+  {
+   "topic": "42fb1118d873",
+   "display_name": "Canada and EU launch alliance",
    "rank": 21,
-   "post_count": 832,
+   "post_count": 2496,
    "category": "politics",
-   "started": "2026-11-02",
+   "started": "2026-10-28",
    "new": false
   },
   {
-   "topic": "8f0bd5156ab3",
-   "display_name": "AO3 outage extends to weeks",
+   "topic": "5fe1eb128bae",
+   "display_name": "California billionaire wealth tax",
    "rank": 22,
-   "post_count": 5813,
-   "category": "culture",
-   "started": "2026-10-29",
-   "new": false
-  },
-  {
-   "topic": "afe949efb622",
-   "display_name": "European supermarket freezers hacked",
-   "rank": 23,
-   "post_count": 1355,
-   "category": "science-tech",
-   "started": "2026-11-02",
-   "new": false
-  },
-  {
-   "topic": "99bba3a4306a",
-   "display_name": "Canadian provinces skip clock change",
-   "rank": 24,
-   "post_count": 467,
-   "category": "other",
-   "started": "2026-11-01",
-   "new": false
-  },
-  {
-   "topic": "6ffc5e596bdf",
-   "display_name": "Alberta conservatives and gerrymandering",
-   "rank": 25,
-   "post_count": 149,
+   "post_count": 473,
    "category": "politics",
    "started": "2026-11-02",
+   "new": true
+  },
+  {
+   "topic": "41ea77b1aa0b",
+   "display_name": "Supreme Court voter roll case",
+   "rank": 23,
+   "post_count": 1759,
+   "category": "politics",
+   "started": "2026-11-02",
+   "new": false
+  },
+  {
+   "topic": "701c37d104d0",
+   "display_name": "Haley Stevens endorses Mike Rogers",
+   "rank": 24,
+   "post_count": 10042,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": true
+  },
+  {
+   "topic": "172a60b900d1",
+   "display_name": "Calls to release Epstein files",
+   "rank": 25,
+   "post_count": 202,
+   "category": "politics",
+   "started": "2026-11-01",
    "new": true
   }
  ],
@@ -636,25 +637,35 @@
    "AO3 outage extends to weeks",
    "Abdul El-Sayed's Michigan Senate run",
    "Alberta conservatives and gerrymandering",
+   "Apple reports Ternus's first earnings",
    "California billionaire wealth tax",
+   "Calls to release Epstein files",
+   "Canada and EU launch alliance",
    "Canadian provinces skip clock change",
    "Dancing with the Stars new episode",
    "Daylight saving time",
+   "Deaths in ICE detention",
    "Don Jr. campaigns in Ohio",
    "European supermarket freezers hacked",
    "FBI attribution in Binance hack",
    "Haley Stevens compared to Fetterman",
    "Haley Stevens endorses Mike Rogers",
+   "Half of new Steam games use AI",
    "Halloween weekend shootings across US",
+   "Israel's post-election coalition talks",
    "Israel's war in Gaza",
    "Ken Paxton's Texas Senate race",
    "Midterm campaigns enter final days",
    "Midterms 2026 preview",
+   "Nintendo Switch 2 games",
+   "Political fights over data centers",
    "Right-wing Anakin Skywalker posting",
    "Songs over six minutes long",
    "Supreme Court voter roll case",
    "Trump offers Musk preemptive pardon",
    "Trump: Canada can't survive alone",
+   "UK plans tighter permanent residency rules",
+   "US pushes Russia-Ukraine energy truce",
    "US strikes Iran's Qeshm Island",
    "Viral Darth Vader and Balrog post",
    "Zelda: Ocarina of Time remake"
