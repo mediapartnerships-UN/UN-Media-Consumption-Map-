@@ -6,212 +6,212 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-05T02:41:18+00:00",
+ "retrieved_at": "2026-11-05T13:28:04+00:00",
  "date": "2026-11-05",
  "trends": [
   {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake reviews",
+   "topic": "abcfbe858397",
+   "display_name": "Southern states voting data",
    "rank": 1,
-   "post_count": 1055,
+   "post_count": 528,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": true
+  },
+  {
+   "topic": "8035f174f0bf",
+   "display_name": "Chef fired over pineapple pizza",
+   "rank": 2,
+   "post_count": 184,
+   "category": "culture",
+   "started": "2026-11-05",
+   "new": true
+  },
+  {
+   "topic": "7ea113d5ba1a",
+   "display_name": "World of Warcraft: Forever launches",
+   "rank": 3,
+   "post_count": 180,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": true
+  },
+  {
+   "topic": "b9b5fa84b6f8",
+   "display_name": "Guy Fawkes Night celebrations",
+   "rank": 4,
+   "post_count": 205,
+   "category": "culture",
+   "started": "2026-11-05",
+   "new": true
+  },
+  {
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake release day",
+   "rank": 5,
+   "post_count": 1823,
    "category": "entertainment",
    "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "046b9951a23c",
-   "display_name": "Early 2028 election speculation",
-   "rank": 2,
-   "post_count": 193,
-   "category": "politics",
-   "started": "2026-11-04",
    "new": true
   },
   {
-   "topic": "ae9862391a0b",
-   "display_name": "Bluesky adds pronouns to profiles",
-   "rank": 3,
-   "post_count": 1171,
+   "topic": "77cccde8eca8",
+   "display_name": "Bank of England rate decision",
+   "rank": 6,
+   "post_count": 108,
+   "category": "business",
+   "started": "2026-11-05",
+   "new": true
+  },
+  {
+   "topic": "1339e42f9376",
+   "display_name": "LAPD union warns about Nithya Raman",
+   "rank": 7,
+   "post_count": 135,
+   "category": "politics",
+   "started": "2026-11-05",
+   "new": true
+  },
+  {
+   "topic": "82b11ef28b78",
+   "display_name": "Bluesky traffic surges to double",
+   "rank": 8,
+   "post_count": 481,
    "category": "science-tech",
    "started": "2026-11-04",
-   "new": true
-  },
-  {
-   "topic": "3ec233622740",
-   "display_name": "Absurd political demands prompt",
-   "rank": 4,
-   "post_count": 1148,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": true
-  },
-  {
-   "topic": "fa80221ff697",
-   "display_name": "Bluesky's first cultural decree",
-   "rank": 5,
-   "post_count": 534,
-   "category": "culture",
-   "started": "2026-11-04",
-   "new": true
-  },
-  {
-   "topic": "f1ad1c75913a",
-   "display_name": "AEW Dynamite Blood and Guts match",
-   "rank": 6,
-   "post_count": 357,
-   "category": "sports",
-   "started": "2026-11-04",
-   "new": true
+   "new": false
   },
   {
    "topic": "9cc9ec092974",
    "display_name": "Godzilla Minus Zero opens",
-   "rank": 7,
-   "post_count": 959,
-   "category": "entertainment",
-   "started": "2026-11-03",
-   "new": false
-  },
-  {
-   "topic": "1091498fba96",
-   "display_name": "Playing Deadlock",
-   "rank": 8,
-   "post_count": 11899,
-   "category": "entertainment",
-   "started": "2026-09-29",
-   "new": false
-  },
-  {
-   "topic": "94d007ef30dd",
-   "display_name": "Google cuts search for AI-banning schools",
    "rank": 9,
-   "post_count": 3367,
-   "category": "science-tech",
+   "post_count": 1040,
+   "category": "entertainment",
    "started": "2026-11-03",
    "new": false
   },
   {
-   "topic": "ea8c3145e94f",
-   "display_name": "Bob Dylan meets Pope Leo XIV",
+   "topic": "68bc87c36d64",
+   "display_name": "Ronaldo retires from international football",
    "rank": 10,
-   "post_count": 833,
-   "category": "culture",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "6f4aa9b55d68",
-   "display_name": "Vance on war and midterms",
-   "rank": 11,
-   "post_count": 1337,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": true
-  },
-  {
-   "topic": "fdb772acff90",
-   "display_name": "Washington votes on trans sports ban",
-   "rank": 12,
-   "post_count": 2220,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "9e6b16a3ed9d",
-   "display_name": "Texas Democrats' full control bid",
-   "rank": 13,
-   "post_count": 2707,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "6a19c71e2838",
-   "display_name": "Katherine Clark's memorial sticker remarks",
-   "rank": 14,
-   "post_count": 625,
-   "category": "politics",
-   "started": "2026-11-03",
-   "new": true
-  },
-  {
-   "topic": "2220520c23a6",
-   "display_name": "US cities vote in mayoral races",
-   "rank": 15,
-   "post_count": 305,
-   "category": "politics",
-   "started": "2026-11-04",
+   "post_count": 182,
+   "category": "sports",
+   "started": "2026-11-05",
    "new": true
   },
   {
    "topic": "a56eadca42c5",
    "display_name": "US data center ban votes",
-   "rank": 16,
-   "post_count": 3234,
+   "rank": 11,
+   "post_count": 3349,
    "category": "politics",
    "started": "2026-10-29",
    "new": false
   },
   {
-   "topic": "7f1160b2b1e4",
-   "display_name": "Texas education board election",
-   "rank": 17,
-   "post_count": 709,
+   "topic": "a43efea0ae49",
+   "display_name": "Bomb threats divert European flights",
+   "rank": 12,
+   "post_count": 224,
    "category": "politics",
-   "started": "2026-11-04",
-   "new": false
+   "started": "2026-11-05",
+   "new": true
   },
   {
-   "topic": "1014be959251",
-   "display_name": "County-by-county election vote map",
-   "rank": 18,
-   "post_count": 901,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "85a227d68692",
-   "display_name": "GOP state supermajority races",
-   "rank": 19,
-   "post_count": 4184,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "d1f735b7b9ab",
-   "display_name": "Calls to abandon the South",
-   "rank": 20,
-   "post_count": 647,
+   "topic": "ec62af0bdeff",
+   "display_name": "Abdul El-Sayed's Michigan Senate race",
+   "rank": 13,
+   "post_count": 1242,
    "category": "politics",
    "started": "2026-11-04",
    "new": true
   },
   {
-   "topic": "701c37d104d0",
-   "display_name": "Haley Stevens defends Republican endorsement",
-   "rank": 21,
-   "post_count": 20513,
+   "topic": "6f4aa9b55d68",
+   "display_name": "Vance on Iran war, midterms",
+   "rank": 14,
+   "post_count": 2697,
    "category": "politics",
-   "started": "2026-10-30",
-   "new": false
+   "started": "2026-11-04",
+   "new": true
   },
   {
-   "topic": "89986f6bd9f9",
-   "display_name": "Iran war and regime change",
-   "rank": 22,
-   "post_count": 1128,
+   "topic": "f9b3b370d6b9",
+   "display_name": "Nintendo and Sony report sales figures",
+   "rank": 15,
+   "post_count": 144,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": true
+  },
+  {
+   "topic": "09096cfe4951",
+   "display_name": "Gratitude to Black women voters",
+   "rank": 16,
+   "post_count": 244,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": true
+  },
+  {
+   "topic": "d8058c396b4f",
+   "display_name": "DeSantis criticizes anti-trans ad spending",
+   "rank": 17,
+   "post_count": 354,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": true
+  },
+  {
+   "topic": "7f1160b2b1e4",
+   "display_name": "Texas education board election",
+   "rank": 18,
+   "post_count": 765,
    "category": "politics",
    "started": "2026-11-04",
    "new": false
   },
   {
-   "topic": "1b0ddc66e08c",
-   "display_name": "Ukraine reportedly hits Russian bot farms",
+   "topic": "506df5e45963",
+   "display_name": "State and local ballot measures",
+   "rank": 19,
+   "post_count": 1351,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": false
+  },
+  {
+   "topic": "29c959ea8508",
+   "display_name": "Israel's war in Gaza",
+   "rank": 20,
+   "post_count": 2323,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": false
+  },
+  {
+   "topic": "94d007ef30dd",
+   "display_name": "Google cuts search for AI-banning schools",
+   "rank": 21,
+   "post_count": 3424,
+   "category": "science-tech",
+   "started": "2026-11-03",
+   "new": false
+  },
+  {
+   "topic": "42e77602c2bd",
+   "display_name": "Russian diesel tankers change course",
+   "rank": 22,
+   "post_count": 113,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": true
+  },
+  {
+   "topic": "165b088a10c2",
+   "display_name": "Haaland's New Mexico governor race",
    "rank": 23,
-   "post_count": 367,
+   "post_count": 914,
    "category": "politics",
    "started": "2026-11-04",
    "new": false
@@ -220,18 +220,18 @@
    "topic": "d7937333696e",
    "display_name": "Speculation Trump allies will flee",
    "rank": 24,
-   "post_count": 1006,
+   "post_count": 1112,
    "category": "politics",
    "started": "2026-11-04",
    "new": false
   },
   {
-   "topic": "cd9e77152281",
-   "display_name": "New Zealand general election campaign",
+   "topic": "afe949efb622",
+   "display_name": "French blood bank freezers hacked",
    "rank": 25,
-   "post_count": 314,
-   "category": "politics",
-   "started": "2026-11-03",
+   "post_count": 2250,
+   "category": "science-tech",
+   "started": "2026-11-02",
    "new": true
   }
  ],
@@ -613,30 +613,50 @@
   ],
   "2026-11-05": [
    "AEW Dynamite Blood and Guts match",
+   "Abdul El-Sayed's Michigan Senate race",
    "Absurd political demands prompt",
+   "Bank of England rate decision",
    "Bluesky adds pronouns to profiles",
+   "Bluesky traffic surges to double",
    "Bluesky's first cultural decree",
    "Bob Dylan meets Pope Leo XIV",
+   "Bomb threats divert European flights",
    "Calls to abandon the South",
+   "Chef fired over pineapple pizza",
    "County-by-county election vote map",
+   "DeSantis criticizes anti-trans ad spending",
    "Early 2028 election speculation",
+   "French blood bank freezers hacked",
    "GOP state supermajority races",
    "Godzilla Minus Zero opens",
    "Google cuts search for AI-banning schools",
+   "Gratitude to Black women voters",
+   "Guy Fawkes Night celebrations",
+   "Haaland's New Mexico governor race",
    "Haley Stevens defends Republican endorsement",
    "Iran war and regime change",
+   "Israel's war in Gaza",
    "Katherine Clark's memorial sticker remarks",
+   "LAPD union warns about Nithya Raman",
    "New Zealand general election campaign",
+   "Nintendo and Sony report sales figures",
+   "Ocarina of Time remake release day",
    "Ocarina of Time remake reviews",
    "Playing Deadlock",
+   "Ronaldo retires from international football",
+   "Russian diesel tankers change course",
+   "Southern states voting data",
    "Speculation Trump allies will flee",
+   "State and local ballot measures",
    "Texas Democrats' full control bid",
    "Texas education board election",
    "US cities vote in mayoral races",
    "US data center ban votes",
    "Ukraine reportedly hits Russian bot farms",
+   "Vance on Iran war, midterms",
    "Vance on war and midterms",
-   "Washington votes on trans sports ban"
+   "Washington votes on trans sports ban",
+   "World of Warcraft: Forever launches"
   ]
  }
 }
