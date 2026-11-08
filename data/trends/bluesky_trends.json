@@ -6,14 +6,14 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-08T01:43:19+00:00",
+ "retrieved_at": "2026-11-08T12:08:20+00:00",
  "date": "2026-11-08",
  "trends": [
   {
    "topic": "a7ea9bdc8eb4",
    "display_name": "Democratic congressional leadership push",
    "rank": 1,
-   "post_count": 127,
+   "post_count": 899,
    "category": "politics",
    "started": "2026-11-07",
    "new": true
@@ -22,25 +22,16 @@
    "topic": "93fe1043a04e",
    "display_name": "Dana White name mix-up theories",
    "rank": 2,
-   "post_count": 3183,
+   "post_count": 3973,
    "category": "politics",
    "started": "2026-11-07",
    "new": true
   },
   {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake release",
+   "topic": "35b37521dc87",
+   "display_name": "Veterans Day observances",
    "rank": 3,
-   "post_count": 7942,
-   "category": "entertainment",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "c7bf721b2616",
-   "display_name": "Vehicles women actually like meme",
-   "rank": 4,
-   "post_count": 8495,
+   "post_count": 607,
    "category": "culture",
    "started": "2026-11-06",
    "new": false
@@ -48,125 +39,80 @@
   {
    "topic": "105480a5b405",
    "display_name": "Films watched more than six times",
+   "rank": 4,
+   "post_count": 4165,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "c7bf721b2616",
+   "display_name": "Vehicles women actually like meme",
    "rank": 5,
-   "post_count": 3714,
-   "category": "entertainment",
-   "started": "2026-11-05",
+   "post_count": 8803,
+   "category": "culture",
+   "started": "2026-11-06",
    "new": false
   },
   {
-   "topic": "9099e8ff9188",
-   "display_name": "CBS last in election night ratings",
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake release",
    "rank": 6,
-   "post_count": 445,
+   "post_count": 8411,
    "category": "entertainment",
-   "started": "2026-11-05",
-   "new": true
-  },
-  {
-   "topic": "4a5becd46478",
-   "display_name": "Oregon vs. Ohio State",
-   "rank": 7,
-   "post_count": 183,
-   "category": "sports",
-   "started": "2026-11-07",
-   "new": true
-  },
-  {
-   "topic": "5f7f0cde8c2b",
-   "display_name": "Diwali celebrations",
-   "rank": 8,
-   "post_count": 123,
-   "category": "culture",
-   "started": "2026-11-06",
-   "new": true
-  },
-  {
-   "topic": "13dcaa82e2bd",
-   "display_name": "Autumn foliage photos",
-   "rank": 9,
-   "post_count": 289,
-   "category": "culture",
-   "started": "2026-11-07",
-   "new": false
-  },
-  {
-   "topic": "94d007ef30dd",
-   "display_name": "Google cuts search for AI-banning schools",
-   "rank": 10,
-   "post_count": 3870,
-   "category": "science-tech",
-   "started": "2026-11-03",
-   "new": false
-  },
-  {
-   "topic": "c90eac8e35ea",
-   "display_name": "Texas education board election",
-   "rank": 11,
-   "post_count": 892,
-   "category": "politics",
-   "started": "2026-11-07",
-   "new": false
-  },
-  {
-   "topic": "0a6b73c76957",
-   "display_name": "Colom vs. Hyde-Smith Senate race",
-   "rank": 12,
-   "post_count": 2254,
-   "category": "politics",
-   "started": "2026-11-06",
-   "new": false
-  },
-  {
-   "topic": "61b2907a2d88",
-   "display_name": "Israel government formation mandate",
-   "rank": 13,
-   "post_count": 487,
-   "category": "politics",
-   "started": "2026-11-07",
-   "new": true
-  },
-  {
-   "topic": "d8f11c392b0e",
-   "display_name": "Trump orders DOJ to investigate Democrats",
-   "rank": 14,
-   "post_count": 846,
-   "category": "politics",
-   "started": "2026-11-07",
+   "started": "2026-11-04",
    "new": false
   },
   {
    "topic": "9cc9ec092974",
    "display_name": "Godzilla Minus Zero opens",
-   "rank": 15,
-   "post_count": 3202,
+   "rank": 7,
+   "post_count": 3415,
    "category": "entertainment",
    "started": "2026-11-03",
    "new": false
   },
   {
-   "topic": "d7937333696e",
-   "display_name": "Speculation Trump allies will flee",
-   "rank": 16,
-   "post_count": 2331,
-   "category": "politics",
-   "started": "2026-11-04",
+   "topic": "13dcaa82e2bd",
+   "display_name": "Autumn foliage photos",
+   "rank": 8,
+   "post_count": 362,
+   "category": "culture",
+   "started": "2026-11-07",
    "new": false
   },
   {
-   "topic": "7ea113d5ba1a",
-   "display_name": "World of Warcraft: Forever launches",
-   "rank": 17,
-   "post_count": 728,
-   "category": "entertainment",
-   "started": "2026-11-05",
-   "new": false
+   "topic": "625b2806056b",
+   "display_name": "Apple's hidden predictive text restrictions",
+   "rank": 9,
+   "post_count": 185,
+   "category": "science-tech",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
+   "topic": "b5bc60904b35",
+   "display_name": "NASA awards Moon Base contracts",
+   "rank": 10,
+   "post_count": 358,
+   "category": "science-tech",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
+   "topic": "268ac927ee38",
+   "display_name": "Farage's remarks on Britain and slavery",
+   "rank": 11,
+   "post_count": 142,
+   "category": "politics",
+   "started": "2026-11-08",
+   "new": true
   },
   {
    "topic": "b39544e1c3db",
    "display_name": "COP31 climate summit in Antalya",
-   "rank": 18,
-   "post_count": 404,
+   "rank": 12,
+   "post_count": 458,
    "category": "politics",
    "started": "2026-11-04",
    "new": false
@@ -174,65 +120,119 @@
   {
    "topic": "29c959ea8508",
    "display_name": "Israel's war in Gaza",
-   "rank": 19,
-   "post_count": 3359,
+   "rank": 13,
+   "post_count": 3560,
    "category": "politics",
    "started": "2026-10-30",
    "new": false
   },
   {
-   "topic": "f43a4d5200f0",
-   "display_name": "Television guitarist Richard Lloyd dies",
-   "rank": 20,
-   "post_count": 301,
-   "category": "entertainment",
+   "topic": "eee80a547e3d",
+   "display_name": "Midterm election aftermath",
+   "rank": 14,
+   "post_count": 690,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": true
+  },
+  {
+   "topic": "c90eac8e35ea",
+   "display_name": "Texas education board election",
+   "rank": 15,
+   "post_count": 1063,
+   "category": "politics",
    "started": "2026-11-07",
    "new": false
   },
   {
-   "topic": "7fe954c782c2",
-   "display_name": "Which liberal state has the best BBQ",
-   "rank": 21,
-   "post_count": 130,
-   "category": "culture",
+   "topic": "647c7c1b0b33",
+   "display_name": "UK porn content ban takes effect",
+   "rank": 16,
+   "post_count": 543,
+   "category": "politics",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "62c6a2aac97b",
+   "display_name": "Ukraine reports daily Russian losses",
+   "rank": 17,
+   "post_count": 119,
+   "category": "politics",
+   "started": "2026-11-08",
+   "new": true
+  },
+  {
+   "topic": "61b2907a2d88",
+   "display_name": "Israel government formation mandate",
+   "rank": 18,
+   "post_count": 602,
+   "category": "politics",
    "started": "2026-11-07",
    "new": true
   },
   {
-   "topic": "1cc2c00ae70f",
-   "display_name": "The \"Mamdani lesson\" for Democrats",
-   "rank": 22,
-   "post_count": 770,
-   "category": "politics",
-   "started": "2026-11-06",
-   "new": false
-  },
-  {
-   "topic": "eee80a547e3d",
-   "display_name": "Grassroots resistance to Trump",
-   "rank": 23,
-   "post_count": 537,
+   "topic": "d7937333696e",
+   "display_name": "Trump orders DOJ to investigate Democrats",
+   "rank": 19,
+   "post_count": 9016,
    "category": "politics",
    "started": "2026-11-04",
    "new": false
   },
   {
-   "topic": "9716d266c42d",
-   "display_name": "ICE detains Wisconsin state trooper",
+   "topic": "657fc340329e",
+   "display_name": "Pattinson screen tests for Bond",
+   "rank": 20,
+   "post_count": 306,
+   "category": "entertainment",
+   "started": "2026-11-07",
+   "new": false
+  },
+  {
+   "topic": "59e5d0329afe",
+   "display_name": "Democrats urge ICE to unmask agents",
+   "rank": 21,
+   "post_count": 2568,
+   "category": "politics",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "adb6c96842ea",
+   "display_name": "Heavy rain floods Gaza tents",
+   "rank": 22,
+   "post_count": 170,
+   "category": "politics",
+   "started": "2026-11-07",
+   "new": true
+  },
+  {
+   "topic": "b80b825eec91",
+   "display_name": "Russell Brand verdict",
+   "rank": 23,
+   "post_count": 4376,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "0a6b73c76957",
+   "display_name": "Colom vs. Hyde-Smith Senate race",
    "rank": 24,
-   "post_count": 405,
+   "post_count": 2349,
    "category": "politics",
    "started": "2026-11-06",
    "new": false
   },
   {
-   "topic": "458f10898f50",
-   "display_name": "RFK Jr.'s vaccine agenda",
+   "topic": "faeb070ef33a",
+   "display_name": "Voters honor ICE shooting victims",
    "rank": 25,
-   "post_count": 336,
+   "post_count": 149,
    "category": "politics",
-   "started": "2026-11-06",
-   "new": false
+   "started": "2026-11-07",
+   "new": true
   }
  ],
  "history": {
@@ -625,29 +625,41 @@
    "Worst graduates from each school"
   ],
   "2026-11-08": [
+   "Apple's hidden predictive text restrictions",
    "Autumn foliage photos",
    "CBS last in election night ratings",
    "COP31 climate summit in Antalya",
    "Colom vs. Hyde-Smith Senate race",
    "Dana White name mix-up theories",
    "Democratic congressional leadership push",
+   "Democrats urge ICE to unmask agents",
    "Diwali celebrations",
+   "Farage's remarks on Britain and slavery",
    "Films watched more than six times",
    "Godzilla Minus Zero opens",
    "Google cuts search for AI-banning schools",
    "Grassroots resistance to Trump",
+   "Heavy rain floods Gaza tents",
    "ICE detains Wisconsin state trooper",
    "Israel government formation mandate",
    "Israel's war in Gaza",
+   "Midterm election aftermath",
+   "NASA awards Moon Base contracts",
    "Ocarina of Time remake release",
    "Oregon vs. Ohio State",
+   "Pattinson screen tests for Bond",
    "RFK Jr.'s vaccine agenda",
+   "Russell Brand verdict",
    "Speculation Trump allies will flee",
    "Television guitarist Richard Lloyd dies",
    "Texas education board election",
    "The \"Mamdani lesson\" for Democrats",
    "Trump orders DOJ to investigate Democrats",
+   "UK porn content ban takes effect",
+   "Ukraine reports daily Russian losses",
    "Vehicles women actually like meme",
+   "Veterans Day observances",
+   "Voters honor ICE shooting victims",
    "Which liberal state has the best BBQ",
    "World of Warcraft: Forever launches"
   ]
