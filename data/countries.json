@@ -176,7 +176,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "AGO": {
     "name": "Angola",
@@ -342,7 +342,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ALB": {
     "name": "Albania",
@@ -495,7 +495,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "AND": {
     "name": "Andorra",
@@ -653,7 +653,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ARE": {
     "name": "United Arab Emirates",
@@ -832,7 +832,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ARG": {
     "name": "Argentina",
@@ -1010,7 +1010,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ARM": {
     "name": "Armenia",
@@ -1176,7 +1176,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ATG": {
     "name": "Antigua and Barbuda",
@@ -1315,7 +1315,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "AUS": {
     "name": "Australia",
@@ -1475,7 +1475,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "AUT": {
     "name": "Austria",
@@ -1650,7 +1650,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "AZE": {
     "name": "Azerbaijan",
@@ -1808,7 +1808,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BDI": {
     "name": "Burundi",
@@ -1961,7 +1961,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BEL": {
     "name": "Belgium",
@@ -2138,7 +2138,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BEN": {
     "name": "Benin",
@@ -2297,7 +2297,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BFA": {
     "name": "Burkina Faso",
@@ -2458,7 +2458,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BGD": {
     "name": "Bangladesh",
@@ -2627,7 +2627,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BGR": {
     "name": "Bulgaria",
@@ -2797,7 +2797,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BHR": {
     "name": "Bahrain",
@@ -2950,7 +2950,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BHS": {
     "name": "Bahamas, The",
@@ -3092,7 +3092,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BIH": {
     "name": "Bosnia and Herzegovina",
@@ -3272,7 +3272,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BLR": {
     "name": "Belarus",
@@ -3426,7 +3426,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BLZ": {
     "name": "Belize",
@@ -3611,7 +3611,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BOL": {
     "name": "Bolivia",
@@ -3795,7 +3795,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BRA": {
     "name": "Brazil",
@@ -3973,7 +3973,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BRB": {
     "name": "Barbados",
@@ -4107,7 +4107,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BRN": {
     "name": "Brunei Darussalam",
@@ -4269,7 +4269,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BTN": {
     "name": "Bhutan",
@@ -4438,7 +4438,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "BWA": {
     "name": "Botswana",
@@ -4592,7 +4592,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CAF": {
     "name": "Central African Republic",
@@ -4742,7 +4742,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CAN": {
     "name": "Canada",
@@ -4929,7 +4929,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CHE": {
     "name": "Switzerland",
@@ -5107,7 +5107,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CHL": {
     "name": "Chile",
@@ -5289,7 +5289,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CHN": {
     "name": "China",
@@ -5471,7 +5471,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CIV": {
     "name": "Cote d'Ivoire",
@@ -5639,7 +5639,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CMR": {
     "name": "Cameroon",
@@ -5821,7 +5821,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "COD": {
     "name": "Democratic Republic of the Congo",
@@ -6001,7 +6001,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "COG": {
     "name": "Congo, Rep.",
@@ -6157,7 +6157,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "COL": {
     "name": "Colombia",
@@ -6330,7 +6330,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "COM": {
     "name": "Comoros",
@@ -6495,7 +6495,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CPV": {
     "name": "Cabo Verde",
@@ -6648,7 +6648,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CRI": {
     "name": "Costa Rica",
@@ -6816,7 +6816,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CUB": {
     "name": "Cuba",
@@ -6961,7 +6961,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CYP": {
     "name": "Cyprus",
@@ -7126,7 +7126,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "CZE": {
     "name": "Czechia",
@@ -7288,7 +7288,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "DEU": {
     "name": "Germany",
@@ -7466,7 +7466,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "DJI": {
     "name": "Djibouti",
@@ -7628,7 +7628,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "DMA": {
     "name": "Dominica",
@@ -7763,7 +7763,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "DNK": {
     "name": "Denmark",
@@ -7927,7 +7927,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "DOM": {
     "name": "Dominican Republic",
@@ -8095,7 +8095,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "DZA": {
     "name": "Algeria",
@@ -8277,7 +8277,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ECU": {
     "name": "Ecuador",
@@ -8462,7 +8462,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "EGY": {
     "name": "Egypt",
@@ -8631,7 +8631,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ERI": {
     "name": "Eritrea",
@@ -8803,7 +8803,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ESP": {
     "name": "Spain",
@@ -8983,7 +8983,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "EST": {
     "name": "Estonia",
@@ -9155,7 +9155,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ETH": {
     "name": "Ethiopia",
@@ -9338,7 +9338,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "FIN": {
     "name": "Finland",
@@ -9502,7 +9502,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "FJI": {
     "name": "Fiji",
@@ -9664,7 +9664,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "FRA": {
     "name": "France",
@@ -9842,7 +9842,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "FSM": {
     "name": "Micronesia, Fed. Sts.",
@@ -10005,7 +10005,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GAB": {
     "name": "Gabon",
@@ -10156,7 +10156,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GBR": {
     "name": "United Kingdom",
@@ -10336,7 +10336,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GEO": {
     "name": "Georgia",
@@ -10513,7 +10513,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GHA": {
     "name": "Ghana",
@@ -10696,7 +10696,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GIN": {
     "name": "Guinea",
@@ -10876,7 +10876,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GMB": {
     "name": "Gambia, The",
@@ -11039,7 +11039,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GNB": {
     "name": "Guinea-Bissau",
@@ -11196,7 +11196,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GNQ": {
     "name": "Equatorial Guinea",
@@ -11358,7 +11358,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GRC": {
     "name": "Greece",
@@ -11534,7 +11534,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GRD": {
     "name": "Grenada",
@@ -11677,7 +11677,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GTM": {
     "name": "Guatemala",
@@ -11880,7 +11880,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "GUY": {
     "name": "Guyana",
@@ -12028,7 +12028,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "HND": {
     "name": "Honduras",
@@ -12195,7 +12195,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "HRV": {
     "name": "Croatia",
@@ -12352,7 +12352,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "HTI": {
     "name": "Haiti",
@@ -12502,7 +12502,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "HUN": {
     "name": "Hungary",
@@ -12666,7 +12666,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "IDN": {
     "name": "Indonesia",
@@ -12847,7 +12847,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "IND": {
     "name": "India",
@@ -13027,7 +13027,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "IRL": {
     "name": "Ireland",
@@ -13185,7 +13185,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "IRN": {
     "name": "Iran",
@@ -13370,7 +13370,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "IRQ": {
     "name": "Iraq",
@@ -13547,7 +13547,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ISL": {
     "name": "Iceland",
@@ -13691,7 +13691,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ISR": {
     "name": "Israel",
@@ -13866,7 +13866,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ITA": {
     "name": "Italy",
@@ -14046,7 +14046,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "JAM": {
     "name": "Jamaica",
@@ -14207,7 +14207,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "JOR": {
     "name": "Jordan",
@@ -14372,7 +14372,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "JPN": {
     "name": "Japan",
@@ -14521,7 +14521,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "KAZ": {
     "name": "Kazakhstan",
@@ -14693,7 +14693,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "KEN": {
     "name": "Kenya",
@@ -14875,7 +14875,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "KGZ": {
     "name": "Kyrgyz Republic",
@@ -15030,7 +15030,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "KHM": {
     "name": "Cambodia",
@@ -15184,7 +15184,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "KIR": {
     "name": "Kiribati",
@@ -15324,7 +15324,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "KNA": {
     "name": "St. Kitts and Nevis",
@@ -15457,7 +15457,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "KOR": {
     "name": "South Korea",
@@ -15606,7 +15606,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "KWT": {
     "name": "Kuwait",
@@ -15753,7 +15753,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LAO": {
     "name": "Lao PDR",
@@ -15914,7 +15914,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LBN": {
     "name": "Lebanon",
@@ -16094,7 +16094,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LBR": {
     "name": "Liberia",
@@ -16271,7 +16271,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LBY": {
     "name": "Libya",
@@ -16416,7 +16416,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LCA": {
     "name": "St. Lucia",
@@ -16553,7 +16553,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LIE": {
     "name": "Liechtenstein",
@@ -16705,7 +16705,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LKA": {
     "name": "Sri Lanka",
@@ -16863,7 +16863,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LSO": {
     "name": "Lesotho",
@@ -17029,7 +17029,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LTU": {
     "name": "Lithuania",
@@ -17194,7 +17194,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LUX": {
     "name": "Luxembourg",
@@ -17365,7 +17365,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "LVA": {
     "name": "Latvia",
@@ -17530,7 +17530,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MAR": {
     "name": "Morocco",
@@ -17712,7 +17712,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MCO": {
     "name": "Monaco",
@@ -17846,7 +17846,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MDA": {
     "name": "Moldova",
@@ -18017,7 +18017,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MDG": {
     "name": "Madagascar",
@@ -18180,7 +18180,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MDV": {
     "name": "Maldives",
@@ -18332,7 +18332,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MEX": {
     "name": "Mexico",
@@ -18511,7 +18511,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MHL": {
     "name": "Marshall Islands",
@@ -18652,7 +18652,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MKD": {
     "name": "North Macedonia",
@@ -18812,7 +18812,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MLI": {
     "name": "Mali",
@@ -18990,7 +18990,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MLT": {
     "name": "Malta",
@@ -19156,7 +19156,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MMR": {
     "name": "Myanmar",
@@ -19335,7 +19335,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MNE": {
     "name": "Montenegro",
@@ -19493,7 +19493,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MNG": {
     "name": "Mongolia",
@@ -19652,7 +19652,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MOZ": {
     "name": "Mozambique",
@@ -19836,7 +19836,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MRT": {
     "name": "Mauritania",
@@ -20000,7 +20000,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MUS": {
     "name": "Mauritius",
@@ -20180,7 +20180,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MWI": {
     "name": "Malawi",
@@ -20341,7 +20341,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "MYS": {
     "name": "Malaysia",
@@ -20525,7 +20525,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NAM": {
     "name": "Namibia",
@@ -20705,7 +20705,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NER": {
     "name": "Niger",
@@ -20878,7 +20878,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NGA": {
     "name": "Nigeria",
@@ -21061,7 +21061,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NIC": {
     "name": "Nicaragua",
@@ -21217,7 +21217,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NLD": {
     "name": "Netherlands",
@@ -21394,7 +21394,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NOR": {
     "name": "Norway",
@@ -21552,7 +21552,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NPL": {
     "name": "Nepal",
@@ -21735,7 +21735,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NRU": {
     "name": "Nauru",
@@ -21875,7 +21875,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "NZL": {
     "name": "New Zealand",
@@ -22029,7 +22029,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "OMN": {
     "name": "Oman",
@@ -22181,7 +22181,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PAK": {
     "name": "Pakistan",
@@ -22367,7 +22367,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PAN": {
     "name": "Panama",
@@ -22541,7 +22541,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PER": {
     "name": "Peru",
@@ -22726,7 +22726,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PHL": {
     "name": "Philippines",
@@ -22910,7 +22910,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PLW": {
     "name": "Palau",
@@ -23051,7 +23051,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PNG": {
     "name": "Papua New Guinea",
@@ -23208,7 +23208,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "POL": {
     "name": "Poland",
@@ -23379,7 +23379,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PRK": {
     "name": "Korea, Dem. People's Rep.",
@@ -23517,7 +23517,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PRT": {
     "name": "Portugal",
@@ -23681,7 +23681,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PRY": {
     "name": "Paraguay",
@@ -23861,7 +23861,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "PSE": {
     "name": "West Bank and Gaza",
@@ -24011,7 +24011,7 @@
       "leading_outlets": "Atlas editorial compilation, cross-referenced with national media directories and the CIA World Factbook's Broadcast media entries; not a survey ranking, and not audience-share data"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "QAT": {
     "name": "Qatar",
@@ -24162,7 +24162,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ROU": {
     "name": "Romania",
@@ -24332,7 +24332,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "RUS": {
     "name": "Russia",
@@ -24508,7 +24508,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "RWA": {
     "name": "Rwanda",
@@ -24668,7 +24668,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SAU": {
     "name": "Saudi Arabia",
@@ -24821,7 +24821,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SDN": {
     "name": "Sudan",
@@ -25005,7 +25005,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SEN": {
     "name": "Senegal",
@@ -25186,7 +25186,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SGP": {
     "name": "Singapore",
@@ -25367,7 +25367,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SLB": {
     "name": "Solomon Islands",
@@ -25514,7 +25514,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SLE": {
     "name": "Sierra Leone",
@@ -25686,7 +25686,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SLV": {
     "name": "El Salvador",
@@ -25853,7 +25853,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SMR": {
     "name": "San Marino",
@@ -25987,7 +25987,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SOM": {
     "name": "Somalia, Fed. Rep.",
@@ -26144,7 +26144,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SRB": {
     "name": "Serbia",
@@ -26315,7 +26315,7 @@
       "leading_outlets": "Atlas editorial compilation, cross-referenced with national media directories and the CIA World Factbook's Broadcast media entries; not a survey ranking, and not audience-share data"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SSD": {
     "name": "South Sudan",
@@ -26471,7 +26471,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "STP": {
     "name": "Sao Tome and Principe",
@@ -26613,7 +26613,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SUR": {
     "name": "Suriname",
@@ -26778,7 +26778,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SVK": {
     "name": "Slovak Republic",
@@ -26953,7 +26953,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SVN": {
     "name": "Slovenia",
@@ -27123,7 +27123,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SWE": {
     "name": "Sweden",
@@ -27280,7 +27280,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SWZ": {
     "name": "Eswatini",
@@ -27446,7 +27446,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SYC": {
     "name": "Seychelles",
@@ -27605,7 +27605,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "SYR": {
     "name": "Syrian Arab Republic",
@@ -27771,7 +27771,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TCD": {
     "name": "Chad",
@@ -27923,7 +27923,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TGO": {
     "name": "Togo",
@@ -28082,7 +28082,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "THA": {
     "name": "Thailand",
@@ -28264,7 +28264,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TJK": {
     "name": "Tajikistan",
@@ -28417,7 +28417,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TKM": {
     "name": "Turkmenistan",
@@ -28571,7 +28571,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TLS": {
     "name": "Timor-Leste",
@@ -28720,7 +28720,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TON": {
     "name": "Tonga",
@@ -28870,7 +28870,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TTO": {
     "name": "Trinidad and Tobago",
@@ -29022,7 +29022,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TUN": {
     "name": "Tunisia",
@@ -29182,7 +29182,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TUR": {
     "name": "Türkiye",
@@ -29356,7 +29356,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TUV": {
     "name": "Tuvalu",
@@ -29496,7 +29496,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "TZA": {
     "name": "Tanzania",
@@ -29674,7 +29674,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "UGA": {
     "name": "Uganda",
@@ -29856,7 +29856,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "UKR": {
     "name": "Ukraine",
@@ -30032,7 +30032,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "URY": {
     "name": "Uruguay",
@@ -30202,7 +30202,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "USA": {
     "name": "United States of America",
@@ -30365,7 +30365,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "UZB": {
     "name": "Uzbekistan",
@@ -30533,7 +30533,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "VAT": {
     "name": "Holy See",
@@ -30656,7 +30656,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "VCT": {
     "name": "St. Vincent and the Grenadines",
@@ -30791,7 +30791,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "VEN": {
     "name": "Venezuela",
@@ -30957,7 +30957,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "VNM": {
     "name": "Vietnam",
@@ -31120,7 +31120,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "VUT": {
     "name": "Vanuatu",
@@ -31271,7 +31271,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "WSM": {
     "name": "Samoa",
@@ -31422,7 +31422,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "YEM": {
     "name": "Yemen",
@@ -31573,7 +31573,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ZAF": {
     "name": "South Africa",
@@ -31760,7 +31760,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ZMB": {
     "name": "Zambia",
@@ -31941,7 +31941,7 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "ZWE": {
     "name": "Zimbabwe",
@@ -32121,10 +32121,10 @@
       "media_landscape": "CIA World Factbook, Broadcast media (public domain; auto-ingested weekly via the factbook.json mirror) | https://www.cia.gov/the-world-factbook/"
     },
     "confidence": "verified",
-    "retrieved_on": "2026-11-02"
+    "retrieved_on": "2026-11-09"
   },
   "_meta": {
-    "generated_at": "2026-11-02T10:09:14+00:00",
+    "generated_at": "2026-11-09T10:31:00+00:00",
     "country_count": 195,
     "world_population": 8215424893.0,
     "schema_version": 2,

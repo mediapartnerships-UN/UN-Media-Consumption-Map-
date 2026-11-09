@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "generated_at": "2026-11-02T10:11:07+00:00",
+  "generated_at": "2026-11-09T10:32:53+00:00",
   "window": "2026-08 to 2026-10 (3-month average)",
   "source": "Statcounter GlobalStats (gs.statcounter.com), free CSV API",
   "method_note": "Share of social-platform REFERRALS to Statcounter-tracked websites. A real measured monthly signal, but web-referral based: app-first platforms (WhatsApp, TikTok, Telegram) barely refer web traffic and are mostly invisible here. Never read the top platform in this table as 'the country's leading platform'; the curated leading-platform field measures actual usage. Platforms under 0.5% share are dropped; small markets have thin tracker coverage.",
