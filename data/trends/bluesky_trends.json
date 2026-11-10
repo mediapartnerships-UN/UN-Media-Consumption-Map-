@@ -6,69 +6,69 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-10T18:45:26+00:00",
+ "retrieved_at": "2026-11-10T21:47:31+00:00",
  "date": "2026-11-10",
  "trends": [
   {
-   "topic": "7925b5e19403",
-   "display_name": "Adam Jentleson's advice for Democrats",
-   "rank": 1,
-   "post_count": 127,
-   "category": "politics",
-   "started": "2026-11-10",
-   "new": true
-  },
-  {
    "topic": "46e270d091d1",
    "display_name": "Don Leonard alleges Democratic threats",
-   "rank": 2,
-   "post_count": 237,
+   "rank": 1,
+   "post_count": 555,
    "category": "politics",
    "started": "2026-11-10",
    "new": true
   },
   {
-   "topic": "120fad822dc8",
-   "display_name": "Vikings seek quarterback trade",
-   "rank": 3,
-   "post_count": 289,
-   "category": "sports",
-   "started": "2026-11-09",
+   "topic": "23abc227a42a",
+   "display_name": "Unsexy policies that would help millions",
+   "rank": 2,
+   "post_count": 739,
+   "category": "politics",
+   "started": "2026-11-10",
    "new": true
   },
   {
    "topic": "af60e8ea7b06",
    "display_name": "'Who's really running your Bluesky' meme",
-   "rank": 4,
-   "post_count": 1164,
+   "rank": 3,
+   "post_count": 1389,
    "category": "culture",
    "started": "2026-11-09",
    "new": true
   },
   {
+   "topic": "49ddc974f300",
+   "display_name": "Warner Bros. remaking You've Got Mail",
+   "rank": 4,
+   "post_count": 493,
+   "category": "entertainment",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "105480a5b405",
+   "display_name": "Films watched more than six times",
+   "rank": 5,
+   "post_count": 6424,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
    "topic": "7afee440e52b",
    "display_name": "Nvidia CEO shareholder lawsuit",
-   "rank": 5,
-   "post_count": 351,
-   "category": "business",
-   "started": "2026-11-10",
-   "new": true
-  },
-  {
-   "topic": "5da79e9eae64",
-   "display_name": "US consumer prices rise in October",
    "rank": 6,
-   "post_count": 479,
+   "post_count": 718,
    "category": "business",
    "started": "2026-11-10",
    "new": true
   },
   {
-   "topic": "bdc2c972ec6a",
-   "display_name": "FFXIV players' commendation criteria",
+   "topic": "4a3d76e98966",
+   "display_name": "Edmund Fitzgerald sinking anniversary",
    "rank": 7,
-   "post_count": 313,
-   "category": "entertainment",
+   "post_count": 969,
+   "category": "culture",
    "started": "2026-11-10",
    "new": true
   },
@@ -76,162 +76,162 @@
    "topic": "35b37521dc87",
    "display_name": "Veterans Day observances",
    "rank": 8,
-   "post_count": 1949,
+   "post_count": 2098,
    "category": "culture",
    "started": "2026-11-06",
    "new": false
   },
   {
-   "topic": "5408f000f708",
-   "display_name": "Future of DC's shared universe",
+   "topic": "d1fd03c74158",
+   "display_name": "Russell Brand London trial",
    "rank": 9,
-   "post_count": 1828,
+   "post_count": 571,
    "category": "entertainment",
    "started": "2026-11-09",
-   "new": false
+   "new": true
   },
   {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake release",
+   "topic": "5da79e9eae64",
+   "display_name": "US consumer prices rise in October",
    "rank": 10,
-   "post_count": 11352,
-   "category": "entertainment",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "44fe6dafc0da",
-   "display_name": "Blanche defends Hegseth",
-   "rank": 11,
-   "post_count": 5277,
-   "category": "politics",
-   "started": "2026-11-09",
-   "new": true
-  },
-  {
-   "topic": "0cd51e302521",
-   "display_name": "Hegseth responds to impeachment push",
-   "rank": 12,
-   "post_count": 6676,
-   "category": "politics",
-   "started": "2026-11-08",
-   "new": true
-  },
-  {
-   "topic": "0a6b73c76957",
-   "display_name": "Colom vs. Hyde-Smith Senate race",
-   "rank": 13,
-   "post_count": 3155,
-   "category": "politics",
-   "started": "2026-11-06",
-   "new": false
-  },
-  {
-   "topic": "b029f075f9a0",
-   "display_name": "Trump's \"different shaped Ukraine\" remark",
-   "rank": 14,
-   "post_count": 1107,
-   "category": "politics",
-   "started": "2026-11-09",
-   "new": false
-  },
-  {
-   "topic": "669eb443521a",
-   "display_name": "Midterm election aftermath",
-   "rank": 15,
-   "post_count": 1017,
-   "category": "politics",
-   "started": "2026-11-09",
-   "new": false
-  },
-  {
-   "topic": "c9a7019a7a35",
-   "display_name": "Calls to release Epstein files",
-   "rank": 16,
-   "post_count": 382,
-   "category": "politics",
-   "started": "2026-11-09",
-   "new": false
-  },
-  {
-   "topic": "4a3d76e98966",
-   "display_name": "Edmund Fitzgerald sinking anniversary",
-   "rank": 17,
-   "post_count": 796,
-   "category": "culture",
-   "started": "2026-11-10",
-   "new": true
-  },
-  {
-   "topic": "46713aea71f9",
-   "display_name": "Progressives oppose Jeffries as Speaker",
-   "rank": 18,
-   "post_count": 409,
-   "category": "politics",
-   "started": "2026-11-08",
-   "new": true
-  },
-  {
-   "topic": "d0b135ff487f",
-   "display_name": "David Walliams children's books pulped",
-   "rank": 19,
-   "post_count": 848,
-   "category": "entertainment",
-   "started": "2026-11-10",
-   "new": true
-  },
-  {
-   "topic": "77860c8d3e74",
-   "display_name": "Marine Corps turns 251",
-   "rank": 20,
-   "post_count": 225,
-   "category": "culture",
-   "started": "2026-11-10",
-   "new": true
-  },
-  {
-   "topic": "2b600968c0d7",
-   "display_name": "Scion returns with kei truck",
-   "rank": 21,
-   "post_count": 101,
+   "post_count": 556,
    "category": "business",
    "started": "2026-11-10",
    "new": true
   },
   {
-   "topic": "3308d676a76d",
-   "display_name": "Tucker Carlson questions pyramid building",
-   "rank": 22,
-   "post_count": 250,
+   "topic": "0cd51e302521",
+   "display_name": "Hegseth responds to impeachment push",
+   "rank": 11,
+   "post_count": 7674,
    "category": "politics",
+   "started": "2026-11-08",
+   "new": true
+  },
+  {
+   "topic": "65be9b6917d0",
+   "display_name": "Jordan vs. Scalise leadership race",
+   "rank": 12,
+   "post_count": 2036,
+   "category": "politics",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "44fe6dafc0da",
+   "display_name": "Blanche defends Hegseth",
+   "rank": 13,
+   "post_count": 5597,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": true
+  },
+  {
+   "topic": "7925b5e19403",
+   "display_name": "Adam Jentleson's advice for Democrats",
+   "rank": 14,
+   "post_count": 419,
+   "category": "politics",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "c392af58f7e4",
+   "display_name": "US soldier arrested in UK",
+   "rank": 15,
+   "post_count": 382,
+   "category": "politics",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "669eb443521a",
+   "display_name": "Midterm election aftermath",
+   "rank": 16,
+   "post_count": 1237,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": false
+  },
+  {
+   "topic": "2b6f485ef877",
+   "display_name": "Trump calls Iran war \"effectively over\"",
+   "rank": 17,
+   "post_count": 1729,
+   "category": "politics",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
+   "topic": "a7ea9bdc8eb4",
+   "display_name": "Sanders calls for new leadership",
+   "rank": 18,
+   "post_count": 4089,
+   "category": "politics",
+   "started": "2026-11-07",
+   "new": true
+  },
+  {
+   "topic": "ce4d185ded6f",
+   "display_name": "Midterm election race results",
+   "rank": 19,
+   "post_count": 1563,
+   "category": "politics",
+   "started": "2026-11-07",
+   "new": false
+  },
+  {
+   "topic": "d0b135ff487f",
+   "display_name": "David Walliams children's books pulped",
+   "rank": 20,
+   "post_count": 986,
+   "category": "entertainment",
    "started": "2026-11-10",
    "new": true
   },
   {
    "topic": "1cc2c00ae70f",
    "display_name": "Push to replace Schumer, Jeffries",
-   "rank": 23,
-   "post_count": 5474,
+   "rank": 21,
+   "post_count": 5660,
    "category": "politics",
    "started": "2026-11-06",
    "new": true
   },
   {
-   "topic": "59e5d0329afe",
-   "display_name": "Democrats urge ICE to unmask agents",
-   "rank": 24,
-   "post_count": 3391,
-   "category": "politics",
-   "started": "2026-11-05",
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake release",
+   "rank": 22,
+   "post_count": 11500,
+   "category": "entertainment",
+   "started": "2026-11-04",
    "new": false
   },
   {
-   "topic": "5fe1eb128bae",
-   "display_name": "California votes on billionaire tax",
-   "rank": 25,
-   "post_count": 2528,
+   "topic": "c7152e9768aa",
+   "display_name": "Trump's Oval Office letter to Biden",
+   "rank": 23,
+   "post_count": 292,
    "category": "politics",
-   "started": "2026-11-02",
+   "started": "2026-11-09",
+   "new": true
+  },
+  {
+   "topic": "1cc4c01f72e9",
+   "display_name": "Mark Carney's economic agenda",
+   "rank": 24,
+   "post_count": 204,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": true
+  },
+  {
+   "topic": "b029f075f9a0",
+   "display_name": "Trump's \"different shaped Ukraine\" remark",
+   "rank": 25,
+   "post_count": 1270,
+   "category": "politics",
+   "started": "2026-11-09",
    "new": false
   }
  ],
@@ -649,6 +649,7 @@
    "House House's AI use in Big Walk",
    "Israel's war in Gaza",
    "Jensen Huang honey trap report",
+   "Jordan vs. Scalise leadership race",
    "Krakow shooting suspect dies",
    "Lauren Boebert's congressional seat",
    "Marine Corps turns 251",
@@ -664,22 +665,29 @@
    "Pope Leo arrives in Argentina",
    "Progressives oppose Jeffries as Speaker",
    "Push to replace Schumer, Jeffries",
+   "Russell Brand London trial",
+   "Sanders calls for new leadership",
    "Scion returns with kei truck",
    "Senate votes on energy permitting bill",
    "Supreme Court Big Bend wall case",
    "The spy who could bring you down",
+   "Trump calls Iran war \"effectively over\"",
    "Trump claims he \"won in Iran\"",
    "Trump kidding about Dana White",
    "Trump urges impeaching Vietnam War leaders",
    "Trump's \"different shaped Ukraine\" remark",
+   "Trump's Oval Office letter to Biden",
    "Tucker Carlson questions pyramid building",
    "US consumer prices rise in October",
    "US data center ban votes",
+   "US soldier arrested in UK",
    "USPS unveils mythical creature stamps",
+   "Unsexy policies that would help millions",
    "Van Hollen open to Senate leader run",
    "Vehicles women actually like meme",
    "Veterans Day observances",
-   "Vikings seek quarterback trade"
+   "Vikings seek quarterback trade",
+   "Warner Bros. remaking You've Got Mail"
   ]
  }
 }
