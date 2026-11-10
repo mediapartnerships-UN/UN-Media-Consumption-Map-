@@ -6,194 +6,212 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-10T04:16:13+00:00",
+ "retrieved_at": "2026-11-10T13:43:51+00:00",
  "date": "2026-11-10",
  "trends": [
   {
-   "topic": "7ea0294fa407",
-   "display_name": "The spy who could bring you down",
+   "topic": "44fe6dafc0da",
+   "display_name": "Hegseth blocks officer promotions",
    "rank": 1,
-   "post_count": 192,
+   "post_count": 2406,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": false
+  },
+  {
+   "topic": "4a3d76e98966",
+   "display_name": "Edmund Fitzgerald sinking anniversary",
+   "rank": 2,
+   "post_count": 158,
    "category": "culture",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "b39544e1c3db",
+   "display_name": "COP31 climate summit in Antalya",
+   "rank": 3,
+   "post_count": 1543,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": false
+  },
+  {
+   "topic": "d0b135ff487f",
+   "display_name": "Allegations against David Walliams",
+   "rank": 4,
+   "post_count": 421,
+   "category": "entertainment",
    "started": "2026-11-10",
    "new": true
   },
   {
    "topic": "dab2159099f8",
    "display_name": "Jensen Huang honey trap report",
-   "rank": 2,
-   "post_count": 4226,
+   "rank": 5,
+   "post_count": 5267,
    "category": "business",
-   "started": "2026-11-09",
-   "new": false
-  },
-  {
-   "topic": "5fe1eb128bae",
-   "display_name": "California votes on billionaire tax",
-   "rank": 3,
-   "post_count": 2075,
-   "category": "politics",
-   "started": "2026-11-02",
-   "new": false
-  },
-  {
-   "topic": "44fe6dafc0da",
-   "display_name": "Hegseth blocks officer promotions",
-   "rank": 4,
-   "post_count": 1345,
-   "category": "politics",
    "started": "2026-11-09",
    "new": false
   },
   {
    "topic": "5408f000f708",
    "display_name": "Future of DC's shared universe",
-   "rank": 5,
-   "post_count": 968,
+   "rank": 6,
+   "post_count": 1343,
    "category": "entertainment",
    "started": "2026-11-09",
+   "new": false
+  },
+  {
+   "topic": "7b2e89ebac6c",
+   "display_name": "House House's AI use in Big Walk",
+   "rank": 7,
+   "post_count": 660,
+   "category": "entertainment",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "35b37521dc87",
+   "display_name": "Veterans Day observances",
+   "rank": 8,
+   "post_count": 1768,
+   "category": "culture",
+   "started": "2026-11-06",
    "new": false
   },
   {
    "topic": "af60e8ea7b06",
    "display_name": "'Who's really running your Bluesky' meme",
-   "rank": 6,
-   "post_count": 291,
-   "category": "culture",
-   "started": "2026-11-09",
-   "new": true
-  },
-  {
-   "topic": "7fc79ad38959",
-   "display_name": "USPS unveils mythical creature stamps",
-   "rank": 7,
-   "post_count": 143,
-   "category": "culture",
-   "started": "2026-11-09",
-   "new": true
-  },
-  {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake release",
-   "rank": 8,
-   "post_count": 10900,
-   "category": "entertainment",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "105480a5b405",
-   "display_name": "Films watched more than six times",
    "rank": 9,
-   "post_count": 6239,
-   "category": "entertainment",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "0df2245b26a9",
-   "display_name": "Krakow shooting suspect dies",
-   "rank": 10,
-   "post_count": 837,
-   "category": "other",
-   "started": "2026-11-07",
-   "new": true
-  },
-  {
-   "topic": "b029f075f9a0",
-   "display_name": "Trump's \"different shaped Ukraine\" remark",
-   "rank": 11,
-   "post_count": 472,
-   "category": "politics",
+   "post_count": 733,
+   "category": "culture",
    "started": "2026-11-09",
-   "new": false
-  },
-  {
-   "topic": "0a6b73c76957",
-   "display_name": "Colom vs. Hyde-Smith Senate race",
-   "rank": 12,
-   "post_count": 2904,
-   "category": "politics",
-   "started": "2026-11-06",
-   "new": false
-  },
-  {
-   "topic": "a7ea9bdc8eb4",
-   "display_name": "Van Hollen open to Senate leader run",
-   "rank": 13,
-   "post_count": 3327,
-   "category": "politics",
-   "started": "2026-11-07",
    "new": true
   },
   {
-   "topic": "29c959ea8508",
-   "display_name": "Israel's war in Gaza",
-   "rank": 14,
-   "post_count": 4841,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": false
-  },
-  {
-   "topic": "0cd51e302521",
-   "display_name": "Massie files Hegseth impeachment articles",
-   "rank": 15,
-   "post_count": 5121,
-   "category": "politics",
-   "started": "2026-11-08",
-   "new": false
-  },
-  {
-   "topic": "ce4d185ded6f",
-   "display_name": "Midterm election race results",
-   "rank": 16,
-   "post_count": 1269,
-   "category": "politics",
-   "started": "2026-11-07",
-   "new": false
-  },
-  {
-   "topic": "053229b6e075",
-   "display_name": "Senate votes on energy permitting bill",
-   "rank": 17,
-   "post_count": 545,
-   "category": "politics",
+   "topic": "120fad822dc8",
+   "display_name": "NFL trade deadline approaches",
+   "rank": 10,
+   "post_count": 135,
+   "category": "sports",
    "started": "2026-11-09",
    "new": true
   },
   {
    "topic": "1cc2c00ae70f",
    "display_name": "Democrats' congressional priorities",
-   "rank": 18,
-   "post_count": 4220,
+   "rank": 11,
+   "post_count": 4805,
    "category": "politics",
    "started": "2026-11-06",
    "new": false
   },
   {
-   "topic": "2b6f485ef877",
-   "display_name": "Trump claims he \"won in Iran\"",
-   "rank": 19,
-   "post_count": 1403,
+   "topic": "0cd51e302521",
+   "display_name": "Massie files Hegseth impeachment articles",
+   "rank": 12,
+   "post_count": 5314,
    "category": "politics",
-   "started": "2026-11-06",
+   "started": "2026-11-08",
    "new": false
   },
   {
    "topic": "669eb443521a",
    "display_name": "Midterm election aftermath",
-   "rank": 20,
-   "post_count": 283,
+   "rank": 13,
+   "post_count": 614,
    "category": "politics",
    "started": "2026-11-09",
    "new": false
   },
   {
-   "topic": "8075b9afb0b3",
-   "display_name": "New Congress member orientation",
+   "topic": "b029f075f9a0",
+   "display_name": "Trump's \"different shaped Ukraine\" remark",
+   "rank": 14,
+   "post_count": 847,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": false
+  },
+  {
+   "topic": "0fca49af06fb",
+   "display_name": "Lauren Boebert's congressional seat",
+   "rank": 15,
+   "post_count": 1366,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": true
+  },
+  {
+   "topic": "f6745d22806f",
+   "display_name": "Conservatives pledge £36bn welfare cuts",
+   "rank": 16,
+   "post_count": 302,
+   "category": "politics",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "29c959ea8508",
+   "display_name": "Heavy rain floods Gaza tents",
+   "rank": 17,
+   "post_count": 5494,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": false
+  },
+  {
+   "topic": "0a6b73c76957",
+   "display_name": "Colom vs. Hyde-Smith Senate race",
+   "rank": 18,
+   "post_count": 2951,
+   "category": "politics",
+   "started": "2026-11-06",
+   "new": false
+  },
+  {
+   "topic": "3983e0dce831",
+   "display_name": "Backyard bird sightings",
+   "rank": 19,
+   "post_count": 466,
+   "category": "culture",
+   "started": "2026-11-07",
+   "new": false
+  },
+  {
+   "topic": "02f8f8fc64ec",
+   "display_name": "Disney partners with Adobe on AI",
+   "rank": 20,
+   "post_count": 203,
+   "category": "business",
+   "started": "2026-11-09",
+   "new": true
+  },
+  {
+   "topic": "9099e8ff9188",
+   "display_name": "CBS last in election night ratings",
    "rank": 21,
-   "post_count": 222,
+   "post_count": 1234,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "d1fd03c74158",
+   "display_name": "Brand's father speaks outside court",
+   "rank": 22,
+   "post_count": 159,
+   "category": "entertainment",
+   "started": "2026-11-09",
+   "new": true
+  },
+  {
+   "topic": "053229b6e075",
+   "display_name": "Senate votes on energy permitting bill",
+   "rank": 23,
+   "post_count": 587,
    "category": "politics",
    "started": "2026-11-09",
    "new": true
@@ -201,37 +219,19 @@
   {
    "topic": "13dcaa82e2bd",
    "display_name": "Autumn foliage photos",
-   "rank": 22,
-   "post_count": 889,
+   "rank": 24,
+   "post_count": 954,
    "category": "culture",
    "started": "2026-11-07",
    "new": false
   },
   {
-   "topic": "a56eadca42c5",
-   "display_name": "US data center ban votes",
-   "rank": 23,
-   "post_count": 5736,
-   "category": "politics",
-   "started": "2026-10-29",
-   "new": false
-  },
-  {
-   "topic": "9099e8ff9188",
-   "display_name": "CBS last in election night ratings",
-   "rank": 24,
-   "post_count": 1178,
-   "category": "entertainment",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "4089f3c7341c",
-   "display_name": "Attack reported on Riyadh Aramco building",
+   "topic": "1cc4c01f72e9",
+   "display_name": "Mark Carney's economic agenda",
    "rank": 25,
-   "post_count": 159,
+   "post_count": 106,
    "category": "politics",
-   "started": "2026-11-08",
+   "started": "2026-11-09",
    "new": true
   }
  ],
@@ -615,28 +615,40 @@
   ],
   "2026-11-10": [
    "'Who's really running your Bluesky' meme",
+   "Allegations against David Walliams",
    "Attack reported on Riyadh Aramco building",
    "Autumn foliage photos",
+   "Backyard bird sightings",
    "Boebert's Colorado reelection race",
    "Booker Prize winner announcement",
+   "Brand's father speaks outside court",
    "CBS last in election night ratings",
+   "COP31 climate summit in Antalya",
    "California votes on billionaire tax",
    "Carl Sagan Day",
    "Colom vs. Hyde-Smith Senate race",
+   "Conservatives pledge £36bn welfare cuts",
    "DC chief eyes Christian audience",
    "Democrats' congressional priorities",
+   "Disney partners with Adobe on AI",
+   "Edmund Fitzgerald sinking anniversary",
    "Films watched more than six times",
    "Future of DC's shared universe",
    "Google cuts search for AI-banning schools",
    "Hawley calls for Capitol prayer fast",
+   "Heavy rain floods Gaza tents",
    "Hegseth blocks officer promotions",
+   "House House's AI use in Big Walk",
    "Israel's war in Gaza",
    "Jensen Huang honey trap report",
    "Krakow shooting suspect dies",
+   "Lauren Boebert's congressional seat",
+   "Mark Carney's economic agenda",
    "Massie files Hegseth impeachment articles",
    "Midterm election aftermath",
    "Midterm election race results",
    "Mike Johnson on midterm results",
+   "NFL trade deadline approaches",
    "New Congress member orientation",
    "Ocarina of Time remake release",
    "Pope Leo arrives in Argentina",
@@ -650,7 +662,8 @@
    "US data center ban votes",
    "USPS unveils mythical creature stamps",
    "Van Hollen open to Senate leader run",
-   "Vehicles women actually like meme"
+   "Vehicles women actually like meme",
+   "Veterans Day observances"
   ]
  }
 }
