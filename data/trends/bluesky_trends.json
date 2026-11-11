@@ -6,149 +6,221 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-11T18:49:49+00:00",
+ "retrieved_at": "2026-11-11T22:38:33+00:00",
  "date": "2026-11-11",
  "trends": [
   {
-   "topic": "25a6746ef985",
-   "display_name": "Trump's VA overhaul strains hospitals",
-   "rank": 1,
-   "post_count": 332,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": true
-  },
-  {
-   "topic": "1cc2c00ae70f",
-   "display_name": "11 Democrats miss Hegseth vote",
-   "rank": 2,
-   "post_count": 34053,
-   "category": "politics",
-   "started": "2026-11-06",
-   "new": true
-  },
-  {
-   "topic": "35b37521dc87",
-   "display_name": "Remembering relatives who served in war",
-   "rank": 3,
-   "post_count": 5990,
-   "category": "culture",
-   "started": "2026-11-06",
-   "new": true
-  },
-  {
-   "topic": "105480a5b405",
-   "display_name": "Films watched more than six times",
-   "rank": 4,
-   "post_count": 6896,
-   "category": "entertainment",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake sales",
-   "rank": 5,
-   "post_count": 12236,
-   "category": "science-tech",
-   "started": "2026-11-04",
-   "new": true
-  },
-  {
-   "topic": "297b1f01e9f3",
-   "display_name": "Rex Ryan arrested in Nashville",
-   "rank": 6,
-   "post_count": 140,
-   "category": "sports",
-   "started": "2026-11-11",
-   "new": true
-  },
-  {
    "topic": "7afee440e52b",
    "display_name": "Jensen Huang and Alice Huang",
-   "rank": 7,
-   "post_count": 1669,
+   "rank": 1,
+   "post_count": 2149,
    "category": "business",
    "started": "2026-11-10",
    "new": true
   },
   {
-   "topic": "b78e8878b312",
-   "display_name": "Books to take the oath on",
-   "rank": 8,
-   "post_count": 714,
+   "topic": "62c6a2aac97b",
+   "display_name": "Ukraine reports daily Russian losses",
+   "rank": 2,
+   "post_count": 1614,
+   "category": "politics",
+   "started": "2026-11-08",
+   "new": false
+  },
+  {
+   "topic": "c9a7019a7a35",
+   "display_name": "Calls to release Epstein files",
+   "rank": 3,
+   "post_count": 748,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": false
+  },
+  {
+   "topic": "35b37521dc87",
+   "display_name": "Veterans Day tributes",
+   "rank": 4,
+   "post_count": 6835,
    "category": "culture",
-   "started": "2026-11-10",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
+   "topic": "0c7093e783eb",
+   "display_name": "SS United States becomes reef",
+   "rank": 5,
+   "post_count": 259,
+   "category": "other",
+   "started": "2026-11-11",
    "new": true
   },
   {
    "topic": "af60e8ea7b06",
    "display_name": "'Who's really running your Bluesky' meme",
-   "rank": 9,
-   "post_count": 1815,
+   "rank": 6,
+   "post_count": 1857,
    "category": "culture",
    "started": "2026-11-09",
    "new": false
   },
   {
-   "topic": "5408f000f708",
-   "display_name": "James Gunn fired from DC Studios",
-   "rank": 10,
-   "post_count": 2119,
-   "category": "entertainment",
-   "started": "2026-11-09",
+   "topic": "b78e8878b312",
+   "display_name": "Books to take the oath on",
+   "rank": 7,
+   "post_count": 823,
+   "category": "culture",
+   "started": "2026-11-10",
    "new": true
   },
   {
-   "topic": "ae2a865f276e",
-   "display_name": "Alex Karp open to 2028 Democrat",
-   "rank": 11,
-   "post_count": 855,
-   "category": "politics",
-   "started": "2026-11-11",
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake",
+   "rank": 8,
+   "post_count": 12368,
+   "category": "entertainment",
+   "started": "2026-11-04",
    "new": true
+  },
+  {
+   "topic": "105480a5b405",
+   "display_name": "Films watched more than six times",
+   "rank": 9,
+   "post_count": 7087,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "9099e8ff9188",
+   "display_name": "CBS last in election night ratings",
+   "rank": 10,
+   "post_count": 1549,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": false
   },
   {
    "topic": "0a6b73c76957",
-   "display_name": "Colom vs. Hyde-Smith Senate race",
-   "rank": 12,
-   "post_count": 3984,
+   "display_name": "Mississippi votes in Senate race",
+   "rank": 11,
+   "post_count": 4884,
    "category": "politics",
    "started": "2026-11-06",
-   "new": false
+   "new": true
+  },
+  {
+   "topic": "8ba552802f17",
+   "display_name": "Arlington guard reprimands Hegseth's entourage",
+   "rank": 12,
+   "post_count": 1912,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": true
   },
   {
    "topic": "f59709337f6a",
    "display_name": "White House counsel warns House Democrats",
    "rank": 13,
-   "post_count": 1022,
+   "post_count": 1577,
    "category": "politics",
    "started": "2026-11-11",
    "new": true
   },
   {
-   "topic": "fdaf6a017354",
-   "display_name": "Calls for Medicare for All",
+   "topic": "46336d1909c9",
+   "display_name": "Rubio's military jet trips to Gators games",
    "rank": 14,
-   "post_count": 622,
+   "post_count": 586,
    "category": "politics",
    "started": "2026-11-10",
    "new": true
   },
   {
-   "topic": "fe9df2a75ac0",
-   "display_name": "Trump's Green Beret story",
+   "topic": "ae2a865f276e",
+   "display_name": "Alex Karp open to 2028 Democrat",
    "rank": 15,
-   "post_count": 169,
+   "post_count": 1140,
    "category": "politics",
    "started": "2026-11-11",
    "new": true
   },
   {
+   "topic": "cadb806dd713",
+   "display_name": "Adam Smith hedges on Hegseth impeachment",
+   "rank": 16,
+   "post_count": 102,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": true
+  },
+  {
+   "topic": "25a6746ef985",
+   "display_name": "Trump's VA overhaul strains hospitals",
+   "rank": 17,
+   "post_count": 476,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": true
+  },
+  {
+   "topic": "9716d266c42d",
+   "display_name": "ICE reportedly detains Haitian boy",
+   "rank": 18,
+   "post_count": 1374,
+   "category": "politics",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
    "topic": "669eb443521a",
    "display_name": "Midterm election aftermath",
-   "rank": 16,
-   "post_count": 2421,
+   "rank": 19,
+   "post_count": 2734,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": false
+  },
+  {
+   "topic": "1cc2c00ae70f",
+   "display_name": "AIPAC and missed Hegseth vote",
+   "rank": 20,
+   "post_count": 34901,
+   "category": "politics",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
+   "topic": "28d0e0d7553a",
+   "display_name": "Calls for Schumer to step down",
+   "rank": 21,
+   "post_count": 144,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": true
+  },
+  {
+   "topic": "27b93d15db5c",
+   "display_name": "Immigration crackdown continues after midterms",
+   "rank": 22,
+   "post_count": 190,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": true
+  },
+  {
+   "topic": "80880444f998",
+   "display_name": "Spain general strike over housing",
+   "rank": 23,
+   "post_count": 171,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": true
+  },
+  {
+   "topic": "053229b6e075",
+   "display_name": "Senate votes on energy permitting bill",
+   "rank": 24,
+   "post_count": 949,
    "category": "politics",
    "started": "2026-11-09",
    "new": false
@@ -156,82 +228,10 @@
   {
    "topic": "b029f075f9a0",
    "display_name": "Kushner, Witkoff lead Ukraine talks",
-   "rank": 17,
-   "post_count": 2064,
+   "rank": 25,
+   "post_count": 2259,
    "category": "politics",
    "started": "2026-11-09",
-   "new": true
-  },
-  {
-   "topic": "2b6f485ef877",
-   "display_name": "Trump calls Iran war \"effectively over\"",
-   "rank": 18,
-   "post_count": 1907,
-   "category": "politics",
-   "started": "2026-11-06",
-   "new": false
-  },
-  {
-   "topic": "ce4d185ded6f",
-   "display_name": "Midterm election race results",
-   "rank": 19,
-   "post_count": 2199,
-   "category": "politics",
-   "started": "2026-11-07",
-   "new": false
-  },
-  {
-   "topic": "e49dc2ea6a4e",
-   "display_name": "Michael Marra calls to rejoin EU",
-   "rank": 20,
-   "post_count": 163,
-   "category": "politics",
-   "started": "2026-11-10",
-   "new": true
-  },
-  {
-   "topic": "8ef4705b2182",
-   "display_name": "Russian envoy Alexander Darchiev dies",
-   "rank": 21,
-   "post_count": 125,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": true
-  },
-  {
-   "topic": "59e5d0329afe",
-   "display_name": "Congress debates ICE overhaul",
-   "rank": 22,
-   "post_count": 3707,
-   "category": "politics",
-   "started": "2026-11-05",
-   "new": true
-  },
-  {
-   "topic": "65be9b6917d0",
-   "display_name": "House minority leader election",
-   "rank": 23,
-   "post_count": 3165,
-   "category": "politics",
-   "started": "2026-11-10",
-   "new": true
-  },
-  {
-   "topic": "27b93d15db5c",
-   "display_name": "Immigration crackdown continues after midterms",
-   "rank": 24,
-   "post_count": 114,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": true
-  },
-  {
-   "topic": "8ece7954a39f",
-   "display_name": "Seattle mayor expands police surveillance",
-   "rank": 25,
-   "post_count": 106,
-   "category": "politics",
-   "started": "2026-11-10",
    "new": true
   }
  ],
@@ -625,11 +625,16 @@
    "'Who's really running your Bluesky' meme",
    "11 Democrats miss Hegseth vote",
    "11 Democrats miss impeachment vote",
+   "AIPAC and missed Hegseth vote",
+   "Adam Smith hedges on Hegseth impeachment",
    "Alex Karp open to 2028 Democrat",
+   "Arlington guard reprimands Hegseth's entourage",
    "Books to take the oath on",
    "CBS last in election night ratings",
    "COP31 climate summit in Antalya",
    "Calls for Medicare for All",
+   "Calls for Schumer to step down",
+   "Calls to release Epstein files",
    "Child vaccination rates fall nationwide",
    "Colom vs. Hyde-Smith Senate race",
    "Congress debates ICE overhaul",
@@ -644,6 +649,7 @@
    "Hegseth responds to impeachment push",
    "Hoax bomb threats target European schools",
    "House minority leader election",
+   "ICE reportedly detains Haitian boy",
    "Immigration crackdown continues after midterms",
    "Israel's actions in Gaza",
    "James Gunn fired from DC Studios",
@@ -655,7 +661,9 @@
    "Michael Marra calls to rejoin EU",
    "Midterm election aftermath",
    "Midterm election race results",
+   "Mississippi votes in Senate race",
    "Nvidia CEO shareholder lawsuit",
+   "Ocarina of Time remake",
    "Ocarina of Time remake release",
    "Ocarina of Time remake sales",
    "Pope Leo arrives in Argentina",
@@ -663,10 +671,14 @@
    "Remembering relatives who served in war",
    "Remembrance Day fallen soldier tributes",
    "Rex Ryan arrested in Nashville",
+   "Rubio's military jet trips to Gators games",
    "Russell Brand London trial",
    "Russian envoy Alexander Darchiev dies",
+   "SS United States becomes reef",
    "Scion returns with kei truck",
    "Seattle mayor expands police surveillance",
+   "Senate votes on energy permitting bill",
+   "Spain general strike over housing",
    "Stacy Keach dies at 85",
    "Trump calls Iran war \"effectively over\"",
    "Trump project records preservation",
@@ -674,8 +686,10 @@
    "Trump's VA overhaul strains hospitals",
    "Tucker Carlson questions pyramid building",
    "UK MPs seek to criminalize camming",
+   "Ukraine reports daily Russian losses",
    "Unsexy policies that would help millions",
    "Veterans Day observances",
+   "Veterans Day tributes",
    "White House counsel warns House Democrats"
   ]
  }
