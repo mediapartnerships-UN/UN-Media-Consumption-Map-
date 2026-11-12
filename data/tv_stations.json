@@ -1,4 +1,20 @@
 {
+  "AFG": {
+    "name": "Afghanistan",
+    "stations": [
+      {
+        "name": "Ariana Television Network",
+        "article": "Ariana_Television_Network",
+        "sitelinks": 9
+      },
+      {
+        "name": "Shamshad TV",
+        "article": "Shamshad_TV",
+        "sitelinks": 4
+      }
+    ],
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Afghanistan"
+  },
   "AGO": {
     "name": "Angola",
     "stations": [
@@ -48,7 +64,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Angola"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Angola"
   },
   "ALB": {
     "name": "Albania",
@@ -94,11 +110,6 @@
         "sitelinks": 5
       },
       {
-        "name": "Alsat TV",
-        "article": "Alsat",
-        "sitelinks": 4
-      },
-      {
         "name": "RTSH 2",
         "article": "RTSH_2",
         "sitelinks": 4
@@ -109,44 +120,99 @@
         "sitelinks": 4
       },
       {
-        "name": "Top News",
-        "article": "Top_News",
+        "name": "Albanian Screen",
+        "article": "Albanian_Screen",
+        "sitelinks": 3
+      },
+      {
+        "name": "Alsat TV",
+        "article": "Alsat",
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Albania"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Albania"
   },
   "AND": {
     "name": "Andorra",
     "stations": [
+      {
+        "name": "Ràdio i Televisió d'Andorra",
+        "article": "Radio_and_Television_of_Andorra",
+        "sitelinks": 27
+      },
       {
         "name": "Andorra Televisió",
         "article": "Andorra_Televisió",
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Andorra"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Andorra"
   },
   "ARE": {
     "name": "United Arab Emirates",
     "stations": [
+      {
+        "name": "Al Arabiya",
+        "article": "Al_Arabiya",
+        "sitelinks": 35
+      },
+      {
+        "name": "Cartoon Network Arabic",
+        "article": "Cartoon_Network_Arabic",
+        "sitelinks": 21
+      },
+      {
+        "name": "MBC 4",
+        "article": "MBC_4",
+        "sitelinks": 11
+      },
+      {
+        "name": "Dubai TV",
+        "article": "Dubai_TV",
+        "sitelinks": 8
+      },
+      {
+        "name": "MBC 2",
+        "article": "MBC_2_(Saudi_TV_channel)",
+        "sitelinks": 8
+      },
+      {
+        "name": "Abu Dhabi Sports Channel",
+        "article": "Abu_Dhabi_Sports",
+        "sitelinks": 6
+      },
+      {
+        "name": "Abu Dhabi TV",
+        "article": "Abu_Dhabi_TV",
+        "sitelinks": 6
+      },
       {
         "name": "Dubai One",
         "article": "Dubai_One",
         "sitelinks": 6
       },
       {
+        "name": "Dubai Sports",
+        "article": "Dubai_Sports",
+        "sitelinks": 6
+      },
+      {
+        "name": "Sama Dubai",
+        "article": "Sama_Dubai",
+        "sitelinks": 6
+      },
+      {
+        "name": "Cartoon Network",
+        "article": "Cartoon_Network_(Middle_East_and_Africa)",
+        "sitelinks": 4
+      },
+      {
         "name": "Radio and television channels of Dubai",
         "article": "Radio_and_television_channels_of_Dubai",
         "sitelinks": 3
-      },
-      {
-        "name": "Fox Rewayat",
-        "article": "Fox_Rewayat",
-        "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_the_United_Arab_Emirates"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_the_United_Arab_Emirates"
   },
   "ARG": {
     "name": "Argentina",
@@ -157,8 +223,8 @@
         "sitelinks": 61
       },
       {
-        "name": "Televisión Pública",
-        "article": "Televisión_Pública",
+        "name": "Canal Siete",
+        "article": "Canal_Siete_(Argentina)",
         "sitelinks": 16
       },
       {
@@ -212,7 +278,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina"
   },
   "ARM": {
     "name": "Armenia",
@@ -253,7 +319,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Armenia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Armenia"
   },
   "AUS": {
     "name": "Australia",
@@ -304,6 +370,11 @@
         "sitelinks": 4
       },
       {
+        "name": "7food network",
+        "article": "7food_network",
+        "sitelinks": 3
+      },
+      {
         "name": "9Go!",
         "article": "9Go!",
         "sitelinks": 3
@@ -312,14 +383,9 @@
         "name": "ABC Family",
         "article": "ABC_Family_(Australian_TV_channel)",
         "sitelinks": 3
-      },
-      {
-        "name": "GWN7",
-        "article": "Seven_Regional_WA",
-        "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Australia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Australia"
   },
   "AUT": {
     "name": "Austria",
@@ -380,7 +446,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Austria"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Austria"
   },
   "AZE": {
     "name": "Azerbaijan",
@@ -388,7 +454,7 @@
       {
         "name": "İctimai Television",
         "article": "İctimai_Television",
-        "sitelinks": 32
+        "sitelinks": 33
       },
       {
         "name": "AzTV",
@@ -396,7 +462,7 @@
         "sitelinks": 26
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Azerbaijan"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Azerbaijan"
   },
   "BDI": {
     "name": "Burundi",
@@ -407,7 +473,7 @@
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Burundi"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Burundi"
   },
   "BEL": {
     "name": "Belgium",
@@ -415,7 +481,7 @@
       {
         "name": "Euronews",
         "article": "Euronews",
-        "sitelinks": 63
+        "sitelinks": 64
       },
       {
         "name": "RTBF",
@@ -473,7 +539,7 @@
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Belgium"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Belgium"
   },
   "BEN": {
     "name": "Benin",
@@ -484,7 +550,7 @@
         "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "BFA": {
     "name": "Burkina Faso",
@@ -500,7 +566,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "BGD": {
     "name": "Bangladesh",
@@ -566,7 +632,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Bangladesh"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Bangladesh"
   },
   "BGR": {
     "name": "Bulgaria",
@@ -584,7 +650,7 @@
       {
         "name": "bTV",
         "article": "BTV_(Bulgaria)",
-        "sitelinks": 16
+        "sitelinks": 17
       },
       {
         "name": "Nova",
@@ -632,7 +698,7 @@
         "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Bulgaria"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Bulgaria"
   },
   "BIH": {
     "name": "Bosnia and Herzegovina",
@@ -698,7 +764,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Bosnia_and_Herzegovina"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Bosnia_and_Herzegovina"
   },
   "BLR": {
     "name": "Belarus",
@@ -739,7 +805,7 @@
         "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Belarus"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Belarus"
   },
   "BLZ": {
     "name": "Belize",
@@ -750,7 +816,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Belize"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Belize"
   },
   "BOL": {
     "name": "Bolivia",
@@ -796,6 +862,11 @@
         "sitelinks": 2
       },
       {
+        "name": "Cadena A",
+        "article": "Cadena_A",
+        "sitelinks": 2
+      },
+      {
         "name": "F10",
         "article": "F10_(TV_channel)",
         "sitelinks": 2
@@ -806,7 +877,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Bolivia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Bolivia"
   },
   "BRA": {
     "name": "Brazil",
@@ -872,7 +943,7 @@
         "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Brazil"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Brazil"
   },
   "BRB": {
     "name": "Barbados",
@@ -893,7 +964,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Barbados"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Barbados"
   },
   "BRN": {
     "name": "Brunei Darussalam",
@@ -909,7 +980,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Brunei"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Brunei"
   },
   "BWA": {
     "name": "Botswana",
@@ -920,7 +991,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Botswana"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Botswana"
   },
   "CAN": {
     "name": "Canada",
@@ -986,7 +1057,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Canada"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Canada"
   },
   "CHE": {
     "name": "Switzerland",
@@ -1039,7 +1110,7 @@
       {
         "name": "3+ (TV channel)",
         "article": "3+_(TV_channel)",
-        "sitelinks": 6
+        "sitelinks": 5
       },
       {
         "name": "Puls 8",
@@ -1052,7 +1123,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Switzerland"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Switzerland"
   },
   "CHL": {
     "name": "Chile",
@@ -1118,7 +1189,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Chile"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Chile"
   },
   "CHN": {
     "name": "China",
@@ -1164,7 +1235,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_China"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_China"
   },
   "CIV": {
     "name": "Cote d'Ivoire",
@@ -1175,7 +1246,7 @@
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "CMR": {
     "name": "Cameroon",
@@ -1191,7 +1262,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "COD": {
     "name": "Democratic Republic of the Congo",
@@ -1202,7 +1273,7 @@
         "sitelinks": 9
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "COG": {
     "name": "Congo, Rep.",
@@ -1213,7 +1284,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "COL": {
     "name": "Colombia",
@@ -1239,13 +1310,13 @@
         "sitelinks": 6
       },
       {
-        "name": "Canal Institucional",
-        "article": "Canal_Institucional",
-        "sitelinks": 5
-      },
-      {
         "name": "Señal Colombia",
         "article": "Señal_Colombia",
+        "sitelinks": 6
+      },
+      {
+        "name": "Canal Institucional",
+        "article": "Canal_Institucional",
         "sitelinks": 5
       },
       {
@@ -1269,17 +1340,17 @@
         "sitelinks": 4
       },
       {
+        "name": "Telemedellín",
+        "article": "Telemedellín",
+        "sitelinks": 3
+      },
+      {
         "name": "Telecafé",
         "article": "Telecafé",
         "sitelinks": 2
-      },
-      {
-        "name": "Telecaribe",
-        "article": "Telecaribe",
-        "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Colombia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Colombia"
   },
   "CPV": {
     "name": "Cabo Verde",
@@ -1290,7 +1361,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Cape_Verde"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Cape_Verde"
   },
   "CRI": {
     "name": "Costa Rica",
@@ -1321,7 +1392,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Costa_Rica"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Costa_Rica"
   },
   "CUB": {
     "name": "Cuba",
@@ -1357,7 +1428,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Cuba"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Cuba"
   },
   "CYP": {
     "name": "Cyprus",
@@ -1403,7 +1474,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Cyprus"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Cyprus"
   },
   "CZE": {
     "name": "Czechia",
@@ -1460,7 +1531,7 @@
       },
       {
         "name": "FilmBox+ One",
-        "article": "FilmBox",
+        "article": "FilmBox+",
         "sitelinks": 7
       },
       {
@@ -1469,7 +1540,7 @@
         "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Czechia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Czechia"
   },
   "DEU": {
     "name": "Germany",
@@ -1535,7 +1606,7 @@
         "sitelinks": 24
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Germany"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Germany"
   },
   "DJI": {
     "name": "Djibouti",
@@ -1546,7 +1617,7 @@
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "DNK": {
     "name": "Denmark",
@@ -1612,7 +1683,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Denmark"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Denmark"
   },
   "DOM": {
     "name": "Dominican Republic",
@@ -1643,7 +1714,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_the_Dominican_Republic"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_the_Dominican_Republic"
   },
   "DZA": {
     "name": "Algeria",
@@ -1664,6 +1735,11 @@
         "sitelinks": 7
       },
       {
+        "name": "AL24news",
+        "article": "AL24_News",
+        "sitelinks": 6
+      },
+      {
         "name": "Canal Algérie",
         "article": "TV2_(Algerian_TV_channel)",
         "sitelinks": 6
@@ -1674,6 +1750,11 @@
         "sitelinks": 6
       },
       {
+        "name": "TV8",
+        "article": "TV8_(Algerian_TV_channel)",
+        "sitelinks": 6
+      },
+      {
         "name": "Echorouk TV",
         "article": "Echorouk_TV",
         "sitelinks": 5
@@ -1681,11 +1762,6 @@
       {
         "name": "TV6",
         "article": "TV6_(Algerian_TV_channel)",
-        "sitelinks": 5
-      },
-      {
-        "name": "TV8",
-        "article": "TV8_(Algerian_TV_channel)",
         "sitelinks": 5
       },
       {
@@ -1702,14 +1778,9 @@
         "name": "Dzaïr TV",
         "article": "Dzaïr_TV",
         "sitelinks": 4
-      },
-      {
-        "name": "Echorouk News",
-        "article": "Echorouk_News",
-        "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Algeria"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Algeria"
   },
   "ECU": {
     "name": "Ecuador",
@@ -1750,12 +1821,17 @@
         "sitelinks": 3
       },
       {
+        "name": "La Tele (Ecuador)",
+        "article": "La_Tele_(Ecuador)",
+        "sitelinks": 2
+      },
+      {
         "name": "Quito TV",
         "article": "Quito_TV",
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Ecuador"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Ecuador"
   },
   "EGY": {
     "name": "Egypt",
@@ -1821,7 +1897,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Egypt"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Egypt"
   },
   "ERI": {
     "name": "Eritrea",
@@ -1832,7 +1908,7 @@
         "sitelinks": 10
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "ESP": {
     "name": "Spain",
@@ -1870,7 +1946,12 @@
       {
         "name": "TV3",
         "article": "TV3_(Catalan_TV_channel)",
-        "sitelinks": 22
+        "sitelinks": 23
+      },
+      {
+        "name": "RNE",
+        "article": "Radio_Nacional_de_España",
+        "sitelinks": 20
       },
       {
         "name": "Canal 24 Horas",
@@ -1891,14 +1972,9 @@
         "name": "EITB",
         "article": "EITB",
         "sitelinks": 17
-      },
-      {
-        "name": "Teledeporte",
-        "article": "Teledeporte",
-        "sitelinks": 16
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Spain"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Spain"
   },
   "EST": {
     "name": "Estonia",
@@ -1959,12 +2035,12 @@
         "sitelinks": 2
       },
       {
-        "name": "Kalev Sport",
-        "article": "TV_4_(Estonian_TV_channel)",
+        "name": "Duo 7",
+        "article": "Duo_7",
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Estonia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Estonia"
   },
   "ETH": {
     "name": "Ethiopia",
@@ -2020,17 +2096,17 @@
         "sitelinks": 1
       },
       {
-        "name": "Nahoo TV",
-        "article": "Nahoo_TV",
+        "name": "JTV Ethiopia",
+        "article": "JTV_Ethiopia",
         "sitelinks": 1
       },
       {
-        "name": "Tigrai Broadcasting Service",
-        "article": "Tigrai_Broadcasting_Service",
+        "name": "LTV Ethiopia",
+        "article": "LTV_Ethiopia",
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Ethiopia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Ethiopia"
   },
   "FIN": {
     "name": "Finland",
@@ -2096,7 +2172,33 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Finland"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Finland"
+  },
+  "FJI": {
+    "name": "Fiji",
+    "stations": [
+      {
+        "name": "Fiji One",
+        "article": "Fiji_One",
+        "sitelinks": 4
+      },
+      {
+        "name": "FBC TV",
+        "article": "FBC_TV",
+        "sitelinks": 2
+      },
+      {
+        "name": "Fiji Television",
+        "article": "Fiji_Television",
+        "sitelinks": 1
+      },
+      {
+        "name": "Mai TV",
+        "article": "Mai_TV",
+        "sitelinks": 1
+      }
+    ],
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_European_television_stations"
   },
   "FRA": {
     "name": "France",
@@ -2104,7 +2206,7 @@
       {
         "name": "Euronews",
         "article": "Euronews",
-        "sitelinks": 63
+        "sitelinks": 64
       },
       {
         "name": "France 24",
@@ -2162,7 +2264,7 @@
         "sitelinks": 31
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_France"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_France"
   },
   "GBR": {
     "name": "United Kingdom",
@@ -2170,7 +2272,7 @@
       {
         "name": "British Broadcasting Corporation",
         "article": "BBC",
-        "sitelinks": 149
+        "sitelinks": 150
       },
       {
         "name": "British Academy of Film and Television Arts",
@@ -2203,13 +2305,13 @@
         "sitelinks": 43
       },
       {
-        "name": "BBC Four",
-        "article": "BBC_Four",
-        "sitelinks": 37
-      },
-      {
         "name": "BBC Three",
         "article": "BBC_Three",
+        "sitelinks": 38
+      },
+      {
+        "name": "BBC Four",
+        "article": "BBC_Four",
         "sitelinks": 37
       },
       {
@@ -2228,11 +2330,16 @@
         "sitelinks": 30
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_United_Kingdom"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_United_Kingdom"
   },
   "GEO": {
     "name": "Georgia",
     "stations": [
+      {
+        "name": "Georgian Public Broadcaster",
+        "article": "Georgian_Public_Broadcaster",
+        "sitelinks": 24
+      },
       {
         "name": "Rustavi 2",
         "article": "Rustavi_2",
@@ -2264,7 +2371,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Georgia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Georgia"
   },
   "GHA": {
     "name": "Ghana",
@@ -2273,6 +2380,11 @@
         "name": "Ghana Broadcasting Corporation",
         "article": "Ghana_Broadcasting_Corporation",
         "sitelinks": 7
+      },
+      {
+        "name": "MTA Ghana",
+        "article": "MTA_Ghana",
+        "sitelinks": 5
       },
       {
         "name": "GH One TV",
@@ -2320,7 +2432,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Ghana"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Ghana"
   },
   "GIN": {
     "name": "Guinea",
@@ -2331,7 +2443,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "GMB": {
     "name": "Gambia, The",
@@ -2342,7 +2454,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "GNQ": {
     "name": "Equatorial Guinea",
@@ -2353,11 +2465,16 @@
         "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "GRC": {
     "name": "Greece",
     "stations": [
+      {
+        "name": "Alpha TV",
+        "article": "Alpha_TV",
+        "sitelinks": 17
+      },
       {
         "name": "Mega Channel",
         "article": "Mega_Channel",
@@ -2366,11 +2483,6 @@
       {
         "name": "ANT1",
         "article": "ANT1",
-        "sitelinks": 16
-      },
-      {
-        "name": "Alpha TV",
-        "article": "Alpha_TV",
         "sitelinks": 16
       },
       {
@@ -2419,7 +2531,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Greece"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Greece"
   },
   "GTM": {
     "name": "Guatemala",
@@ -2435,6 +2547,11 @@
         "sitelinks": 3
       },
       {
+        "name": "Canal 7",
+        "article": "Canal_7_(Guatemalan_TV_channel)",
+        "sitelinks": 3
+      },
+      {
         "name": "Canal 11 (Guatemalan TV channel)",
         "article": "Canal_11_(Guatemalan_TV_channel)",
         "sitelinks": 2
@@ -2445,7 +2562,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Guatemala"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Guatemala"
   },
   "HND": {
     "name": "Honduras",
@@ -2476,6 +2593,11 @@
         "sitelinks": 2
       },
       {
+        "name": "Canal 11",
+        "article": "Canal_11_(Honduras)",
+        "sitelinks": 2
+      },
+      {
         "name": "HRCV-TV",
         "article": "Telesistema_Informativo",
         "sitelinks": 2
@@ -2494,9 +2616,14 @@
         "name": "JBN-TV",
         "article": "JBN-TV",
         "sitelinks": 1
+      },
+      {
+        "name": "Teleceiba",
+        "article": "Teleceiba",
+        "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Honduras"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Honduras"
   },
   "HRV": {
     "name": "Croatia",
@@ -2562,7 +2689,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Croatia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Croatia"
   },
   "HTI": {
     "name": "Haiti",
@@ -2571,9 +2698,14 @@
         "name": "Télévision Nationale d'Haïti",
         "article": "Radio_Télévision_Nationale_d'Haïti",
         "sitelinks": 9
+      },
+      {
+        "name": "TQ",
+        "article": "Tele_Quisqueya",
+        "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Haiti"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Haiti"
   },
   "HUN": {
     "name": "Hungary",
@@ -2624,11 +2756,6 @@
         "sitelinks": 9
       },
       {
-        "name": "Cartoonito",
-        "article": "Cartoonito_(Central_and_Eastern_Europe)",
-        "sitelinks": 8
-      },
-      {
         "name": "TV Paprika",
         "article": "TV_Paprika",
         "sitelinks": 8
@@ -2637,9 +2764,14 @@
         "name": "Viasat 3",
         "article": "Viasat_3",
         "sitelinks": 8
+      },
+      {
+        "name": "ATV",
+        "article": "ATV_(Hungary)",
+        "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary"
   },
   "IDN": {
     "name": "Indonesia",
@@ -2685,6 +2817,11 @@
         "sitelinks": 14
       },
       {
+        "name": "Radio Republik Indonesia",
+        "article": "Radio_Republik_Indonesia",
+        "sitelinks": 12
+      },
+      {
         "name": "Trans7",
         "article": "Trans7",
         "sitelinks": 12
@@ -2695,17 +2832,12 @@
         "sitelinks": 11
       },
       {
-        "name": "Radio Republik Indonesia",
-        "article": "Radio_Republik_Indonesia",
-        "sitelinks": 11
-      },
-      {
         "name": "Indovision",
         "article": "Indovision",
         "sitelinks": 10
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Indonesia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Indonesia"
   },
   "IND": {
     "name": "India",
@@ -2713,7 +2845,7 @@
       {
         "name": "Doordarshan",
         "article": "Doordarshan",
-        "sitelinks": 35
+        "sitelinks": 36
       },
       {
         "name": "Nickelodeon",
@@ -2723,7 +2855,7 @@
       {
         "name": "NDTV",
         "article": "NDTV",
-        "sitelinks": 25
+        "sitelinks": 26
       },
       {
         "name": "Star Plus",
@@ -2738,7 +2870,7 @@
       {
         "name": "Prasar Bharati",
         "article": "Prasar_Bharati",
-        "sitelinks": 19
+        "sitelinks": 20
       },
       {
         "name": "The Times Group",
@@ -2771,7 +2903,7 @@
         "sitelinks": 15
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_India"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_India"
   },
   "IRL": {
     "name": "Ireland",
@@ -2795,6 +2927,11 @@
         "name": "RTÉ 2",
         "article": "RTÉ2",
         "sitelinks": 14
+      },
+      {
+        "name": "Cartoon Network",
+        "article": "Cartoon_Network_(United_Kingdom_and_Ireland)",
+        "sitelinks": 11
       },
       {
         "name": "Virgin Media One",
@@ -2830,14 +2967,9 @@
         "name": "Houses of the Oireachtas Channel",
         "article": "Oireachtas_TV",
         "sitelinks": 2
-      },
-      {
-        "name": "Virgin Media Three",
-        "article": "Virgin_Media_Three",
-        "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Ireland"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Ireland"
   },
   "IRN": {
     "name": "Iran",
@@ -2903,7 +3035,7 @@
         "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Iran"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Iran"
   },
   "IRQ": {
     "name": "Iraq",
@@ -2969,7 +3101,7 @@
         "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Iraq"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Iraq"
   },
   "ISL": {
     "name": "Iceland",
@@ -3025,7 +3157,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Iceland"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Iceland"
   },
   "ISR": {
     "name": "Israel",
@@ -3036,19 +3168,24 @@
         "sitelinks": 26
       },
       {
-        "name": "Kan 11",
-        "article": "Kan_11",
-        "sitelinks": 15
-      },
-      {
         "name": "Keshet 12",
         "article": "Channel_12_(Israel)",
+        "sitelinks": 16
+      },
+      {
+        "name": "Kan 11",
+        "article": "Kan_11",
         "sitelinks": 15
       },
       {
         "name": "Hot",
         "article": "Hot_(Israel)",
         "sitelinks": 14
+      },
+      {
+        "name": "Channel 14",
+        "article": "Channel_14_(Israel)",
+        "sitelinks": 11
       },
       {
         "name": "Channel 10",
@@ -3058,6 +3195,11 @@
       {
         "name": "Keshet",
         "article": "Keshet_Media_Group",
+        "sitelinks": 10
+      },
+      {
+        "name": "Reshet 13",
+        "article": "Channel_13_(Israel)",
         "sitelinks": 10
       },
       {
@@ -3079,19 +3221,9 @@
         "name": "Hop! Channel",
         "article": "Hop!_Channel",
         "sitelinks": 8
-      },
-      {
-        "name": "Reshet",
-        "article": "Reshet",
-        "sitelinks": 8
-      },
-      {
-        "name": "Reshet 13",
-        "article": "Channel_13_(Israel)",
-        "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Israel"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Israel"
   },
   "ITA": {
     "name": "Italy",
@@ -3104,7 +3236,7 @@
       {
         "name": "Rai 2",
         "article": "Rai_2",
-        "sitelinks": 36
+        "sitelinks": 35
       },
       {
         "name": "Rai 3",
@@ -3139,7 +3271,7 @@
       {
         "name": "Rai Gulp",
         "article": "Rai_Gulp",
-        "sitelinks": 17
+        "sitelinks": 16
       },
       {
         "name": "Rai Movie",
@@ -3157,7 +3289,7 @@
         "sitelinks": 15
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Italy"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Italy"
   },
   "JAM": {
     "name": "Jamaica",
@@ -3173,7 +3305,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Jamaica"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Jamaica"
   },
   "JOR": {
     "name": "Jordan",
@@ -3204,7 +3336,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Jordan"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Jordan"
   },
   "JPN": {
     "name": "Japan",
@@ -3270,7 +3402,7 @@
         "sitelinks": 23
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Japan"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Japan"
   },
   "KAZ": {
     "name": "Kazakhstan",
@@ -3306,7 +3438,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Kazakhstan"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Kazakhstan"
   },
   "KEN": {
     "name": "Kenya",
@@ -3317,13 +3449,13 @@
         "sitelinks": 9
       },
       {
-        "name": "Kenya Television Network",
-        "article": "Kenya_Television_Network",
-        "sitelinks": 5
-      },
-      {
         "name": "NTV",
         "article": "NTV_(Kenyan_TV_channel)",
+        "sitelinks": 6
+      },
+      {
+        "name": "Kenya Television Network",
+        "article": "Kenya_Television_Network",
         "sitelinks": 5
       },
       {
@@ -3337,7 +3469,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Kenya"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Kenya"
   },
   "KHM": {
     "name": "Cambodia",
@@ -3373,7 +3505,18 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Cambodia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Cambodia"
+  },
+  "KIR": {
+    "name": "Kiribati",
+    "stations": [
+      {
+        "name": "Television Kiribati",
+        "article": "Television_Kiribati",
+        "sitelinks": 1
+      }
+    ],
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_European_television_stations"
   },
   "KOR": {
     "name": "South Korea",
@@ -3439,7 +3582,7 @@
         "sitelinks": 23
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_South_Korea"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_South_Korea"
   },
   "KWT": {
     "name": "Kuwait",
@@ -3450,12 +3593,17 @@
         "sitelinks": 6
       },
       {
+        "name": "Alrai TV",
+        "article": "Alrai_TV",
+        "sitelinks": 5
+      },
+      {
         "name": "Scoop channel",
         "article": "Scope_TV",
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Kuwait"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Kuwait"
   },
   "LAO": {
     "name": "Lao PDR",
@@ -3466,7 +3614,7 @@
         "sitelinks": 11
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Laos"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Laos"
   },
   "LBN": {
     "name": "Lebanon",
@@ -3512,7 +3660,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Lebanon"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Lebanon"
   },
   "LBR": {
     "name": "Liberia",
@@ -3523,7 +3671,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Liberia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Liberia"
   },
   "LBY": {
     "name": "Libya",
@@ -3539,12 +3687,17 @@
         "sitelinks": 5
       },
       {
+        "name": "Libya Alhurra TV",
+        "article": "Libya_Alhurra_TV",
+        "sitelinks": 2
+      },
+      {
         "name": "218TV",
         "article": "218TV",
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "LKA": {
     "name": "Sri Lanka",
@@ -3610,7 +3763,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Sri_Lanka"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Sri_Lanka"
   },
   "LTU": {
     "name": "Lithuania",
@@ -3646,6 +3799,11 @@
         "sitelinks": 8
       },
       {
+        "name": "TV8",
+        "article": "TV8_(Lithuanian_TV_channel)",
+        "sitelinks": 7
+      },
+      {
         "name": "3+",
         "article": "TV3_Plus",
         "sitelinks": 6
@@ -3653,11 +3811,6 @@
       {
         "name": "TV6",
         "article": "TV6_(Lithuanian_TV_channel)",
-        "sitelinks": 6
-      },
-      {
-        "name": "TV8",
-        "article": "TV8_(Lithuanian_TV_channel)",
         "sitelinks": 6
       },
       {
@@ -3676,15 +3829,25 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Lithuania"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Lithuania"
   },
   "LUX": {
     "name": "Luxembourg",
     "stations": [
       {
+        "name": "RTL Group",
+        "article": "RTL_Group",
+        "sitelinks": 44
+      },
+      {
         "name": "RTL Télé Lëtzebuerg",
         "article": "RTL_Lëtzebuerg",
-        "sitelinks": 20
+        "sitelinks": 21
+      },
+      {
+        "name": "Luxe.tv",
+        "article": "Luxe.tv",
+        "sitelinks": 11
       },
       {
         "name": "RTL Zwee",
@@ -3695,9 +3858,14 @@
         "name": "RTL 8",
         "article": "RTL_8",
         "sitelinks": 8
+      },
+      {
+        "name": "Chamber TV",
+        "article": "Chamber_TV",
+        "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Luxembourg"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Luxembourg"
   },
   "LVA": {
     "name": "Latvia",
@@ -3710,7 +3878,7 @@
       {
         "name": "Lativan Public Service Media",
         "article": "Latvian_Public_Service_Media",
-        "sitelinks": 15
+        "sitelinks": 16
       },
       {
         "name": "TV3 Latvia",
@@ -3763,11 +3931,16 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Latvia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Latvia"
   },
   "MAR": {
     "name": "Morocco",
     "stations": [
+      {
+        "name": "Société Nationale de Radiodiffusion et de Télévision",
+        "article": "SNRT",
+        "sitelinks": 23
+      },
       {
         "name": "2M TV",
         "article": "2M_(TV_channel)",
@@ -3824,7 +3997,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Morocco"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Morocco"
   },
   "MDA": {
     "name": "Moldova",
@@ -3850,13 +4023,13 @@
         "sitelinks": 8
       },
       {
-        "name": "Publika TV",
-        "article": "Publika_TV",
-        "sitelinks": 7
-      },
-      {
         "name": "TV8",
         "article": "TV8_(Moldovan_TV_channel)",
+        "sitelinks": 8
+      },
+      {
+        "name": "Publika TV",
+        "article": "Publika_TV",
         "sitelinks": 7
       },
       {
@@ -3890,7 +4063,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Moldova"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Moldova"
   },
   "MDG": {
     "name": "Madagascar",
@@ -3901,7 +4074,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Madagascar"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Madagascar"
   },
   "MEX": {
     "name": "Mexico",
@@ -3912,7 +4085,7 @@
         "sitelinks": 33
       },
       {
-        "name": "Aztec One",
+        "name": "Azteca Uno",
         "article": "Azteca_Uno",
         "sitelinks": 15
       },
@@ -3967,7 +4140,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Mexico"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Mexico"
   },
   "MKD": {
     "name": "North Macedonia",
@@ -4033,7 +4206,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_North_Macedonia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_North_Macedonia"
   },
   "MLI": {
     "name": "Mali",
@@ -4044,7 +4217,7 @@
         "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Mali"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Mali"
   },
   "MLT": {
     "name": "Malta",
@@ -4078,9 +4251,14 @@
         "name": "Smash Television",
         "article": "Smash_Television",
         "sitelinks": 3
+      },
+      {
+        "name": "Xejk",
+        "article": "Xejk",
+        "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Malta"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Malta"
   },
   "MMR": {
     "name": "Myanmar",
@@ -4136,7 +4314,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Myanmar"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Myanmar"
   },
   "MNE": {
     "name": "Montenegro",
@@ -4182,15 +4360,20 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Montenegro"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Montenegro"
   },
   "MNG": {
     "name": "Mongolia",
     "stations": [
       {
+        "name": "Mongolian National Broadcaster",
+        "article": "Mongolian_National_Broadcaster",
+        "sitelinks": 11
+      },
+      {
         "name": "TV5",
         "article": "TV5_(Mongolia)",
-        "sitelinks": 5
+        "sitelinks": 6
       },
       {
         "name": "Edutainment TV",
@@ -4213,6 +4396,11 @@
         "sitelinks": 2
       },
       {
+        "name": "TV8",
+        "article": "TV8_(Mongolian_TV_channel)",
+        "sitelinks": 2
+      },
+      {
         "name": "C1 Television",
         "article": "C1_Television",
         "sitelinks": 1
@@ -4228,17 +4416,12 @@
         "sitelinks": 1
       },
       {
-        "name": "TV8",
-        "article": "TV8_(Mongolian_TV_channel)",
-        "sitelinks": 1
-      },
-      {
         "name": "UBS Television",
         "article": "UBS_Television",
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Mongolia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Mongolia"
   },
   "MOZ": {
     "name": "Mozambique",
@@ -4259,7 +4442,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "MRT": {
     "name": "Mauritania",
@@ -4270,7 +4453,7 @@
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Mauritania"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Mauritania"
   },
   "MUS": {
     "name": "Mauritius",
@@ -4331,7 +4514,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Mauritius"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Mauritius"
   },
   "MWI": {
     "name": "Malawi",
@@ -4342,7 +4525,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Malawi"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Malawi"
   },
   "MYS": {
     "name": "Malaysia",
@@ -4358,11 +4541,6 @@
         "sitelinks": 18
       },
       {
-        "name": "Disney Channel (Asia)",
-        "article": "Disney_Channel_(Southeast_Asia)",
-        "sitelinks": 16
-      },
-      {
         "name": "8TV",
         "article": "8TV_(Malaysian_TV_network)",
         "sitelinks": 14
@@ -4370,7 +4548,7 @@
       {
         "name": "TV1",
         "article": "TV1_(Malaysian_TV_network)",
-        "sitelinks": 13
+        "sitelinks": 14
       },
       {
         "name": "TV9",
@@ -4406,9 +4584,14 @@
         "name": "Jia Yu Channel",
         "article": "Jia_Yu_Channel",
         "sitelinks": 6
+      },
+      {
+        "name": "Sukan+",
+        "article": "Sukan+",
+        "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Malaysia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Malaysia"
   },
   "NAM": {
     "name": "Namibia",
@@ -4424,7 +4607,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Namibia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Namibia"
   },
   "NER": {
     "name": "Niger",
@@ -4445,7 +4628,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Niger"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Niger"
   },
   "NGA": {
     "name": "Nigeria",
@@ -4511,7 +4694,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Nigeria"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Nigeria"
   },
   "NIC": {
     "name": "Nicaragua",
@@ -4572,23 +4755,18 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Nicaragua"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Nicaragua"
   },
   "NLD": {
     "name": "Netherlands",
     "stations": [
-      {
-        "name": "BVN",
-        "article": "BVN",
-        "sitelinks": 10
-      },
       {
         "name": "RTV-7",
         "article": "RTV-7",
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Netherlands"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Netherlands"
   },
   "NOR": {
     "name": "Norway",
@@ -4654,7 +4832,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Norway"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Norway"
   },
   "NPL": {
     "name": "Nepal",
@@ -4710,7 +4888,18 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Nepal"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Nepal"
+  },
+  "NRU": {
+    "name": "Nauru",
+    "stations": [
+      {
+        "name": "Nauru Television",
+        "article": "Nauru_Television",
+        "sitelinks": 4
+      }
+    ],
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_European_television_stations"
   },
   "NZL": {
     "name": "New Zealand",
@@ -4718,7 +4907,7 @@
       {
         "name": "Television New Zealand",
         "article": "TVNZ",
-        "sitelinks": 24
+        "sitelinks": 25
       },
       {
         "name": "Radio New Zealand",
@@ -4776,7 +4965,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_New_Zealand"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_New_Zealand"
   },
   "PAK": {
     "name": "Pakistan",
@@ -4832,17 +5021,17 @@
         "sitelinks": 7
       },
       {
-        "name": "PTV Home",
-        "article": "PTV_Home",
+        "name": "Hum TV",
+        "article": "Hum_TV",
         "sitelinks": 7
       },
       {
-        "name": "SAMAA TV",
-        "article": "Samaa_TV",
+        "name": "PTV Home",
+        "article": "PTV_Home",
         "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Pakistan"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Pakistan"
   },
   "PAN": {
     "name": "Panama",
@@ -4868,7 +5057,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Panama"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Panama"
   },
   "PER": {
     "name": "Peru",
@@ -4894,12 +5083,17 @@
         "sitelinks": 7
       },
       {
+        "name": "TV Perú",
+        "article": "TV_Perú",
+        "sitelinks": 5
+      },
+      {
         "name": "Canal N",
         "article": "Canal_N",
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_local_television_stations_in_South_America"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_European_television_stations"
   },
   "PHL": {
     "name": "Philippines",
@@ -4955,17 +5149,17 @@
         "sitelinks": 7
       },
       {
+        "name": "Shutdown of ABS-CBN broadcasting",
+        "article": "Shutdown_of_ABS-CBN_broadcasting",
+        "sitelinks": 7
+      },
+      {
         "name": "A2Z",
         "article": "A2Z_(TV_network)",
         "sitelinks": 6
-      },
-      {
-        "name": "AksyonTV",
-        "article": "AksyonTV",
-        "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_the_Philippines"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_the_Philippines"
   },
   "PNG": {
     "name": "Papua New Guinea",
@@ -4976,7 +5170,7 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Papua_New_Guinea"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Papua_New_Guinea"
   },
   "POL": {
     "name": "Poland",
@@ -5042,7 +5236,7 @@
         "sitelinks": 12
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Poland"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Poland"
   },
   "PRK": {
     "name": "Korea, Dem. People's Rep.",
@@ -5058,7 +5252,7 @@
         "sitelinks": 11
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_North_Korea"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_North_Korea"
   },
   "PRT": {
     "name": "Portugal",
@@ -5124,7 +5318,7 @@
         "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Portugal"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Portugal"
   },
   "PRY": {
     "name": "Paraguay",
@@ -5155,7 +5349,43 @@
         "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Paraguay"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Paraguay"
+  },
+  "QAT": {
+    "name": "Qatar",
+    "stations": [
+      {
+        "name": "beIN SPORTS",
+        "article": "BeIN_Sports",
+        "sitelinks": 24
+      },
+      {
+        "name": "JeemTV",
+        "article": "Jeem_TV",
+        "sitelinks": 9
+      },
+      {
+        "name": "Qatar TV",
+        "article": "Qatar_Television",
+        "sitelinks": 8
+      },
+      {
+        "name": "Al Araby",
+        "article": "Al_Araby_Television_Network",
+        "sitelinks": 7
+      },
+      {
+        "name": "Alkass Sports Channels",
+        "article": "Alkass_Sports_Channels",
+        "sitelinks": 7
+      },
+      {
+        "name": "Alrayyan TV",
+        "article": "Alrayyan_TV",
+        "sitelinks": 2
+      }
+    ],
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_European_television_stations"
   },
   "ROU": {
     "name": "Romania",
@@ -5173,7 +5403,7 @@
       {
         "name": "National Geographic People",
         "article": "Nat_Geo_People",
-        "sitelinks": 16
+        "sitelinks": 17
       },
       {
         "name": "Acasa TV",
@@ -5221,7 +5451,7 @@
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Romania"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Romania"
   },
   "RUS": {
     "name": "Russia",
@@ -5287,7 +5517,7 @@
         "sitelinks": 18
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Russia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Russia"
   },
   "SAU": {
     "name": "Saudi Arabia",
@@ -5353,7 +5583,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Saudi_Arabia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Saudi_Arabia"
   },
   "SDN": {
     "name": "Sudan",
@@ -5364,7 +5594,7 @@
         "sitelinks": 11
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "SEN": {
     "name": "Senegal",
@@ -5395,7 +5625,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Senegal"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Senegal"
   },
   "SGP": {
     "name": "Singapore",
@@ -5461,7 +5691,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Singapore"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Singapore"
   },
   "SLE": {
     "name": "Sierra Leone",
@@ -5472,7 +5702,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Sierra_Leone"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Sierra_Leone"
   },
   "SLV": {
     "name": "El Salvador",
@@ -5528,7 +5758,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_El_Salvador"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_El_Salvador"
   },
   "SMR": {
     "name": "San Marino",
@@ -5539,7 +5769,7 @@
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_San_Marino"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_San_Marino"
   },
   "SRB": {
     "name": "Serbia",
@@ -5555,19 +5785,19 @@
         "sitelinks": 24
       },
       {
+        "name": "Radio Television of Vojvodina",
+        "article": "Radio_Television_of_Vojvodina",
+        "sitelinks": 18
+      },
+      {
         "name": "Fox Life",
         "article": "Fox_Life",
         "sitelinks": 17
       },
       {
-        "name": "Radio Television of Vojvodina",
-        "article": "Radio_Television_of_Vojvodina",
-        "sitelinks": 17
-      },
-      {
         "name": "Pink (Serbia)",
         "article": "Pink_(Serbia)",
-        "sitelinks": 14
+        "sitelinks": 13
       },
       {
         "name": "Happy TV",
@@ -5605,7 +5835,7 @@
         "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Serbia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Serbia"
   },
   "SSD": {
     "name": "South Sudan",
@@ -5621,7 +5851,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_South_Sudan"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_South_Sudan"
   },
   "SUR": {
     "name": "Suriname",
@@ -5632,11 +5862,16 @@
         "sitelinks": 7
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Suriname"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Suriname"
   },
   "SVN": {
     "name": "Slovenia",
     "stations": [
+      {
+        "name": "Radiotelevizija Slovenija",
+        "article": "Radiotelevizija_Slovenija",
+        "sitelinks": 28
+      },
       {
         "name": "POP TV",
         "article": "Pop_(Slovenian_TV_channel)",
@@ -5678,20 +5913,20 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Slovenia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Slovenia"
   },
   "SWE": {
     "name": "Sweden",
     "stations": [
       {
-        "name": "Viasat Explore",
-        "article": "Viasat_Explore",
+        "name": "SVT1",
+        "article": "SVT1",
         "sitelinks": 24
       },
       {
-        "name": "SVT1",
-        "article": "SVT1",
-        "sitelinks": 23
+        "name": "Viasat Explore",
+        "article": "Viasat_Explore",
+        "sitelinks": 24
       },
       {
         "name": "TV4",
@@ -5744,7 +5979,7 @@
         "sitelinks": 8
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Sweden"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Sweden"
   },
   "SYC": {
     "name": "Seychelles",
@@ -5755,7 +5990,7 @@
         "sitelinks": 5
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Africa"
   },
   "SYR": {
     "name": "Syrian Arab Republic",
@@ -5821,7 +6056,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Syria"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Syria"
   },
   "TCD": {
     "name": "Chad",
@@ -5832,7 +6067,7 @@
         "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Chad"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Chad"
   },
   "TGO": {
     "name": "Togo",
@@ -5843,7 +6078,7 @@
         "sitelinks": 6
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Togo"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Togo"
   },
   "THA": {
     "name": "Thailand",
@@ -5876,7 +6111,7 @@
       {
         "name": "Thai Public Broadcasting Service",
         "article": "Thai_Public_Broadcasting_Service",
-        "sitelinks": 11
+        "sitelinks": 12
       },
       {
         "name": "National Broadcasting Services of Thailand",
@@ -5909,7 +6144,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Thailand"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Thailand"
   },
   "TKM": {
     "name": "Turkmenistan",
@@ -5940,7 +6175,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Turkmenistan"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Turkmenistan"
   },
   "TLS": {
     "name": "Timor-Leste",
@@ -5951,7 +6186,7 @@
         "sitelinks": 15
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Timor-Leste"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Timor-Leste"
   },
   "TTO": {
     "name": "Trinidad and Tobago",
@@ -6007,7 +6242,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Trinidad_and_Tobago"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Trinidad_and_Tobago"
   },
   "TUN": {
     "name": "Tunisia",
@@ -6043,7 +6278,7 @@
         "sitelinks": 4
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Tunisia"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Tunisia"
   },
   "TUR": {
     "name": "Türkiye",
@@ -6066,7 +6301,7 @@
       {
         "name": "Kanal D",
         "article": "Kanal_D",
-        "sitelinks": 27
+        "sitelinks": 26
       },
       {
         "name": "TRT 1",
@@ -6109,7 +6344,7 @@
         "sitelinks": 17
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Turkey"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Turkey"
   },
   "TZA": {
     "name": "Tanzania",
@@ -6135,7 +6370,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Tanzania"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Tanzania"
   },
   "UGA": {
     "name": "Uganda",
@@ -6171,7 +6406,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Uganda"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Uganda"
   },
   "UKR": {
     "name": "Ukraine",
@@ -6237,7 +6472,7 @@
         "sitelinks": 11
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Ukraine"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Ukraine"
   },
   "URY": {
     "name": "Uruguay",
@@ -6298,7 +6533,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Uruguay"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Uruguay"
   },
   "USA": {
     "name": "United States of America",
@@ -6319,7 +6554,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_the_United_States"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_the_United_States"
   },
   "VEN": {
     "name": "Venezuela",
@@ -6385,7 +6620,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Venezuela"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Venezuela"
   },
   "VNM": {
     "name": "Vietnam",
@@ -6411,11 +6646,6 @@
         "sitelinks": 9
       },
       {
-        "name": "Television and mass media in Vietnam",
-        "article": "Mass_media_in_Vietnam",
-        "sitelinks": 8
-      },
-      {
         "name": "VTV4",
         "article": "VTV4",
         "sitelinks": 8
@@ -6423,6 +6653,11 @@
       {
         "name": "Vietnam Multimedia Corporation",
         "article": "Vietnam_Multimedia_Corporation",
+        "sitelinks": 8
+      },
+      {
+        "name": "television and mass media in Vietnam",
+        "article": "Mass_media_in_Vietnam",
         "sitelinks": 8
       },
       {
@@ -6441,17 +6676,17 @@
         "sitelinks": 5
       },
       {
+        "name": "VTC Digital Television",
+        "article": "VTC_Digital_Television",
+        "sitelinks": 5
+      },
+      {
         "name": "VTV5",
         "article": "VTV5",
         "sitelinks": 3
-      },
-      {
-        "name": "VTV6",
-        "article": "VTV6",
-        "sitelinks": 3
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Vietnam"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Vietnam"
   },
   "WSM": {
     "name": "Samoa",
@@ -6467,7 +6702,7 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Samoa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/List_of_television_stations_in_Samoa"
   },
   "YEM": {
     "name": "Yemen",
@@ -6498,7 +6733,7 @@
         "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Yemen"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Yemen"
   },
   "ZAF": {
     "name": "South Africa",
@@ -6539,6 +6774,11 @@
         "sitelinks": 6
       },
       {
+        "name": "CNBC Africa",
+        "article": "CNBC_Africa",
+        "sitelinks": 4
+      },
+      {
         "name": "Channel O",
         "article": "Channel_O",
         "sitelinks": 4
@@ -6557,18 +6797,18 @@
         "name": "Cape Town TV",
         "article": "Cape_Town_TV",
         "sitelinks": 2
-      },
-      {
-        "name": "M-Net Movies",
-        "article": "M-Net_Movies",
-        "sitelinks": 2
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_South_Africa"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_South_Africa"
   },
   "ZWE": {
     "name": "Zimbabwe",
     "stations": [
+      {
+        "name": "Zimbabwe Broadcasting Corporation",
+        "article": "Zimbabwe_Broadcasting_Corporation",
+        "sitelinks": 8
+      },
       {
         "name": "ZBC TV",
         "article": "ZBC_TV",
@@ -6580,12 +6820,12 @@
         "sitelinks": 1
       }
     ],
-    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-10-12 | https://en.wikipedia.org/wiki/Television_in_Zimbabwe"
+    "source": "Wikipedia station lists + Wikidata records, retrieved 2026-11-12 | https://en.wikipedia.org/wiki/Television_in_Zimbabwe"
   },
   "_meta": {
-    "generated_at": "2026-10-12T12:28:37+00:00",
-    "countries_covered": 153,
-    "stations_total": 1133,
+    "generated_at": "2026-11-12T13:16:29+00:00",
+    "countries_covered": 158,
+    "stations_total": 1175,
     "carried_from_previous": 0,
     "max_stations_per_country": 12,
     "method": "Candidate names harvested from Wikipedia station-list pages (regional seeds + per-country lists); every candidate gated through its Wikidata record: correct country (P17), not dissolved (no P576/P582), typed as television/broadcast; ordered by Wikidata sitelink count (international Wikipedia presence). Presence is NOT viewership: the curated top_tv line remains the Atlas's statement of leading stations.",
