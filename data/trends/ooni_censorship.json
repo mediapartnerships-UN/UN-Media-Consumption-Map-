@@ -5,7 +5,7 @@
   "license": "CC BY-NC-SA 4.0 — NON-COMMERCIAL. Integrated 2026-08-11 for the Atlas as a non-profit product (Chief's decision). If the Atlas ever becomes part of a paid or revenue-generating offering, this layer must be removed — see the fetcher docstring for the removal checklist.",
   "method_note": "Volunteer-run OONI Probe measurements of NEWS-category sites over a trailing 28-day window. confirmed = fingerprint-matched blocking (the strong signal); anomalies are consistent-with-blocking but weaker and are never headlined. Measurement volume follows volunteer presence, NOT censorship: a country with no measurements is unknown, never clean. No rates or percentages are derived — counts only, with the measurement total always alongside.",
   "window_days": 28,
-  "generated_at": "2026-11-11T22:56:44+00:00",
+  "generated_at": "2026-11-12T22:31:59+00:00",
   "coverage": {
    "countries_with_measurements": 164,
    "countries_with_confirmed_blocking": 35,
@@ -15,308 +15,308 @@
  "countries": {
   "AFG": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 29759,
+   "measurements": 28696,
    "confirmed": 0,
-   "anomalies": 1181,
-   "ok": 27181,
-   "failures": 1397,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AF&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 1156,
+   "ok": 26231,
+   "failures": 1309,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AF&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "AGO": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 1259,
+   "measurements": 1261,
    "confirmed": 0,
-   "anomalies": 35,
-   "ok": 1205,
+   "anomalies": 36,
+   "ok": 1206,
    "failures": 19,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AO&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AO&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "ALB": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 3303,
+   "measurements": 3240,
    "confirmed": 0,
-   "anomalies": 104,
-   "ok": 3142,
-   "failures": 57,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AL&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 103,
+   "ok": 3081,
+   "failures": 56,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AL&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "AND": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 276,
    "confirmed": 0,
    "anomalies": 1,
    "ok": 270,
    "failures": 5,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AD&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AD&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "ARE": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 13346,
-   "confirmed": 92,
-   "anomalies": 1688,
-   "ok": 11249,
-   "failures": 317,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AE&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "measurements": 13229,
+   "confirmed": 83,
+   "anomalies": 1638,
+   "ok": 11193,
+   "failures": 315,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AE&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "ARG": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 37448,
+   "measurements": 37496,
    "confirmed": 0,
-   "anomalies": 805,
-   "ok": 36108,
-   "failures": 535,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AR&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 809,
+   "ok": 36171,
+   "failures": 516,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AR&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "ARM": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 20180,
+   "measurements": 20202,
    "confirmed": 0,
-   "anomalies": 327,
-   "ok": 19683,
-   "failures": 170,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AM&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 350,
+   "ok": 19678,
+   "failures": 174,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AM&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "ATG": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AG&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AG&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "AUS": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 46809,
+   "measurements": 46721,
    "confirmed": 0,
-   "anomalies": 833,
-   "ok": 45420,
-   "failures": 556,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AU&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 826,
+   "ok": 45332,
+   "failures": 563,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AU&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "AUT": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 41554,
+   "measurements": 45564,
    "confirmed": 0,
-   "anomalies": 2426,
-   "ok": 38395,
-   "failures": 733,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AT&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 2710,
+   "ok": 42084,
+   "failures": 770,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AT&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "AZE": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 7274,
+   "measurements": 7172,
    "confirmed": 0,
-   "anomalies": 722,
-   "ok": 6378,
-   "failures": 174,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=AZ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 709,
+   "ok": 6299,
+   "failures": 164,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=AZ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BDI": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BI&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BI&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "BEL": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 63676,
+   "measurements": 65063,
    "confirmed": 0,
-   "anomalies": 1098,
-   "ok": 61556,
-   "failures": 1022,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BE&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 1092,
+   "ok": 63038,
+   "failures": 933,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BE&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BEN": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 91,
+   "measurements": 89,
    "confirmed": 0,
    "anomalies": 0,
-   "ok": 91,
+   "ok": 89,
    "failures": 0,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BJ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BJ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BFA": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 19956,
+   "measurements": 19962,
    "confirmed": 0,
-   "anomalies": 898,
-   "ok": 17680,
+   "anomalies": 900,
+   "ok": 17684,
    "failures": 1378,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BF&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BF&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BGD": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 31690,
+   "measurements": 32673,
    "confirmed": 1,
-   "anomalies": 899,
-   "ok": 30100,
-   "failures": 690,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BD&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 910,
+   "ok": 31056,
+   "failures": 706,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BD&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BGR": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 8637,
-   "confirmed": 8,
-   "anomalies": 363,
-   "ok": 8155,
-   "failures": 111,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BG&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "measurements": 8819,
+   "confirmed": 6,
+   "anomalies": 365,
+   "ok": 8331,
+   "failures": 117,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BG&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BHR": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 2472,
+   "measurements": 2372,
    "confirmed": 0,
-   "anomalies": 149,
-   "ok": 2287,
-   "failures": 36,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BH&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 134,
+   "ok": 2201,
+   "failures": 37,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BH&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BHS": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BS&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BS&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "BIH": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 303,
+   "measurements": 267,
    "confirmed": 0,
    "anomalies": 5,
-   "ok": 294,
+   "ok": 258,
    "failures": 4,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BA&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BA&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BLR": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 31977,
+   "measurements": 32225,
    "confirmed": 0,
-   "anomalies": 5580,
-   "ok": 25526,
-   "failures": 871,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BY&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "anomalies": 5668,
+   "ok": 25701,
+   "failures": 856,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BY&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BLZ": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 167,
    "confirmed": 0,
    "anomalies": 1,
    "ok": 165,
    "failures": 1,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BZ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BZ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BOL": {
    "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-10"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 1078,
+   "measurements": 1047,
    "confirmed": 0,
    "anomalies": 22,
-   "ok": 1027,
-   "failures": 29,
-   "retrieved": "2026-11-11",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-14 to 2026-11-10 | https://api.ooni.io/api/v1/aggregation?probe_cc=BO&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-11"
+   "ok": 997,
+   "failures": 28,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=BO&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "BRA": {
    "window": {
@@ -2314,301 +2314,301 @@
   },
   "TLS": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 878,
+   "measurements": 944,
    "confirmed": 0,
-   "anomalies": 27,
-   "ok": 844,
-   "failures": 7,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=TL&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 29,
+   "ok": 907,
+   "failures": 8,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=TL&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "TON": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=TO&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=TO&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "TTO": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 1293,
+   "measurements": 1297,
    "confirmed": 0,
    "anomalies": 31,
-   "ok": 1248,
+   "ok": 1252,
    "failures": 14,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=TT&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=TT&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "TUN": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 6228,
+   "measurements": 6256,
    "confirmed": 0,
-   "anomalies": 351,
-   "ok": 5612,
-   "failures": 265,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=TN&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 349,
+   "ok": 5643,
+   "failures": 264,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=TN&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "TUR": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 137160,
-   "confirmed": 3986,
-   "anomalies": 4320,
-   "ok": 125255,
-   "failures": 3599,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=TR&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "measurements": 140958,
+   "confirmed": 4048,
+   "anomalies": 4342,
+   "ok": 128878,
+   "failures": 3690,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=TR&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "TUV": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=TV&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=TV&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "TZA": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 9985,
+   "measurements": 10585,
    "confirmed": 0,
-   "anomalies": 303,
-   "ok": 9267,
-   "failures": 415,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=TZ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 317,
+   "ok": 9856,
+   "failures": 412,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=TZ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "UGA": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 4403,
+   "measurements": 4360,
    "confirmed": 0,
-   "anomalies": 88,
-   "ok": 4272,
-   "failures": 43,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=UG&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 89,
+   "ok": 4223,
+   "failures": 48,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=UG&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "UKR": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 91379,
-   "confirmed": 62,
-   "anomalies": 13653,
-   "ok": 73846,
-   "failures": 3818,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=UA&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "measurements": 93052,
+   "confirmed": 67,
+   "anomalies": 13629,
+   "ok": 75442,
+   "failures": 3914,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=UA&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "URY": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 2766,
+   "measurements": 3194,
    "confirmed": 0,
-   "anomalies": 30,
-   "ok": 2706,
-   "failures": 30,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=UY&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 33,
+   "ok": 3123,
+   "failures": 38,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=UY&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "USA": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 605257,
+   "measurements": 629910,
    "confirmed": 53,
-   "anomalies": 9552,
-   "ok": 579022,
-   "failures": 16630,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=US&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 9824,
+   "ok": 603183,
+   "failures": 16850,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=US&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "UZB": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 7859,
+   "measurements": 8279,
    "confirmed": 0,
-   "anomalies": 765,
-   "ok": 6758,
-   "failures": 336,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=UZ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 782,
+   "ok": 7129,
+   "failures": 368,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=UZ&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "VAT": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=VA&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=VA&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "VCT": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=VC&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=VC&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "VEN": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 449654,
+   "measurements": 457212,
    "confirmed": 0,
-   "anomalies": 46956,
-   "ok": 389994,
-   "failures": 12704,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=VE&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 46726,
+   "ok": 397608,
+   "failures": 12878,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=VE&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "VNM": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 16058,
+   "measurements": 16469,
    "confirmed": 2,
-   "anomalies": 1337,
-   "ok": 14421,
-   "failures": 298,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=VN&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 1371,
+   "ok": 14774,
+   "failures": 322,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=VN&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "VUT": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=VU&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=VU&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "WSM": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
    "measurements": 0,
    "confirmed": 0,
    "anomalies": 0,
    "ok": 0,
    "failures": 0,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=WS&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10",
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=WS&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12",
    "no_measurements": true,
    "note": "No OONI measurements from this country in the window — volunteer coverage, not evidence of an open internet."
   },
   "YEM": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 9675,
+   "measurements": 9349,
    "confirmed": 0,
-   "anomalies": 1210,
-   "ok": 8086,
-   "failures": 379,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=YE&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 1160,
+   "ok": 7835,
+   "failures": 354,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=YE&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "ZAF": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 10783,
+   "measurements": 11514,
    "confirmed": 0,
-   "anomalies": 270,
-   "ok": 10284,
-   "failures": 229,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=ZA&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 274,
+   "ok": 11001,
+   "failures": 239,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=ZA&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "ZMB": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 7510,
+   "measurements": 7469,
    "confirmed": 0,
-   "anomalies": 143,
-   "ok": 7188,
-   "failures": 179,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=ZM&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 148,
+   "ok": 7135,
+   "failures": 186,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=ZM&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   },
   "ZWE": {
    "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-09"
+    "start": "2026-10-15",
+    "end": "2026-11-11"
    },
-   "measurements": 12834,
+   "measurements": 13494,
    "confirmed": 0,
-   "anomalies": 378,
-   "ok": 12097,
-   "failures": 359,
-   "retrieved": "2026-11-10",
-   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-13 to 2026-11-09 | https://api.ooni.io/api/v1/aggregation?probe_cc=ZW&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-10"
+   "anomalies": 432,
+   "ok": 12691,
+   "failures": 371,
+   "retrieved": "2026-11-12",
+   "source": "OONI aggregation API | web_connectivity vs Citizen Lab NEWS list, 2026-10-15 to 2026-11-11 | https://api.ooni.io/api/v1/aggregation?probe_cc=ZW&test_name=web_connectivity&category_code=NEWS | retrieved 2026-11-12"
   }
  }
 }

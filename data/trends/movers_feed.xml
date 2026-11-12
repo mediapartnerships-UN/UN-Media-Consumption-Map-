@@ -5,8 +5,15 @@
     <link>https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html</link>
     <description>The Topic Explorer's daily movers list: which of the tracked UN-relevant topics are rising or falling in worldwide Wikipedia attention, published figures only. Decision support, not a measure of media coverage or public opinion.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:54:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:29:07 +0000</lastBuildDate>
     <atom:link href="https://shakcoder.github.io/UN-Media-Consumption-Map-/data/trends/movers_feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic movers 2026-11-11: United Nations Climate Change conference +298%, Ocean acidification +97%, Renewable energy -79%</title>
+      <link>https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html</link>
+      <guid isPermaLink="false">atlas-movers-2026-11-11</guid>
+      <pubDate>Thu, 12 Nov 2026 23:29:07 +0000</pubDate>
+      <description>&lt;p&gt;&lt;b&gt;Topic movers, measured through 2026-11-11:&lt;/b&gt; attention in the 7 days to that date compared with the prior 30 days.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rising&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;United Nations Climate Change conference +298%&lt;/li&gt;&lt;li&gt;Ocean acidification +97%&lt;/li&gt;&lt;li&gt;Dengue fever +90%&lt;/li&gt;&lt;li&gt;Recycling +89%&lt;/li&gt;&lt;li&gt;Measles +38%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Falling&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Renewable energy -79% (driven by Vietnamese Wikipedia)&lt;/li&gt;&lt;li&gt;International Criminal Court -62%&lt;/li&gt;&lt;li&gt;Digital divide -59% (driven by English Wikipedia)&lt;/li&gt;&lt;li&gt;Internet censorship -56% (driven by English Wikipedia)&lt;/li&gt;&lt;li&gt;Vocational education -50%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;177 topics measured in 22 languages; 6 tracked topics could not be measured today (no current data, too little traffic, or quarantined as non-organic) and are excluded rather than scored from stale figures. Velocity is measured from Wikipedia reading patterns per language edition, volume-weighted: what people look up, not what media publish. Attention trends are decision support, never a measure of media coverage or public opinion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html"&gt;Open the Topic Explorer&lt;/a&gt; for detail, language breakdowns and custom date ranges.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Topic movers 2026-11-10: United Nations Climate Change conference +263%, Paris Agreement +186%, Renewable energy -78%</title>
       <link>https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">atlas-movers-2026-10-10</guid>
       <pubDate>Sun, 11 Oct 2026 21:28:29 +0000</pubDate>
       <description>&lt;p&gt;&lt;b&gt;Topic movers, measured through 2026-10-10:&lt;/b&gt; attention in the 7 days to that date compared with the prior 30 days.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rising&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Renewable energy +635% (driven by Vietnamese Wikipedia)&lt;/li&gt;&lt;li&gt;Pandemic +457%&lt;/li&gt;&lt;li&gt;Wind power +426%&lt;/li&gt;&lt;li&gt;Election +129%&lt;/li&gt;&lt;li&gt;Corruption +117% (driven by English Wikipedia)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Falling&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;United Nations General Assembly -66%&lt;/li&gt;&lt;li&gt;United Nations Security Council -38%&lt;/li&gt;&lt;li&gt;Malaria -33%&lt;/li&gt;&lt;li&gt;5G -29%&lt;/li&gt;&lt;li&gt;International Criminal Court -29%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;179 topics measured in 22 languages; 4 tracked topics could not be measured today (no current data, too little traffic, or quarantined as non-organic) and are excluded rather than scored from stale figures. Velocity is measured from Wikipedia reading patterns per language edition, volume-weighted: what people look up, not what media publish. Attention trends are decision support, never a measure of media coverage or public opinion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html"&gt;Open the Topic Explorer&lt;/a&gt; for detail, language breakdowns and custom date ranges.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Topic movers 2026-10-09: Renewable energy +572%, Pandemic +375%, United Nations General Assembly -67%</title>
-      <link>https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html</link>
-      <guid isPermaLink="false">atlas-movers-2026-10-09</guid>
-      <pubDate>Sat, 10 Oct 2026 21:17:34 +0000</pubDate>
-      <description>&lt;p&gt;&lt;b&gt;Topic movers, measured through 2026-10-09:&lt;/b&gt; attention in the 7 days to that date compared with the prior 30 days.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rising&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Renewable energy +572% (driven by Vietnamese Wikipedia)&lt;/li&gt;&lt;li&gt;Pandemic +375%&lt;/li&gt;&lt;li&gt;Wind power +374%&lt;/li&gt;&lt;li&gt;Children's rights +104%&lt;/li&gt;&lt;li&gt;Election +104%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Falling&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;United Nations General Assembly -67%&lt;/li&gt;&lt;li&gt;United Nations Security Council -39%&lt;/li&gt;&lt;li&gt;Malaria -34%&lt;/li&gt;&lt;li&gt;5G -31%&lt;/li&gt;&lt;li&gt;International Criminal Court -30%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;180 topics measured in 22 languages; 3 tracked topics could not be measured today (no current data, too little traffic, or quarantined as non-organic) and are excluded rather than scored from stale figures. Velocity is measured from Wikipedia reading patterns per language edition, volume-weighted: what people look up, not what media publish. Attention trends are decision support, never a measure of media coverage or public opinion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://shakcoder.github.io/UN-Media-Consumption-Map-/topics.html"&gt;Open the Topic Explorer&lt;/a&gt; for detail, language breakdowns and custom date ranges.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
