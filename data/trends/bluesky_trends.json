@@ -6,176 +6,59 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-13T18:39:33+00:00",
+ "retrieved_at": "2026-11-13T21:56:47+00:00",
  "date": "2026-11-13",
  "trends": [
   {
-   "topic": "fdaf6a017354",
-   "display_name": "Calls for Medicare for All",
-   "rank": 1,
-   "post_count": 1333,
-   "category": "politics",
-   "started": "2026-11-10",
-   "new": false
-  },
-  {
-   "topic": "669eb443521a",
-   "display_name": "Jeffries lists Democratic priorities",
-   "rank": 2,
-   "post_count": 5219,
-   "category": "politics",
-   "started": "2026-11-09",
-   "new": true
-  },
-  {
-   "topic": "db4b37537fe0",
-   "display_name": "Concert history meme",
-   "rank": 3,
-   "post_count": 1843,
-   "category": "entertainment",
-   "started": "2026-11-13",
-   "new": true
-  },
-  {
-   "topic": "929a5b665f23",
-   "display_name": "Coachella lineup age meme",
-   "rank": 4,
-   "post_count": 112,
-   "category": "entertainment",
-   "started": "2026-11-13",
-   "new": true
-  },
-  {
-   "topic": "2fff3b60524e",
-   "display_name": "Microsoft outage \"wrong answers only\" meme",
-   "rank": 5,
-   "post_count": 17067,
-   "category": "science-tech",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "609d4f81f8da",
-   "display_name": "Steve Miner to direct new Friday the 13th",
-   "rank": 6,
-   "post_count": 552,
-   "category": "entertainment",
-   "started": "2026-11-13",
-   "new": true
-  },
-  {
-   "topic": "9eefb4a61dff",
-   "display_name": "Jake Bauers signs free agent deal",
-   "rank": 7,
-   "post_count": 118,
-   "category": "sports",
-   "started": "2026-11-13",
-   "new": true
-  },
-  {
-   "topic": "377c4261-a859-4060-8faf-bcd446cd69e2",
-   "display_name": "Jensen Huang resigns from Nvidia",
-   "rank": 8,
-   "post_count": 11713,
-   "category": "culture",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
    "topic": "1a09490021bc",
    "display_name": "Jensen Huang affair reports",
-   "rank": 9,
-   "post_count": 244,
+   "rank": 1,
+   "post_count": 462,
    "category": "business",
    "started": "2026-11-13",
    "new": true
   },
   {
-   "topic": "aedc1d1adb13",
-   "display_name": "\"Save the whales\" campaign succeeds",
-   "rank": 10,
-   "post_count": 153,
-   "category": "science-tech",
+   "topic": "cf364e4154f7",
+   "display_name": "Tanker hits cruise ship in New Orleans",
+   "rank": 2,
+   "post_count": 573,
+   "category": "other",
    "started": "2026-11-13",
    "new": true
   },
   {
-   "topic": "4af0c9494ebc",
-   "display_name": "Strikes hit Ukrainian and Russian plants",
-   "rank": 11,
-   "post_count": 290,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "b9d8b84f5d35",
-   "display_name": "Lutnick faces Nvidia scrutiny over Megaspeed",
-   "rank": 12,
-   "post_count": 400,
-   "category": "politics",
+   "topic": "6f4ff7d19d90",
+   "display_name": "Weird wisdom tooth stories",
+   "rank": 3,
+   "post_count": 562,
+   "category": "culture",
    "started": "2026-11-13",
    "new": true
   },
   {
-   "topic": "a9add12e09c9",
-   "display_name": "Scott Colom disputes Schumer recruitment claim",
-   "rank": 13,
-   "post_count": 242,
+   "topic": "c95a26319c65",
+   "display_name": "FAA ground stop after AI tool rollout",
+   "rank": 4,
+   "post_count": 1933,
    "category": "politics",
    "started": "2026-11-13",
-   "new": true
-  },
-  {
-   "topic": "28d0e0d7553a",
-   "display_name": "Senator seeks majority leader post",
-   "rank": 14,
-   "post_count": 3889,
-   "category": "politics",
-   "started": "2026-11-11",
    "new": true
   },
   {
    "topic": "105480a5b405",
    "display_name": "Films watched more than six times",
-   "rank": 15,
-   "post_count": 9795,
+   "rank": 5,
+   "post_count": 10059,
    "category": "entertainment",
    "started": "2026-11-05",
    "new": false
   },
   {
-   "topic": "6641ce992760",
-   "display_name": "Trump's White House ballroom",
-   "rank": 16,
-   "post_count": 1700,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
-   "topic": "b029f075f9a0",
-   "display_name": "Kushner meets Zelenskyy",
-   "rank": 17,
-   "post_count": 4411,
-   "category": "politics",
-   "started": "2026-11-09",
-   "new": true
-  },
-  {
-   "topic": "9759982533b9",
-   "display_name": "Close midterm races being counted",
-   "rank": 18,
-   "post_count": 325,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "e3e47ff62f60",
-   "display_name": "Next James Bond casting speculation",
-   "rank": 19,
-   "post_count": 396,
+   "topic": "db4b37537fe0",
+   "display_name": "Concert history meme",
+   "rank": 6,
+   "post_count": 2540,
    "category": "entertainment",
    "started": "2026-11-13",
    "new": true
@@ -183,56 +66,173 @@
   {
    "topic": "dc0b56627c60",
    "display_name": "Trump's Nvidia stock trades",
-   "rank": 20,
-   "post_count": 667,
+   "rank": 7,
+   "post_count": 1027,
    "category": "politics",
    "started": "2026-11-13",
+   "new": true
+  },
+  {
+   "topic": "929a5b665f23",
+   "display_name": "Coachella lineup age meme",
+   "rank": 8,
+   "post_count": 411,
+   "category": "entertainment",
+   "started": "2026-11-13",
+   "new": true
+  },
+  {
+   "topic": "2fff3b60524e",
+   "display_name": "Microsoft 365 outage",
+   "rank": 9,
+   "post_count": 17493,
+   "category": "science-tech",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "377c4261-a859-4060-8faf-bcd446cd69e2",
+   "display_name": "Jensen Huang resigns from Nvidia",
+   "rank": 10,
+   "post_count": 11876,
+   "category": "culture",
+   "started": "2026-11-11",
+   "new": false
+  },
+  {
+   "topic": "28d0e0d7553a",
+   "display_name": "Senator seeks majority leader post",
+   "rank": 11,
+   "post_count": 4523,
+   "category": "politics",
+   "started": "2026-11-11",
    "new": true
   },
   {
    "topic": "0a6b73c76957",
    "display_name": "Scott Colom Mississippi Senate race",
-   "rank": 21,
-   "post_count": 11422,
+   "rank": 12,
+   "post_count": 11505,
    "category": "politics",
    "started": "2026-11-06",
    "new": true
   },
   {
-   "topic": "8e4e997193cc",
-   "display_name": "Taylor Swift's GMA announcement",
-   "rank": 22,
-   "post_count": 1026,
+   "topic": "383bbf3610f1",
+   "display_name": "Boebert's Colorado House race called",
+   "rank": 13,
+   "post_count": 436,
+   "category": "politics",
+   "started": "2026-11-13",
+   "new": true
+  },
+  {
+   "topic": "b029f075f9a0",
+   "display_name": "Kushner meets Zelenskyy",
+   "rank": 14,
+   "post_count": 4589,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": true
+  },
+  {
+   "topic": "59e5d0329afe",
+   "display_name": "Congress debates ICE overhaul",
+   "rank": 15,
+   "post_count": 4577,
+   "category": "politics",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "609d4f81f8da",
+   "display_name": "Steve Miner to direct new Friday the 13th",
+   "rank": 16,
+   "post_count": 773,
    "category": "entertainment",
    "started": "2026-11-13",
    "new": true
   },
   {
-   "topic": "78cebb1593f3",
-   "display_name": "Building collapse reported in Brooklyn",
-   "rank": 23,
-   "post_count": 1213,
-   "category": "other",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
-   "topic": "1cc2c00ae70f",
-   "display_name": "Hegseth impeachment vote",
-   "rank": 24,
-   "post_count": 37125,
+   "topic": "a56eadca42c5",
+   "display_name": "Data center ballot measures",
+   "rank": 17,
+   "post_count": 6918,
    "category": "politics",
-   "started": "2026-11-06",
+   "started": "2026-10-29",
    "new": false
   },
   {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake",
-   "rank": 25,
-   "post_count": 13039,
+   "topic": "3c61a14b07a9",
+   "display_name": "New Garfield series first look",
+   "rank": 18,
+   "post_count": 105,
    "category": "entertainment",
-   "started": "2026-11-04",
+   "started": "2026-11-13",
+   "new": true
+  },
+  {
+   "topic": "5618f40f5168",
+   "display_name": "Quotes that stuck with you",
+   "rank": 19,
+   "post_count": 351,
+   "category": "culture",
+   "started": "2026-11-13",
+   "new": true
+  },
+  {
+   "topic": "d0b135ff487f",
+   "display_name": "David Walliams faces misconduct allegations",
+   "rank": 20,
+   "post_count": 1750,
+   "category": "entertainment",
+   "started": "2026-11-10",
    "new": false
+  },
+  {
+   "topic": "9759982533b9",
+   "display_name": "Close midterm races being counted",
+   "rank": 21,
+   "post_count": 408,
+   "category": "politics",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "13dcaa82e2bd",
+   "display_name": "Autumn foliage photos",
+   "rank": 22,
+   "post_count": 1583,
+   "category": "culture",
+   "started": "2026-11-07",
+   "new": false
+  },
+  {
+   "topic": "312c7fdeec52",
+   "display_name": "Florida city cancels St. Patrick's Day parade",
+   "rank": 23,
+   "post_count": 198,
+   "category": "politics",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "7bb7c6cce080",
+   "display_name": "Sonic's \"Memories and Beyond\" animation released",
+   "rank": 24,
+   "post_count": 385,
+   "category": "entertainment",
+   "started": "2026-11-12",
+   "new": false
+  },
+  {
+   "topic": "eb4e67cc074f",
+   "display_name": "Iran threatens Hormuz shipping",
+   "rank": 25,
+   "post_count": 267,
+   "category": "politics",
+   "started": "2026-11-12",
+   "new": true
   }
  ],
  "history": {
@@ -627,6 +627,7 @@
    "Anthropic's Claude and planned IPO",
    "Autumn foliage photos",
    "Bird photography",
+   "Boebert's Colorado House race called",
    "Books to take the oath on",
    "Building collapse reported in Brooklyn",
    "COP31 climate summit in Antalya",
@@ -637,7 +638,10 @@
    "Concert history meme",
    "Congress debates ICE overhaul",
    "Data center ballot measures",
+   "David Walliams faces misconduct allegations",
+   "FAA ground stop after AI tool rollout",
    "Films watched more than six times",
+   "Florida city cancels St. Patrick's Day parade",
    "Hegseth impeachment vote",
    "House veterans bill vote",
    "Iran threatens Hormuz shipping",
@@ -651,9 +655,11 @@
    "Logan Circle shooting suspect's condo dispute",
    "Lutnick and Nvidia's China chips",
    "Lutnick faces Nvidia scrutiny over Megaspeed",
+   "Microsoft 365 outage",
    "Microsoft 365 outage continues",
    "Microsoft 365 outage reported",
    "Microsoft outage \"wrong answers only\" meme",
+   "New Garfield series first look",
    "Next James Bond casting speculation",
    "Ocarina of Time remake",
    "Pochettino to lead Manchester United",
@@ -669,6 +675,7 @@
    "Steve Miner to direct new Friday the 13th",
    "Strikes hit Ukrainian and Russian plants",
    "Talarico urges working with Trump",
+   "Tanker hits cruise ship in New Orleans",
    "Taylor Swift's GMA announcement",
    "Trump calls Democrats corrupt and evil",
    "Trump names Stephen Miller chief of staff",
@@ -677,7 +684,8 @@
    "Trump's White House ballroom",
    "Ukraine reports Starshield speed limits",
    "Ukraine reports daily Russian losses",
-   "Veterans Day tributes"
+   "Veterans Day tributes",
+   "Weird wisdom tooth stories"
   ]
  }
 }
