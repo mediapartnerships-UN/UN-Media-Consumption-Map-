@@ -6,14 +6,131 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-14T02:36:58+00:00",
+ "retrieved_at": "2026-11-14T12:27:26+00:00",
  "date": "2026-11-14",
  "trends": [
   {
+   "topic": "3ae353b8cee7",
+   "display_name": "Duffy seeks $50B for aviation",
+   "rank": 1,
+   "post_count": 979,
+   "category": "politics",
+   "started": "2026-11-14",
+   "new": true
+  },
+  {
+   "topic": "5216827d128e",
+   "display_name": "Russell Brand court case",
+   "rank": 2,
+   "post_count": 871,
+   "category": "entertainment",
+   "started": "2026-11-12",
+   "new": false
+  },
+  {
+   "topic": "b029f075f9a0",
+   "display_name": "Kushner, Witkoff Ukraine peace talks",
+   "rank": 3,
+   "post_count": 5043,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": true
+  },
+  {
+   "topic": "ef4e99875091",
+   "display_name": "Concerts with women lead singers",
+   "rank": 4,
+   "post_count": 670,
+   "category": "entertainment",
+   "started": "2026-11-14",
+   "new": true
+  },
+  {
+   "topic": "2fff3b60524e",
+   "display_name": "Microsoft outage blame meme",
+   "rank": 5,
+   "post_count": 18399,
+   "category": "culture",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "c95a26319c65",
+   "display_name": "FAA ground stop jokes",
+   "rank": 6,
+   "post_count": 12723,
+   "category": "other",
+   "started": "2026-11-13",
+   "new": true
+  },
+  {
+   "topic": "e91b9e15d194",
+   "display_name": "Bird photography",
+   "rank": 7,
+   "post_count": 786,
+   "category": "culture",
+   "started": "2026-11-11",
+   "new": false
+  },
+  {
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake",
+   "rank": 8,
+   "post_count": 13298,
+   "category": "entertainment",
+   "started": "2026-11-04",
+   "new": false
+  },
+  {
+   "topic": "78cebb1593f3",
+   "display_name": "Investigation into Brooklyn collapse widens",
+   "rank": 9,
+   "post_count": 1308,
+   "category": "other",
+   "started": "2026-11-11",
+   "new": true
+  },
+  {
+   "topic": "6f4ff7d19d90",
+   "display_name": "Weird wisdom tooth stories",
+   "rank": 10,
+   "post_count": 1117,
+   "category": "culture",
+   "started": "2026-11-13",
+   "new": false
+  },
+  {
+   "topic": "dc0b56627c60",
+   "display_name": "Trump's Nvidia stock trades",
+   "rank": 11,
+   "post_count": 1809,
+   "category": "politics",
+   "started": "2026-11-13",
+   "new": false
+  },
+  {
    "topic": "53209bc9781e",
    "display_name": "US loses measles elimination status",
-   "rank": 1,
-   "post_count": 237,
+   "rank": 12,
+   "post_count": 745,
+   "category": "politics",
+   "started": "2026-11-13",
+   "new": true
+  },
+  {
+   "topic": "9759982533b9",
+   "display_name": "Close midterm races being counted",
+   "rank": 13,
+   "post_count": 869,
+   "category": "politics",
+   "started": "2026-11-12",
+   "new": false
+  },
+  {
+   "topic": "25b7d052157b",
+   "display_name": "Trump cabinet competence",
+   "rank": 14,
+   "post_count": 1430,
    "category": "politics",
    "started": "2026-11-13",
    "new": true
@@ -21,218 +138,101 @@
   {
    "topic": "e377593c7b9d",
    "display_name": "Rubio opposes Hague war crimes charges",
-   "rank": 2,
-   "post_count": 175,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": true
-  },
-  {
-   "topic": "2945a08d9654",
-   "display_name": "Best US airport to be stranded in",
-   "rank": 3,
-   "post_count": 315,
-   "category": "culture",
-   "started": "2026-11-14",
-   "new": true
-  },
-  {
-   "topic": "105480a5b405",
-   "display_name": "Films watched more than six times",
-   "rank": 4,
-   "post_count": 10445,
-   "category": "entertainment",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "ad270089d8e8",
-   "display_name": "SpaceX debris halts Hawaii flights",
-   "rank": 5,
-   "post_count": 161,
-   "category": "science-tech",
-   "started": "2026-11-14",
-   "new": true
-  },
-  {
-   "topic": "609d4f81f8da",
-   "display_name": "Steve Miner to direct new Friday the 13th",
-   "rank": 6,
-   "post_count": 1338,
-   "category": "entertainment",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
-   "topic": "6f4ff7d19d90",
-   "display_name": "Weird wisdom tooth stories",
-   "rank": 7,
-   "post_count": 931,
-   "category": "culture",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
-   "topic": "2fff3b60524e",
-   "display_name": "Microsoft 365 outage",
-   "rank": 8,
-   "post_count": 17912,
-   "category": "science-tech",
-   "started": "2026-11-12",
-   "new": false
-  },
-  {
-   "topic": "cf364e4154f7",
-   "display_name": "Tanker hits cruise ship in New Orleans",
-   "rank": 9,
-   "post_count": 1428,
-   "category": "other",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
-   "topic": "db4b37537fe0",
-   "display_name": "Concert history meme",
-   "rank": 10,
-   "post_count": 2827,
-   "category": "entertainment",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
-   "topic": "69fbef0b9947",
-   "display_name": "Canada offers to take US flights",
-   "rank": 11,
-   "post_count": 700,
-   "category": "politics",
-   "started": "2026-11-13",
-   "new": true
-  },
-  {
-   "topic": "787df3aa5b55",
-   "display_name": "Sean Duffy promotes Secretaries Cup",
-   "rank": 12,
+   "rank": 15,
    "post_count": 747,
    "category": "politics",
-   "started": "2026-11-13",
-   "new": true
-  },
-  {
-   "topic": "b17799c01d30",
-   "display_name": "Markwayne Mullin's emergency response",
-   "rank": 13,
-   "post_count": 398,
-   "category": "politics",
    "started": "2026-11-14",
-   "new": true
-  },
-  {
-   "topic": "25b7d052157b",
-   "display_name": "Trump cabinet competence",
-   "rank": 14,
-   "post_count": 864,
-   "category": "politics",
-   "started": "2026-11-13",
    "new": true
   },
   {
    "topic": "28d0e0d7553a",
    "display_name": "Senator seeks majority leader post",
-   "rank": 15,
-   "post_count": 4939,
+   "rank": 16,
+   "post_count": 5065,
    "category": "politics",
    "started": "2026-11-11",
    "new": false
   },
   {
-   "topic": "217cfc46ba79",
-   "display_name": "Trump, Xi and Putin to meet",
-   "rank": 16,
-   "post_count": 221,
+   "topic": "105480a5b405",
+   "display_name": "Films watched more than six times",
+   "rank": 17,
+   "post_count": 11028,
+   "category": "entertainment",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "7aba8a3238fa",
+   "display_name": "David Cameron on blaming Brexit",
+   "rank": 18,
+   "post_count": 194,
    "category": "politics",
    "started": "2026-11-14",
    "new": true
   },
   {
-   "topic": "2a20eaf5402b",
-   "display_name": "Transportation Secretary Sean Duffy",
-   "rank": 17,
-   "post_count": 543,
-   "category": "politics",
-   "started": "2026-11-13",
-   "new": true
-  },
-  {
-   "topic": "dc0b56627c60",
-   "display_name": "Trump's Nvidia stock trades",
-   "rank": 18,
-   "post_count": 1417,
-   "category": "politics",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
-   "topic": "6641ce992760",
-   "display_name": "Trump's White House ballroom",
-   "rank": 19,
-   "post_count": 1847,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
-   "topic": "b9d8b84f5d35",
-   "display_name": "Lutnick faces Nvidia scrutiny over Megaspeed",
-   "rank": 20,
-   "post_count": 551,
-   "category": "politics",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
    "topic": "62c6a2aac97b",
    "display_name": "Ukraine reports daily Russian losses",
-   "rank": 21,
-   "post_count": 2238,
+   "rank": 19,
+   "post_count": 2342,
    "category": "politics",
    "started": "2026-11-08",
    "new": false
   },
   {
-   "topic": "383bbf3610f1",
-   "display_name": "Boebert's Colorado House race called",
-   "rank": 22,
-   "post_count": 597,
+   "topic": "27b93d15db5c",
+   "display_name": "Trump names Stephen Miller chief of staff",
+   "rank": 20,
+   "post_count": 648,
    "category": "politics",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
-   "topic": "5216827d128e",
-   "display_name": "Trump Jr. defends Russell Brand",
-   "rank": 23,
-   "post_count": 767,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "e3e47ff62f60",
-   "display_name": "Next James Bond casting speculation",
-   "rank": 24,
-   "post_count": 467,
-   "category": "entertainment",
-   "started": "2026-11-13",
+   "started": "2026-11-11",
    "new": false
   },
   {
    "topic": "b39544e1c3db",
    "display_name": "COP31 climate summit in Antalya",
-   "rank": 25,
-   "post_count": 3335,
+   "rank": 21,
+   "post_count": 3435,
    "category": "politics",
    "started": "2026-11-04",
    "new": false
+  },
+  {
+   "topic": "a56eadca42c5",
+   "display_name": "Data center ballot measures",
+   "rank": 22,
+   "post_count": 6998,
+   "category": "politics",
+   "started": "2026-10-29",
+   "new": false
+  },
+  {
+   "topic": "380d78a4c51e",
+   "display_name": "Humpback whale seen in Hudson River",
+   "rank": 23,
+   "post_count": 131,
+   "category": "science-tech",
+   "started": "2026-11-13",
+   "new": true
+  },
+  {
+   "topic": "217cfc46ba79",
+   "display_name": "Trump, Xi and Putin to meet",
+   "rank": 24,
+   "post_count": 387,
+   "category": "politics",
+   "started": "2026-11-14",
+   "new": true
+  },
+  {
+   "topic": "c541771d2b50",
+   "display_name": "SpaceX launches Starship Flight 15",
+   "rank": 25,
+   "post_count": 855,
+   "category": "science-tech",
+   "started": "2026-11-13",
+   "new": true
   }
  ],
  "history": {
@@ -625,24 +625,39 @@
   ],
   "2026-11-14": [
    "Best US airport to be stranded in",
+   "Bird photography",
    "Boebert's Colorado House race called",
    "COP31 climate summit in Antalya",
    "Canada offers to take US flights",
+   "Close midterm races being counted",
    "Concert history meme",
+   "Concerts with women lead singers",
+   "Data center ballot measures",
+   "David Cameron on blaming Brexit",
+   "Duffy seeks $50B for aviation",
+   "FAA ground stop jokes",
    "Films watched more than six times",
+   "Humpback whale seen in Hudson River",
+   "Investigation into Brooklyn collapse widens",
+   "Kushner, Witkoff Ukraine peace talks",
    "Lutnick faces Nvidia scrutiny over Megaspeed",
    "Markwayne Mullin's emergency response",
    "Microsoft 365 outage",
+   "Microsoft outage blame meme",
    "Next James Bond casting speculation",
+   "Ocarina of Time remake",
    "Rubio opposes Hague war crimes charges",
+   "Russell Brand court case",
    "Sean Duffy promotes Secretaries Cup",
    "Senator seeks majority leader post",
    "SpaceX debris halts Hawaii flights",
+   "SpaceX launches Starship Flight 15",
    "Steve Miner to direct new Friday the 13th",
    "Tanker hits cruise ship in New Orleans",
    "Transportation Secretary Sean Duffy",
    "Trump Jr. defends Russell Brand",
    "Trump cabinet competence",
+   "Trump names Stephen Miller chief of staff",
    "Trump's Nvidia stock trades",
    "Trump's White House ballroom",
    "Trump, Xi and Putin to meet",
