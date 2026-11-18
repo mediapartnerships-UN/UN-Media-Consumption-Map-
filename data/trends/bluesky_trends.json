@@ -6,68 +6,41 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-18T14:30:01+00:00",
+ "retrieved_at": "2026-11-18T19:30:09+00:00",
  "date": "2026-11-18",
  "trends": [
   {
-   "topic": "217cfc46ba79",
-   "display_name": "Trump, Xi and Putin to meet",
+   "topic": "5f66ac940ba1",
+   "display_name": "Republican plan for Social Security",
    "rank": 1,
-   "post_count": 4016,
+   "post_count": 286,
    "category": "politics",
-   "started": "2026-11-14",
-   "new": false
+   "started": "2026-11-18",
+   "new": true
   },
   {
-   "topic": "b7b857a889e2",
-   "display_name": "Iran drones target Bahrain base",
+   "topic": "c05e41c595d2",
+   "display_name": "Army to detonate lead explosives in Iowa",
    "rank": 2,
-   "post_count": 1536,
+   "post_count": 283,
    "category": "politics",
-   "started": "2026-11-14",
-   "new": false
-  },
-  {
-   "topic": "2fff3b60524e",
-   "display_name": "Microsoft, FAA, Zelle outages",
-   "rank": 3,
-   "post_count": 22586,
-   "category": "science-tech",
-   "started": "2026-11-12",
-   "new": false
+   "started": "2026-11-18",
+   "new": true
   },
   {
    "topic": "2786e0f18452",
    "display_name": "Make a band name bigger",
-   "rank": 4,
-   "post_count": 4586,
+   "rank": 3,
+   "post_count": 5308,
    "category": "entertainment",
    "started": "2026-11-16",
    "new": false
   },
   {
-   "topic": "05c8f5256004",
-   "display_name": "Palmer Luckey reveals SLAB seastead",
-   "rank": 5,
-   "post_count": 367,
-   "category": "business",
-   "started": "2026-11-18",
-   "new": true
-  },
-  {
-   "topic": "7a595aa25011",
-   "display_name": "Voyager 1 nears one light-day",
-   "rank": 6,
-   "post_count": 873,
-   "category": "science-tech",
-   "started": "2026-11-15",
-   "new": false
-  },
-  {
    "topic": "0bf92d371708",
    "display_name": "The Game Awards nominations",
-   "rank": 7,
-   "post_count": 2367,
+   "rank": 4,
+   "post_count": 2579,
    "category": "entertainment",
    "started": "2026-11-17",
    "new": false
@@ -75,98 +48,80 @@
   {
    "topic": "22769c70f72c",
    "display_name": "Pattinson will be next James Bond",
-   "rank": 8,
-   "post_count": 9364,
+   "rank": 5,
+   "post_count": 9667,
    "category": "entertainment",
    "started": "2026-11-15",
    "new": false
   },
   {
+   "topic": "2fff3b60524e",
+   "display_name": "Microsoft, FAA, Zelle outages",
+   "rank": 6,
+   "post_count": 22922,
+   "category": "science-tech",
+   "started": "2026-11-12",
+   "new": false
+  },
+  {
    "topic": "fd6d2a8319c8",
    "display_name": "Deutsche Bank document leak",
-   "rank": 9,
-   "post_count": 851,
+   "rank": 7,
+   "post_count": 942,
    "category": "business",
    "started": "2026-11-17",
    "new": false
   },
   {
-   "topic": "e91b9e15d194",
-   "display_name": "Bird photography",
+   "topic": "6c3a5c2923d9",
+   "display_name": "Atmospheric river hits California",
+   "rank": 8,
+   "post_count": 366,
+   "category": "other",
+   "started": "2026-11-15",
+   "new": true
+  },
+  {
+   "topic": "05c8f5256004",
+   "display_name": "Palmer Luckey reveals SLAB seastead",
+   "rank": 9,
+   "post_count": 481,
+   "category": "business",
+   "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "7a595aa25011",
+   "display_name": "Voyager 1 reaches one light-day",
    "rank": 10,
-   "post_count": 1975,
-   "category": "culture",
-   "started": "2026-11-11",
+   "post_count": 1086,
+   "category": "science-tech",
+   "started": "2026-11-15",
+   "new": true
+  },
+  {
+   "topic": "217cfc46ba79",
+   "display_name": "Trump, Xi and Putin to meet",
+   "rank": 11,
+   "post_count": 5038,
+   "category": "politics",
+   "started": "2026-11-14",
    "new": false
   },
   {
-   "topic": "c0dce57cc85c",
-   "display_name": "Ron Johnson calls Social Security Ponzi scheme",
-   "rank": 11,
-   "post_count": 206,
+   "topic": "e0e3b9aafefe",
+   "display_name": "Nominee questioned on 22nd Amendment",
+   "rank": 12,
+   "post_count": 145,
    "category": "politics",
    "started": "2026-11-18",
    "new": true
   },
   {
-   "topic": "d8d54393dd74",
-   "display_name": "Hakeem Jeffries' Democratic leadership",
-   "rank": 12,
-   "post_count": 345,
-   "category": "politics",
-   "started": "2026-11-17",
-   "new": false
-  },
-  {
-   "topic": "402967c5c875",
-   "display_name": "Congress asks where FAA money went",
-   "rank": 13,
-   "post_count": 3893,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": false
-  },
-  {
-   "topic": "53209bc9781e",
-   "display_name": "US loses measles elimination status",
-   "rank": 14,
-   "post_count": 5533,
-   "category": "politics",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
    "topic": "35ed57e11c05",
    "display_name": "Senate weighs BAAJA permitting bill",
-   "rank": 15,
-   "post_count": 2364,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": false
-  },
-  {
-   "topic": "0e1dda5b46d7",
-   "display_name": "Burnham says Brexit hasn't worked",
-   "rank": 16,
-   "post_count": 2025,
-   "category": "politics",
-   "started": "2026-11-16",
-   "new": false
-  },
-  {
-   "topic": "9759982533b9",
-   "display_name": "Alaska Senate race projection",
-   "rank": 17,
-   "post_count": 3570,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "5510cca87eba",
-   "display_name": "Van Hollen runs for Senate leader",
-   "rank": 18,
-   "post_count": 2454,
+   "rank": 13,
+   "post_count": 2579,
    "category": "politics",
    "started": "2026-11-14",
    "new": false
@@ -174,8 +129,8 @@
   {
    "topic": "9c11ff87e33e",
    "display_name": "Pete Hegseth controversies",
-   "rank": 19,
-   "post_count": 252,
+   "rank": 14,
+   "post_count": 366,
    "category": "politics",
    "started": "2026-11-17",
    "new": false
@@ -183,56 +138,101 @@
   {
    "topic": "ed364a4fa12e",
    "display_name": "Trump's conduct during Manila visit",
-   "rank": 20,
-   "post_count": 332,
+   "rank": 15,
+   "post_count": 646,
    "category": "politics",
    "started": "2026-11-17",
    "new": true
   },
   {
-   "topic": "62c6a2aac97b",
-   "display_name": "Ukraine reports daily Russian losses",
-   "rank": 21,
-   "post_count": 3764,
-   "category": "politics",
-   "started": "2026-11-08",
-   "new": false
-  },
-  {
-   "topic": "d1de6ed2d7e4",
-   "display_name": "Nvidia China chip controversy",
-   "rank": 22,
-   "post_count": 2034,
-   "category": "politics",
-   "started": "2026-11-16",
-   "new": false
-  },
-  {
    "topic": "fb7b005a5b87",
    "display_name": "Ocarina of Time remake",
-   "rank": 23,
-   "post_count": 14303,
+   "rank": 16,
+   "post_count": 14369,
    "category": "entertainment",
    "started": "2026-11-04",
    "new": false
   },
   {
-   "topic": "f89cc146b4ff",
-   "display_name": "Alan Milburn's youth unemployment review",
-   "rank": 24,
-   "post_count": 2265,
+   "topic": "9759982533b9",
+   "display_name": "Alaska Senate race projection",
+   "rank": 17,
+   "post_count": 3863,
    "category": "politics",
-   "started": "2026-11-15",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "669eb443521a",
+   "display_name": "Calls to replace Schumer and Jeffries",
+   "rank": 18,
+   "post_count": 7919,
+   "category": "politics",
+   "started": "2026-11-09",
    "new": false
   },
   {
-   "topic": "fad3d58b9108",
-   "display_name": "Midterm election aftermath for democracy",
-   "rank": 25,
-   "post_count": 2573,
+   "topic": "9c5c21f39e8e",
+   "display_name": "GTA 6 flower-buying mission",
+   "rank": 19,
+   "post_count": 225,
+   "category": "entertainment",
+   "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "23df7f2ae4c3",
+   "display_name": "Randy Fine's AOC bartender remark",
+   "rank": 20,
+   "post_count": 302,
+   "category": "politics",
+   "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "d1de6ed2d7e4",
+   "display_name": "Jensen Huang's Nvidia return bid",
+   "rank": 21,
+   "post_count": 2227,
+   "category": "business",
+   "started": "2026-11-16",
+   "new": true
+  },
+  {
+   "topic": "59e5d0329afe",
+   "display_name": "ICE detains pregnant US citizen",
+   "rank": 22,
+   "post_count": 6277,
+   "category": "politics",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "53209bc9781e",
+   "display_name": "US loses measles elimination status",
+   "rank": 23,
+   "post_count": 5851,
    "category": "politics",
    "started": "2026-11-13",
    "new": false
+  },
+  {
+   "topic": "62c6a2aac97b",
+   "display_name": "Ukraine reports daily Russian losses",
+   "rank": 24,
+   "post_count": 3883,
+   "category": "politics",
+   "started": "2026-11-08",
+   "new": false
+  },
+  {
+   "topic": "a8610dfc5ed0",
+   "display_name": "Mahmood speech on two-tier policing",
+   "rank": 25,
+   "post_count": 158,
+   "category": "politics",
+   "started": "2026-11-18",
+   "new": true
   }
  ],
  "history": {
@@ -620,28 +620,38 @@
    "\"Get to know your moots\" questionnaire",
    "Alan Milburn's youth unemployment review",
    "Alaska Senate race projection",
+   "Army to detonate lead explosives in Iowa",
+   "Atmospheric river hits California",
    "Autumn foliage photos",
    "Bird photography",
    "Burnham says Brexit hasn't worked",
    "COP31 climate summit in Antalya",
+   "Calls to replace Schumer and Jeffries",
    "College Football Playoff rankings released",
    "Congress asks where FAA money went",
    "Data center emissions rival Denmark",
    "Deutsche Bank document leak",
    "Firaxis Games cuts a third of staff",
+   "GTA 6 flower-buying mission",
    "Hakeem Jeffries' Democratic leadership",
    "Hung Cao's Navy confirmation hearing",
+   "ICE detains pregnant US citizen",
    "Iran drones target Bahrain base",
+   "Jensen Huang's Nvidia return bid",
+   "Mahmood speech on two-tier policing",
    "Make a band name bigger",
    "Microsoft, FAA, Zelle outages",
    "Midterm election aftermath for democracy",
    "Mullin flies government jet to LSU game",
+   "Nominee questioned on 22nd Amendment",
    "Nvidia China chip controversy",
    "OCASK \"pretty little princess\" prompt",
    "Ocarina of Time remake",
    "Palmer Luckey reveals SLAB seastead",
    "Pattinson will be next James Bond",
    "Pete Hegseth controversies",
+   "Randy Fine's AOC bartender remark",
+   "Republican plan for Social Security",
    "Ron Johnson calls Social Security Ponzi scheme",
    "Second-to-last text caption meme",
    "Senate weighs BAAJA permitting bill",
@@ -653,6 +663,7 @@
    "Ukrainian strike collapses Crimean Bridge",
    "Van Hollen runs for Senate leader",
    "Voyager 1 nears one light-day",
+   "Voyager 1 reaches one light-day",
    "White House drops FDA nominee"
   ]
  }
