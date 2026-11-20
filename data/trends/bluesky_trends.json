@@ -6,41 +6,41 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-19T19:34:25+00:00",
+ "retrieved_at": "2026-11-19T23:01:26+00:00",
  "date": "2026-11-19",
  "trends": [
   {
-   "topic": "9813a0425542",
-   "display_name": "Names parents almost chose",
+   "topic": "c05e41c595d2",
+   "display_name": "Army to detonate lead explosives in Iowa",
    "rank": 1,
-   "post_count": 527,
-   "category": "culture",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "53c4dabc2e89",
-   "display_name": "Trump calls Putin his friend",
-   "rank": 2,
-   "post_count": 2461,
+   "post_count": 1960,
    "category": "politics",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "217cfc46ba79",
-   "display_name": "Trump, Xi and Putin to meet",
-   "rank": 3,
-   "post_count": 10447,
-   "category": "politics",
-   "started": "2026-11-14",
+   "started": "2026-11-18",
    "new": false
   },
   {
-   "topic": "0a57d32d5fd3",
-   "display_name": "International Men's Day",
+   "topic": "121e11fd6a01",
+   "display_name": "Senate Iran war powers vote",
+   "rank": 2,
+   "post_count": 150,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "2c2441c4253f",
+   "display_name": "Hat lands in Fiona's enclosure",
+   "rank": 3,
+   "post_count": 1141,
+   "category": "other",
+   "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "9813a0425542",
+   "display_name": "Names parents almost chose",
    "rank": 4,
-   "post_count": 781,
+   "post_count": 1098,
    "category": "culture",
    "started": "2026-11-19",
    "new": true
@@ -49,160 +49,52 @@
    "topic": "33ecf119c8d8",
    "display_name": "Archive of Our Own goes down",
    "rank": 5,
-   "post_count": 589,
+   "post_count": 618,
    "category": "science-tech",
    "started": "2026-11-16",
    "new": true
   },
   {
-   "topic": "a4c88fc56c85",
-   "display_name": "Anthropic prices IPO at $83",
+   "topic": "a6a465cde2d9",
+   "display_name": "Nintendo Wii turns 20",
    "rank": 6,
-   "post_count": 2351,
+   "post_count": 340,
+   "category": "science-tech",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "a4c88fc56c85",
+   "display_name": "Kutcher's firm and Anthropic IPO",
+   "rank": 7,
+   "post_count": 2674,
    "category": "business",
    "started": "2026-11-10",
    "new": true
   },
   {
-   "topic": "ca227034eaa2",
-   "display_name": "Anthropic's Lord of the Rings analogy",
-   "rank": 7,
-   "post_count": 513,
-   "category": "science-tech",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "6c3a5c2923d9",
-   "display_name": "Atmospheric river hits California",
+   "topic": "2da629cba75f",
+   "display_name": "Greatest detective besides Batman",
    "rank": 8,
-   "post_count": 965,
-   "category": "other",
-   "started": "2026-11-15",
-   "new": false
+   "post_count": 474,
+   "category": "entertainment",
+   "started": "2026-11-18",
+   "new": true
   },
   {
-   "topic": "a6a465cde2d9",
-   "display_name": "Nintendo Wii turns 20",
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake",
    "rank": 9,
-   "post_count": 216,
-   "category": "science-tech",
-   "started": "2026-11-19",
-   "new": true
+   "post_count": 14649,
+   "category": "entertainment",
+   "started": "2026-11-04",
+   "new": false
   },
   {
-   "topic": "396c309213bc",
-   "display_name": "Owls attack people in Brookline",
+   "topic": "0a57d32d5fd3",
+   "display_name": "International Men's Day",
    "rank": 10,
-   "post_count": 212,
-   "category": "other",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "21afa186e569",
-   "display_name": "Putin cites Anchorage compromises on Ukraine",
-   "rank": 11,
-   "post_count": 689,
-   "category": "politics",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "c05e41c595d2",
-   "display_name": "Army to detonate lead explosives in Iowa",
-   "rank": 12,
-   "post_count": 1558,
-   "category": "politics",
-   "started": "2026-11-18",
-   "new": false
-  },
-  {
-   "topic": "7bc14abe9d5f",
-   "display_name": "World Court rules in Rohingya genocide case",
-   "rank": 13,
-   "post_count": 908,
-   "category": "politics",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "c4067ece3b89",
-   "display_name": "Blumenthal questions nominees on January 6",
-   "rank": 14,
-   "post_count": 488,
-   "category": "politics",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "35ed57e11c05",
-   "display_name": "Senate weighs BAAJA permitting bill",
-   "rank": 15,
-   "post_count": 3431,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": false
-  },
-  {
-   "topic": "177d86185ca3",
-   "display_name": "Philip Young abuse trial verdicts",
-   "rank": 16,
-   "post_count": 163,
-   "category": "politics",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "5f66ac940ba1",
-   "display_name": "Ron Johnson's Ponzi scheme remark",
-   "rank": 17,
-   "post_count": 1032,
-   "category": "politics",
-   "started": "2026-11-18",
-   "new": true
-  },
-  {
-   "topic": "d4900f9c2d16",
-   "display_name": "Nvidia chips and China's military",
-   "rank": 18,
-   "post_count": 111,
-   "category": "science-tech",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "e9d3d0caa89f",
-   "display_name": "ICE has hidden $91 billion fund",
-   "rank": 19,
-   "post_count": 340,
-   "category": "politics",
-   "started": "2026-11-18",
-   "new": true
-  },
-  {
-   "topic": "402967c5c875",
-   "display_name": "Congress asks where FAA money went",
-   "rank": 20,
-   "post_count": 4439,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": false
-  },
-  {
-   "topic": "ca017e6d8837",
-   "display_name": "Ukraine strikes Kerch Bridge railway",
-   "rank": 21,
-   "post_count": 5275,
-   "category": "politics",
-   "started": "2026-11-16",
-   "new": true
-  },
-  {
-   "topic": "b310f48f2fff",
-   "display_name": "Economics grad charts male loneliness",
-   "rank": 22,
-   "post_count": 194,
+   "post_count": 899,
    "category": "culture",
    "started": "2026-11-19",
    "new": true
@@ -210,28 +102,136 @@
   {
    "topic": "b39544e1c3db",
    "display_name": "COP31 draft drops fossil fuels",
-   "rank": 23,
-   "post_count": 5113,
+   "rank": 11,
+   "post_count": 5208,
    "category": "politics",
    "started": "2026-11-04",
    "new": true
   },
   {
-   "topic": "879496e6c423",
-   "display_name": "Musk tells Sorkin he's moderate",
-   "rank": 24,
-   "post_count": 3132,
+   "topic": "f68d49265d6c",
+   "display_name": "Trump's Pete Rose pardon",
+   "rank": 12,
+   "post_count": 234,
    "category": "politics",
    "started": "2026-11-19",
    "new": true
   },
   {
-   "topic": "5510cca87eba",
-   "display_name": "Van Hollen runs for Senate leader",
-   "rank": 25,
-   "post_count": 2844,
+   "topic": "53c4dabc2e89",
+   "display_name": "Trump calls Putin his friend",
+   "rank": 13,
+   "post_count": 2967,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "217cfc46ba79",
+   "display_name": "Trump, Xi and Putin to meet",
+   "rank": 14,
+   "post_count": 11147,
    "category": "politics",
    "started": "2026-11-14",
+   "new": false
+  },
+  {
+   "topic": "620d11336ac9",
+   "display_name": "Ocasio-Cortez to lead health policy",
+   "rank": 15,
+   "post_count": 2340,
+   "category": "politics",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "21afa186e569",
+   "display_name": "Putin cites Anchorage compromises on Ukraine",
+   "rank": 16,
+   "post_count": 1125,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "c4067ece3b89",
+   "display_name": "Blumenthal questions nominees on January 6",
+   "rank": 17,
+   "post_count": 691,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "7bc14abe9d5f",
+   "display_name": "World Court rules in Rohingya genocide case",
+   "rank": 18,
+   "post_count": 1080,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "8666fa80552b",
+   "display_name": "Early 2028 presidential primary polls",
+   "rank": 19,
+   "post_count": 170,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "35ed57e11c05",
+   "display_name": "Senate weighs BAAJA permitting bill",
+   "rank": 20,
+   "post_count": 3585,
+   "category": "politics",
+   "started": "2026-11-14",
+   "new": false
+  },
+  {
+   "topic": "5510cca87eba",
+   "display_name": "Van Hollen runs for Senate leader",
+   "rank": 21,
+   "post_count": 2895,
+   "category": "politics",
+   "started": "2026-11-14",
+   "new": false
+  },
+  {
+   "topic": "e9d3d0caa89f",
+   "display_name": "ICE has hidden $91 billion fund",
+   "rank": 22,
+   "post_count": 390,
+   "category": "politics",
+   "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "36f7c9b66037",
+   "display_name": "Medicare for All debate",
+   "rank": 23,
+   "post_count": 103,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "3fd6dc40d609",
+   "display_name": "House Democrats put Trump family on notice",
+   "rank": 24,
+   "post_count": 515,
+   "category": "politics",
+   "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "fad3d58b9108",
+   "display_name": "Midterm election aftermath for democracy",
+   "rank": 25,
+   "post_count": 3142,
+   "category": "politics",
+   "started": "2026-11-13",
    "new": false
   }
  ],
@@ -629,16 +629,21 @@
    "COP31 draft drops fossil fuels",
    "Congress asks where FAA money went",
    "Data center ballot measures",
+   "Early 2028 presidential primary polls",
    "Economics grad charts male loneliness",
    "Fiona the hippo swallows hat",
    "Forensic expert doubts Epstein suicide ruling",
    "Greatest detective besides Batman",
+   "Hat lands in Fiona's enclosure",
+   "House Democrats put Trump family on notice",
    "ICE has hidden $91 billion fund",
    "International Men's Day",
    "Iran drones target Kuwait and Bahrain",
    "Jeffries Speaker caucus vote",
    "Jensen Huang's Nvidia return bid",
+   "Kutcher's firm and Anthropic IPO",
    "Mariners acquire Maikel Garcia",
+   "Medicare for All debate",
    "Midterm election aftermath for democracy",
    "Musk distances himself from MAGA",
    "Musk tells Sorkin he's moderate",
@@ -647,6 +652,7 @@
    "Nintendo Wii turns 20",
    "Nvidia chips and China's military",
    "Ocarina of Time remake",
+   "Ocasio-Cortez to lead health policy",
    "Outside site catalogs AO3 fics",
    "Owls attack people in Brookline",
    "Pew projects global religion shifts",
@@ -655,10 +661,12 @@
    "Republican plan for Social Security",
    "Ron Johnson's Ponzi scheme remark",
    "Second-to-last text caption meme",
+   "Senate Iran war powers vote",
    "Senate weighs BAAJA permitting bill",
    "Taylor Swift performs at CMA Awards",
    "Trump calls Putin his friend",
    "Trump frustrated with Vance over Iran",
+   "Trump's Pete Rose pardon",
    "Trump, Xi and Putin to meet",
    "US and Venezuela restore military ties",
    "US loses measles elimination status",
