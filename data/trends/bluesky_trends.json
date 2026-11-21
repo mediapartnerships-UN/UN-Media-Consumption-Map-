@@ -6,299 +6,236 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-20T22:38:25+00:00",
- "date": "2026-11-20",
+ "retrieved_at": "2026-11-21T03:22:21+00:00",
+ "date": "2026-11-21",
  "trends": [
+  {
+   "topic": "cec41f4b2d6f",
+   "display_name": "Boldest movies seen on dates",
+   "rank": 1,
+   "post_count": 250,
+   "category": "entertainment",
+   "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "906b49a87470",
+   "display_name": "Hackers breach Agriculture Department",
+   "rank": 2,
+   "post_count": 286,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": true
+  },
   {
    "topic": "328db357504a",
    "display_name": "Mundane celebrity encounters",
-   "rank": 1,
-   "post_count": 1362,
+   "rank": 3,
+   "post_count": 4375,
    "category": "culture",
    "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "217cfc46ba79",
+   "display_name": "Trump meets Xi and Putin",
+   "rank": 4,
+   "post_count": 13546,
+   "category": "politics",
+   "started": "2026-11-14",
    "new": true
+  },
+  {
+   "topic": "5218fca1ea75",
+   "display_name": "Ruin a movie with a Supreme Court justice",
+   "rank": 5,
+   "post_count": 915,
+   "category": "entertainment",
+   "started": "2026-11-20",
+   "new": false
   },
   {
    "topic": "7a1a1c1d51a2",
    "display_name": "Stock market sell-off",
-   "rank": 2,
-   "post_count": 2082,
+   "rank": 6,
+   "post_count": 2833,
    "category": "business",
    "started": "2026-11-20",
-   "new": true
+   "new": false
   },
   {
-   "topic": "fba11daf4901",
-   "display_name": "Riemann hypothesis proof claimed",
-   "rank": 3,
-   "post_count": 874,
-   "category": "science-tech",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "603b7fedca4e",
-   "display_name": "ICE detention and surveillance",
-   "rank": 4,
-   "post_count": 119,
-   "category": "politics",
-   "started": "2026-11-20",
+   "topic": "d4900f9c2d16",
+   "display_name": "US cleared China chip sales",
+   "rank": 7,
+   "post_count": 803,
+   "category": "business",
+   "started": "2026-11-19",
    "new": true
   },
   {
    "topic": "4fbb2cfbcb59",
    "display_name": "Transgender Day of Remembrance",
-   "rank": 5,
-   "post_count": 2290,
+   "rank": 8,
+   "post_count": 2700,
    "category": "culture",
    "started": "2026-11-20",
-   "new": true
+   "new": false
   },
   {
-   "topic": "e5252ad9b7a5",
-   "display_name": "Vance and Rubio behind Trump",
-   "rank": 6,
-   "post_count": 442,
-   "category": "politics",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "d1de6ed2d7e4",
-   "display_name": "Report alleges Huang humiliated employees",
-   "rank": 7,
-   "post_count": 3280,
-   "category": "business",
-   "started": "2026-11-16",
-   "new": true
-  },
-  {
-   "topic": "0dfc0d876140",
-   "display_name": "GTA 6 sets day-one sales record",
-   "rank": 8,
-   "post_count": 274,
-   "category": "entertainment",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "a4c88fc56c85",
-   "display_name": "Anthropic debuts on Nasdaq",
+   "topic": "50c8fc806b59",
+   "display_name": "Las Vegas Grand Prix weekend",
    "rank": 9,
-   "post_count": 3797,
-   "category": "business",
-   "started": "2026-11-10",
-   "new": true
-  },
-  {
-   "topic": "33824d3a8ff2",
-   "display_name": "New Home Alone movie announced",
-   "rank": 10,
-   "post_count": 291,
-   "category": "entertainment",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "c05e41c595d2",
-   "display_name": "Army to detonate lead explosives in Iowa",
-   "rank": 11,
-   "post_count": 3719,
-   "category": "politics",
-   "started": "2026-11-18",
-   "new": false
-  },
-  {
-   "topic": "21afa186e569",
-   "display_name": "Trump tells Europe to defund Ukraine",
-   "rank": 12,
-   "post_count": 1995,
-   "category": "politics",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "62c6a2aac97b",
-   "display_name": "Ukraine strikes Kerch Bridge railway",
-   "rank": 13,
-   "post_count": 10457,
-   "category": "politics",
-   "started": "2026-11-08",
-   "new": false
-  },
-  {
-   "topic": "48024694d4bd",
-   "display_name": "Mamdani's record as NYC mayor",
-   "rank": 14,
-   "post_count": 114,
-   "category": "politics",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "217cfc46ba79",
-   "display_name": "Trump touts Xi plane greeting",
-   "rank": 15,
-   "post_count": 13454,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": true
-  },
-  {
-   "topic": "def246ceebd1",
-   "display_name": "UK, EU seal reset deal",
-   "rank": 16,
-   "post_count": 1194,
-   "category": "politics",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "35ed57e11c05",
-   "display_name": "Senate vote on BAAJA bill",
-   "rank": 17,
-   "post_count": 5034,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": true
-  },
-  {
-   "topic": "8fa8fcc843bb",
-   "display_name": "Princeton student held by ICE",
-   "rank": 18,
-   "post_count": 335,
-   "category": "politics",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "53209bc9781e",
-   "display_name": "US loses measles elimination status",
-   "rank": 19,
-   "post_count": 6932,
-   "category": "politics",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
-   "topic": "3fd6dc40d609",
-   "display_name": "House Democrats put Trump family on notice",
-   "rank": 20,
-   "post_count": 633,
-   "category": "politics",
-   "started": "2026-11-18",
-   "new": false
-  },
-  {
-   "topic": "693ab4a4a0dd",
-   "display_name": "Unidentified object in Poland",
-   "rank": 21,
-   "post_count": 429,
-   "category": "politics",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "db53df5547bc",
-   "display_name": "Death of Fiona the hippo",
-   "rank": 22,
-   "post_count": 408,
-   "category": "other",
-   "started": "2026-11-19",
-   "new": true
-  },
-  {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake",
-   "rank": 23,
-   "post_count": 14826,
-   "category": "entertainment",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "ee53eb4ca86e",
-   "display_name": "Fox News Sophie Cunningham segment",
-   "rank": 24,
-   "post_count": 208,
+   "post_count": 142,
    "category": "sports",
    "started": "2026-11-20",
    "new": true
   },
   {
-   "topic": "121676c7a34e",
-   "display_name": "Taylor Swift performs at CMA Awards",
-   "rank": 25,
-   "post_count": 271,
+   "topic": "8099a383940e",
+   "display_name": "Sunrise on the Reaping premieres",
+   "rank": 10,
+   "post_count": 616,
    "category": "entertainment",
+   "started": "2026-11-17",
+   "new": true
+  },
+  {
+   "topic": "603b7fedca4e",
+   "display_name": "ICE detention and surveillance",
+   "rank": 11,
+   "post_count": 431,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "35ed57e11c05",
+   "display_name": "Senate vote on BAAJA bill",
+   "rank": 12,
+   "post_count": 5165,
+   "category": "politics",
+   "started": "2026-11-14",
+   "new": false
+  },
+  {
+   "topic": "e5252ad9b7a5",
+   "display_name": "Vance and Rubio behind Trump",
+   "rank": 13,
+   "post_count": 706,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "c05e41c595d2",
+   "display_name": "Army Iowa detonation court case",
+   "rank": 14,
+   "post_count": 3985,
+   "category": "politics",
    "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "da97f9376264",
+   "display_name": "Israel, Gaza and Zionism debate",
+   "rank": 15,
+   "post_count": 318,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "21afa186e569",
+   "display_name": "Trump tells Europe to defund Ukraine",
+   "rank": 16,
+   "post_count": 2047,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": false
+  },
+  {
+   "topic": "5f22cf255aad",
+   "display_name": "Medicare for All",
+   "rank": 17,
+   "post_count": 190,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "693ab4a4a0dd",
+   "display_name": "Unidentified object in Poland",
+   "rank": 18,
+   "post_count": 449,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "029106da083c",
+   "display_name": "Stefanik's D.C. home sells above list",
+   "rank": 19,
+   "post_count": 141,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "b9d72ff683fd",
+   "display_name": "Melania Trump's Fox & Friends interview",
+   "rank": 20,
+   "post_count": 350,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "db53df5547bc",
+   "display_name": "Death of Fiona the hippo",
+   "rank": 21,
+   "post_count": 463,
+   "category": "other",
+   "started": "2026-11-19",
+   "new": false
+  },
+  {
+   "topic": "0dfc0d876140",
+   "display_name": "GTA 6 sets day-one sales record",
+   "rank": 22,
+   "post_count": 407,
+   "category": "entertainment",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "00d4241b94de",
+   "display_name": "Calls to release Epstein files",
+   "rank": 23,
+   "post_count": 185,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "835aa8a80868",
+   "display_name": "Trump calls Canada emboldened",
+   "rank": 24,
+   "post_count": 342,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "b39544e1c3db",
+   "display_name": "COP31 draft drops fossil fuels",
+   "rank": 25,
+   "post_count": 5880,
+   "category": "politics",
+   "started": "2026-11-04",
    "new": false
   }
  ],
  "history": {
-  "2026-11-14": [
-   "Autumn foliage photos",
-   "Best US airport to be stranded in",
-   "Best US airports to be stuck in",
-   "Biden's $25 billion aviation funding",
-   "Bird photography",
-   "Boebert's Colorado House race called",
-   "Bomb threat reported in Peoria",
-   "COP31 climate summit in Antalya",
-   "Calls for Medicare for All",
-   "Calls to replace Schumer and Jeffries",
-   "Canada offers help to FAA",
-   "Canada offers to take US flights",
-   "Close midterm races being counted",
-   "Concert history meme",
-   "Concerts with women lead singers",
-   "Congress debates ICE overhaul",
-   "Data center ballot measures",
-   "David Cameron on blaming Brexit",
-   "Democratic unity after midterms",
-   "Duffy seeks $50B for aviation",
-   "Ellipsus launches public profiles",
-   "FAA contract and Duffy's son-in-law",
-   "FAA ground stop jokes",
-   "Films watched more than six times",
-   "Florida city cancels St. Patrick's Day parade",
-   "Friday the 13th arrives",
-   "Historical events as streaming series",
-   "Humpback whale seen in Hudson River",
-   "Investigation into Brooklyn collapse widens",
-   "Jensen Huang resigns as Nvidia CEO",
-   "Kushner, Witkoff Ukraine peace talks",
-   "Lutnick faces Nvidia scrutiny over Megaspeed",
-   "Markwayne Mullin's emergency response",
-   "Microsoft 365 outage",
-   "Microsoft outage blame meme",
-   "Microsoft resolves global outage",
-   "Next James Bond casting speculation",
-   "Ocarina of Time remake",
-   "Pochettino to lead Manchester United",
-   "Pope Leo XIV visits Latin America",
-   "Rubio opposes Hague war crimes charges",
-   "Russell Brand court case",
-   "Schumer team eyes earlier leader election",
-   "Sean Duffy promotes Secretaries Cup",
-   "Senator seeks majority leader post",
-   "SpaceX debris halts Hawaii flights",
-   "SpaceX launches Starship Flight 15",
-   "Steve Miner to direct new Friday the 13th",
-   "Tanker hits cruise ship in New Orleans",
-   "Transportation Secretary Sean Duffy",
-   "Trump Jr. defends Russell Brand",
-   "Trump cabinet competence",
-   "Trump names Stephen Miller chief of staff",
-   "Trump silent after ground stop",
-   "Trump's \"Trash Island\" golf post",
-   "Trump's Nvidia stock trades",
-   "Trump's White House ballroom",
-   "Trump, Xi and Putin to meet",
-   "US loses measles elimination status",
-   "Ukraine reports daily Russian losses",
-   "Weird wisdom tooth stories"
-  ],
   "2026-11-15": [
    "AIPAC influence on Democrats",
    "Alan Milburn on youth unemployment",
@@ -681,6 +618,33 @@
    "Vance and Rubio behind Trump",
    "Voyager 1 reaches one light-day",
    "World Court rules in Rohingya genocide case"
+  ],
+  "2026-11-21": [
+   "Army Iowa detonation court case",
+   "Boldest movies seen on dates",
+   "COP31 draft drops fossil fuels",
+   "Calls to release Epstein files",
+   "Death of Fiona the hippo",
+   "GTA 6 sets day-one sales record",
+   "Hackers breach Agriculture Department",
+   "ICE detention and surveillance",
+   "Israel, Gaza and Zionism debate",
+   "Las Vegas Grand Prix weekend",
+   "Medicare for All",
+   "Melania Trump's Fox & Friends interview",
+   "Mundane celebrity encounters",
+   "Ruin a movie with a Supreme Court justice",
+   "Senate vote on BAAJA bill",
+   "Stefanik's D.C. home sells above list",
+   "Stock market sell-off",
+   "Sunrise on the Reaping premieres",
+   "Transgender Day of Remembrance",
+   "Trump calls Canada emboldened",
+   "Trump meets Xi and Putin",
+   "Trump tells Europe to defund Ukraine",
+   "US cleared China chip sales",
+   "Unidentified object in Poland",
+   "Vance and Rubio behind Trump"
   ]
  }
 }
