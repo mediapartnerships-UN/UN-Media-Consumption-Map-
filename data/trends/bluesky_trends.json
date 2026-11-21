@@ -6,212 +6,194 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-21T13:41:09+00:00",
+ "retrieved_at": "2026-11-21T18:08:33+00:00",
  "date": "2026-11-21",
  "trends": [
   {
-   "topic": "e7c0f53f004f",
-   "display_name": "Senate Democrats speed up Trump judge votes",
+   "topic": "82eb7540f0e0",
+   "display_name": "Hegseth memo restricts Canada defense ties",
    "rank": 1,
-   "post_count": 598,
+   "post_count": 427,
    "category": "politics",
-   "started": "2026-11-21",
-   "new": true
-  },
-  {
-   "topic": "8e54d320a7c8",
-   "display_name": "Russia's war in Ukraine",
-   "rank": 2,
-   "post_count": 259,
-   "category": "politics",
-   "started": "2026-11-21",
-   "new": true
-  },
-  {
-   "topic": "7a1a1c1d51a2",
-   "display_name": "Stock market sell-off",
-   "rank": 3,
-   "post_count": 3228,
-   "category": "business",
    "started": "2026-11-20",
-   "new": false
+   "new": true
+  },
+  {
+   "topic": "38ba4319b16f",
+   "display_name": "Trump order limits contractor talks",
+   "rank": 2,
+   "post_count": 113,
+   "category": "politics",
+   "started": "2026-11-21",
+   "new": true
+  },
+  {
+   "topic": "cec41f4b2d6f",
+   "display_name": "Boldest movies seen on dates",
+   "rank": 3,
+   "post_count": 780,
+   "category": "entertainment",
+   "started": "2026-11-20",
+   "new": true
   },
   {
    "topic": "fba11daf4901",
    "display_name": "Riemann hypothesis proof claimed",
    "rank": 4,
-   "post_count": 1413,
+   "post_count": 1560,
    "category": "science-tech",
    "started": "2026-11-20",
    "new": false
   },
   {
-   "topic": "cec41f4b2d6f",
-   "display_name": "Boldest movies seen on dates",
+   "topic": "8099a383940e",
+   "display_name": "Sunrise on the Reaping hits theaters",
    "rank": 5,
-   "post_count": 613,
+   "post_count": 768,
    "category": "entertainment",
-   "started": "2026-11-20",
+   "started": "2026-11-17",
    "new": true
+  },
+  {
+   "topic": "4754b557e1be",
+   "display_name": "Thanksgiving dinner preparations",
+   "rank": 6,
+   "post_count": 323,
+   "category": "culture",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "a4c88fc56c85",
+   "display_name": "AI sell-off overshadows Anthropic IPO",
+   "rank": 7,
+   "post_count": 7382,
+   "category": "business",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "22769c70f72c",
+   "display_name": "Pattinson will be next James Bond",
+   "rank": 8,
+   "post_count": 10260,
+   "category": "entertainment",
+   "started": "2026-11-15",
+   "new": false
   },
   {
    "topic": "2fff3b60524e",
    "display_name": "AI patching likely behind outages",
-   "rank": 6,
-   "post_count": 23632,
+   "rank": 9,
+   "post_count": 23671,
    "category": "science-tech",
    "started": "2026-11-12",
    "new": false
   },
   {
-   "topic": "d1de6ed2d7e4",
-   "display_name": "Report alleges Huang humiliated employees",
-   "rank": 7,
-   "post_count": 3406,
-   "category": "business",
-   "started": "2026-11-16",
-   "new": false
-  },
-  {
-   "topic": "328db357504a",
-   "display_name": "Mundane celebrity encounters",
-   "rank": 8,
-   "post_count": 5104,
-   "category": "culture",
-   "started": "2026-11-20",
-   "new": false
-  },
-  {
-   "topic": "4fbb2cfbcb59",
-   "display_name": "Transgender Day of Remembrance",
-   "rank": 9,
-   "post_count": 2893,
-   "category": "culture",
-   "started": "2026-11-20",
-   "new": false
-  },
-  {
-   "topic": "5218fca1ea75",
-   "display_name": "Ruin a movie with a Supreme Court justice",
+   "topic": "4c6959ba363f",
+   "display_name": "SEC probes Nvidia accounting",
    "rank": 10,
-   "post_count": 986,
-   "category": "entertainment",
+   "post_count": 324,
+   "category": "business",
    "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "e7c0f53f004f",
+   "display_name": "Senate Democrats speed up Trump judge votes",
+   "rank": 11,
+   "post_count": 973,
+   "category": "politics",
+   "started": "2026-11-21",
+   "new": true
+  },
+  {
+   "topic": "21afa186e569",
+   "display_name": "Trump tells Europe to defund Ukraine",
+   "rank": 12,
+   "post_count": 2190,
+   "category": "politics",
+   "started": "2026-11-19",
    "new": false
   },
   {
-   "topic": "217cfc46ba79",
-   "display_name": "Trump meets Xi and Putin",
-   "rank": 11,
-   "post_count": 13687,
+   "topic": "632e3a88e83f",
+   "display_name": "Reported drone strike on freighter",
+   "rank": 13,
+   "post_count": 139,
+   "category": "politics",
+   "started": "2026-11-21",
+   "new": true
+  },
+  {
+   "topic": "5510cca87eba",
+   "display_name": "Van Hollen challenges Schumer",
+   "rank": 14,
+   "post_count": 3562,
    "category": "politics",
    "started": "2026-11-14",
    "new": true
   },
   {
-   "topic": "82eb7540f0e0",
-   "display_name": "Hegseth memo restricts Canada defense ties",
-   "rank": 12,
-   "post_count": 143,
+   "topic": "217cfc46ba79",
+   "display_name": "Trump meets Xi and Putin",
+   "rank": 15,
+   "post_count": 13893,
    "category": "politics",
-   "started": "2026-11-20",
+   "started": "2026-11-14",
    "new": true
-  },
-  {
-   "topic": "b39544e1c3db",
-   "display_name": "COP31 draft drops fossil fuels",
-   "rank": 13,
-   "post_count": 6073,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
   },
   {
    "topic": "c05e41c595d2",
    "display_name": "Army Iowa detonation court case",
-   "rank": 14,
-   "post_count": 4183,
+   "rank": 16,
+   "post_count": 4376,
    "category": "politics",
    "started": "2026-11-18",
    "new": true
   },
   {
-   "topic": "906b49a87470",
-   "display_name": "Hackers breach Agriculture Department",
-   "rank": 15,
-   "post_count": 634,
+   "topic": "b39544e1c3db",
+   "display_name": "COP31 draft drops fossil fuels",
+   "rank": 17,
+   "post_count": 6226,
    "category": "politics",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "00d4241b94de",
-   "display_name": "Calls to release Epstein files",
-   "rank": 16,
-   "post_count": 239,
-   "category": "politics",
-   "started": "2026-11-20",
-   "new": true
+   "started": "2026-11-04",
+   "new": false
   },
   {
    "topic": "603b7fedca4e",
    "display_name": "ICE detention and surveillance",
-   "rank": 17,
-   "post_count": 636,
-   "category": "politics",
-   "started": "2026-11-20",
-   "new": false
-  },
-  {
-   "topic": "5f22cf255aad",
-   "display_name": "Medicare for All",
    "rank": 18,
-   "post_count": 247,
+   "post_count": 842,
    "category": "politics",
    "started": "2026-11-20",
    "new": false
   },
   {
-   "topic": "e5252ad9b7a5",
-   "display_name": "Vance and Rubio behind Trump",
+   "topic": "00d4241b94de",
+   "display_name": "Calls to release Epstein files",
    "rank": 19,
-   "post_count": 800,
+   "post_count": 311,
    "category": "politics",
    "started": "2026-11-20",
-   "new": false
+   "new": true
   },
   {
-   "topic": "35ed57e11c05",
-   "display_name": "Senate vote on BAAJA bill",
+   "topic": "310aca077a85",
+   "display_name": "Farage says no rival can lead Reform",
    "rank": 20,
-   "post_count": 5227,
+   "post_count": 104,
    "category": "politics",
-   "started": "2026-11-14",
-   "new": false
-  },
-  {
-   "topic": "029106da083c",
-   "display_name": "Stefanik's D.C. home sells above list",
-   "rank": 21,
-   "post_count": 183,
-   "category": "politics",
-   "started": "2026-11-20",
+   "started": "2026-11-21",
    "new": true
   },
   {
    "topic": "53209bc9781e",
    "display_name": "US loses measles elimination status",
-   "rank": 22,
-   "post_count": 7060,
-   "category": "politics",
-   "started": "2026-11-13",
-   "new": false
-  },
-  {
-   "topic": "fad3d58b9108",
-   "display_name": "Midterm election aftermath for democracy",
-   "rank": 23,
-   "post_count": 3518,
+   "rank": 21,
+   "post_count": 7130,
    "category": "politics",
    "started": "2026-11-13",
    "new": false
@@ -219,19 +201,37 @@
   {
    "topic": "a56eadca42c5",
    "display_name": "Data center ballot measures",
-   "rank": 24,
-   "post_count": 9136,
+   "rank": 22,
+   "post_count": 9183,
    "category": "politics",
    "started": "2026-10-29",
    "new": false
   },
   {
-   "topic": "4754b557e1be",
-   "display_name": "Thanksgiving dinner preparations",
+   "topic": "da97f9376264",
+   "display_name": "Israel, Gaza and Zionism debate",
+   "rank": 23,
+   "post_count": 513,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "e1ce1e644638",
+   "display_name": "Stephen Miller praises Trump's achievements",
+   "rank": 24,
+   "post_count": 268,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "906b49a87470",
+   "display_name": "Hackers breach Agriculture Department",
    "rank": 25,
-   "post_count": 265,
-   "category": "culture",
-   "started": "2026-11-19",
+   "post_count": 806,
+   "category": "politics",
+   "started": "2026-11-20",
    "new": true
   }
  ],
@@ -621,12 +621,14 @@
   ],
   "2026-11-21": [
    "AI patching likely behind outages",
+   "AI sell-off overshadows Anthropic IPO",
    "Army Iowa detonation court case",
    "Boldest movies seen on dates",
    "COP31 draft drops fossil fuels",
    "Calls to release Epstein files",
    "Data center ballot measures",
    "Death of Fiona the hippo",
+   "Farage says no rival can lead Reform",
    "GTA 6 sets day-one sales record",
    "Hackers breach Agriculture Department",
    "Hegseth memo restricts Canada defense ties",
@@ -637,23 +639,30 @@
    "Melania Trump's Fox & Friends interview",
    "Midterm election aftermath for democracy",
    "Mundane celebrity encounters",
+   "Pattinson will be next James Bond",
    "Report alleges Huang humiliated employees",
+   "Reported drone strike on freighter",
    "Riemann hypothesis proof claimed",
    "Ruin a movie with a Supreme Court justice",
    "Russia's war in Ukraine",
+   "SEC probes Nvidia accounting",
    "Senate Democrats speed up Trump judge votes",
    "Senate vote on BAAJA bill",
    "Stefanik's D.C. home sells above list",
+   "Stephen Miller praises Trump's achievements",
    "Stock market sell-off",
+   "Sunrise on the Reaping hits theaters",
    "Sunrise on the Reaping premieres",
    "Thanksgiving dinner preparations",
    "Transgender Day of Remembrance",
    "Trump calls Canada emboldened",
    "Trump meets Xi and Putin",
+   "Trump order limits contractor talks",
    "Trump tells Europe to defund Ukraine",
    "US cleared China chip sales",
    "US loses measles elimination status",
    "Unidentified object in Poland",
+   "Van Hollen challenges Schumer",
    "Vance and Rubio behind Trump"
   ]
  }
