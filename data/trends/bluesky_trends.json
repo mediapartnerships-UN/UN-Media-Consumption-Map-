@@ -6,233 +6,233 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-22T02:29:56+00:00",
+ "retrieved_at": "2026-11-22T13:33:45+00:00",
  "date": "2026-11-22",
  "trends": [
   {
-   "topic": "33f0f89a9be1",
-   "display_name": "Trump says Democrats have healthcare points",
+   "topic": "9978857c5efa",
+   "display_name": "Theresa May urges accepting Brexit",
    "rank": 1,
-   "post_count": 613,
+   "post_count": 690,
    "category": "politics",
-   "started": "2026-11-21",
-   "new": false
+   "started": "2026-11-22",
+   "new": true
   },
   {
-   "topic": "f4960492985c",
-   "display_name": "ICE detention video at Seattle airport",
+   "topic": "b39544e1c3db",
+   "display_name": "COP31 draft drops fossil fuels",
    "rank": 2,
-   "post_count": 758,
+   "post_count": 7019,
    "category": "politics",
-   "started": "2026-11-21",
+   "started": "2026-11-04",
    "new": false
   },
   {
-   "topic": "48f887552153",
-   "display_name": "Sam Kinison AI avatar deal",
+   "topic": "645e79ca5148",
+   "display_name": "Change one letter, ruin a movie",
    "rank": 3,
-   "post_count": 136,
+   "post_count": 1365,
    "category": "entertainment",
    "started": "2026-11-21",
    "new": true
   },
   {
-   "topic": "a4c88fc56c85",
-   "display_name": "AI sell-off overshadows Anthropic IPO",
-   "rank": 4,
-   "post_count": 7607,
-   "category": "business",
-   "started": "2026-11-10",
-   "new": false
-  },
-  {
-   "topic": "cec41f4b2d6f",
-   "display_name": "Boldest movies seen on dates",
-   "rank": 5,
-   "post_count": 935,
-   "category": "entertainment",
-   "started": "2026-11-20",
-   "new": false
-  },
-  {
-   "topic": "fba11daf4901",
-   "display_name": "Riemann hypothesis proof claimed",
-   "rank": 6,
-   "post_count": 1720,
-   "category": "science-tech",
-   "started": "2026-11-20",
-   "new": false
-  },
-  {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake",
-   "rank": 7,
-   "post_count": 15136,
-   "category": "entertainment",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
    "topic": "e91b9e15d194",
    "display_name": "Bird photography",
-   "rank": 8,
-   "post_count": 3178,
+   "rank": 4,
+   "post_count": 3299,
    "category": "culture",
    "started": "2026-11-11",
    "new": false
   },
   {
-   "topic": "d4900f9c2d16",
-   "display_name": "US cleared China chip sales",
-   "rank": 9,
-   "post_count": 1075,
+   "topic": "a4c88fc56c85",
+   "display_name": "AI sell-off overshadows Anthropic IPO",
+   "rank": 5,
+   "post_count": 7777,
    "category": "business",
+   "started": "2026-11-10",
+   "new": false
+  },
+  {
+   "topic": "d4900f9c2d16",
+   "display_name": "Nvidia China chip case",
+   "rank": 6,
+   "post_count": 1142,
+   "category": "business",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "4754b557e1be",
+   "display_name": "Thanksgiving dinner preparations",
+   "rank": 7,
+   "post_count": 563,
+   "category": "culture",
    "started": "2026-11-19",
    "new": false
   },
   {
-   "topic": "2fff3b60524e",
-   "display_name": "AI patching likely behind outages",
-   "rank": 10,
-   "post_count": 23730,
+   "topic": "f52a9ed50a4b",
+   "display_name": "Celebrity birthdays on November 19",
+   "rank": 8,
+   "post_count": 166,
+   "category": "entertainment",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "4c9fa014a73a",
+   "display_name": "Claude AI coding tools",
+   "rank": 9,
+   "post_count": 149,
    "category": "science-tech",
-   "started": "2026-11-12",
+   "started": "2026-11-21",
+   "new": true
+  },
+  {
+   "topic": "fba11daf4901",
+   "display_name": "Riemann hypothesis proof claimed",
+   "rank": 10,
+   "post_count": 1857,
+   "category": "science-tech",
+   "started": "2026-11-20",
    "new": false
   },
   {
-   "topic": "8e54d320a7c8",
-   "display_name": "Russia's war in Ukraine",
+   "topic": "f4960492985c",
+   "display_name": "ICE immigration arrests",
    "rank": 11,
-   "post_count": 1001,
+   "post_count": 1245,
    "category": "politics",
    "started": "2026-11-21",
+   "new": true
+  },
+  {
+   "topic": "217cfc46ba79",
+   "display_name": "Trump calls Putin his friend",
+   "rank": 12,
+   "post_count": 16398,
+   "category": "politics",
+   "started": "2026-11-14",
    "new": false
   },
   {
    "topic": "38ba4319b16f",
    "display_name": "Trump order limits contractor talks",
-   "rank": 12,
-   "post_count": 657,
-   "category": "politics",
-   "started": "2026-11-21",
-   "new": false
-  },
-  {
-   "topic": "5b157be41157",
-   "display_name": "Democrats' speaker nomination vote",
    "rank": 13,
-   "post_count": 149,
+   "post_count": 722,
    "category": "politics",
    "started": "2026-11-21",
-   "new": true
+   "new": false
   },
   {
-   "topic": "5510cca87eba",
-   "display_name": "Van Hollen challenges Schumer",
+   "topic": "33f0f89a9be1",
+   "display_name": "Trump says Democrats have healthcare points",
    "rank": 14,
-   "post_count": 3687,
+   "post_count": 865,
    "category": "politics",
-   "started": "2026-11-14",
+   "started": "2026-11-21",
    "new": false
   },
   {
-   "topic": "af497392e234",
-   "display_name": "Musk says he is not MAGA",
+   "topic": "53209bc9781e",
+   "display_name": "US loses measles elimination status",
    "rank": 15,
-   "post_count": 183,
+   "post_count": 7287,
    "category": "politics",
-   "started": "2026-11-21",
-   "new": true
+   "started": "2026-11-13",
+   "new": false
   },
   {
-   "topic": "00d4241b94de",
-   "display_name": "Calls to release Epstein files",
+   "topic": "044de87a310a",
+   "display_name": "Carney says Canada is busy without U.S. deal",
    "rank": 16,
-   "post_count": 380,
-   "category": "politics",
-   "started": "2026-11-20",
-   "new": false
-  },
-  {
-   "topic": "b39544e1c3db",
-   "display_name": "COP31 draft drops fossil fuels",
-   "rank": 17,
-   "post_count": 6397,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "8099a383940e",
-   "display_name": "Sunrise on the Reaping hits theaters",
-   "rank": 18,
-   "post_count": 888,
-   "category": "entertainment",
-   "started": "2026-11-17",
-   "new": false
-  },
-  {
-   "topic": "48024694d4bd",
-   "display_name": "Mamdani to disband NYPD unit",
-   "rank": 19,
-   "post_count": 273,
-   "category": "politics",
-   "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "904c29fa47c4",
-   "display_name": "US war with Iran",
-   "rank": 20,
-   "post_count": 209,
-   "category": "politics",
-   "started": "2026-11-21",
-   "new": true
-  },
-  {
-   "topic": "21afa186e569",
-   "display_name": "Trump tells Europe to defund Ukraine",
-   "rank": 21,
-   "post_count": 2279,
+   "post_count": 502,
    "category": "politics",
    "started": "2026-11-19",
    "new": false
   },
   {
-   "topic": "e7c0f53f004f",
-   "display_name": "Senate Democrats speed up Trump judge votes",
-   "rank": 22,
-   "post_count": 1103,
-   "category": "politics",
-   "started": "2026-11-21",
-   "new": false
-  },
-  {
-   "topic": "402967c5c875",
-   "display_name": "FAA nationwide ground stop",
-   "rank": 23,
-   "post_count": 4660,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": true
-  },
-  {
-   "topic": "029106da083c",
-   "display_name": "Stefanik's D.C. home sells above list",
-   "rank": 24,
-   "post_count": 218,
+   "topic": "82eb7540f0e0",
+   "display_name": "Hegseth memo restricts Canada defense ties",
+   "rank": 17,
+   "post_count": 689,
    "category": "politics",
    "started": "2026-11-20",
    "new": false
   },
   {
-   "topic": "13dcaa82e2bd",
-   "display_name": "Unusually warm late November weather",
-   "rank": 25,
-   "post_count": 2853,
-   "category": "other",
-   "started": "2026-11-07",
+   "topic": "48024694d4bd",
+   "display_name": "Mamdani plans Rikers closure",
+   "rank": 18,
+   "post_count": 309,
+   "category": "politics",
+   "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "a56eadca42c5",
+   "display_name": "Data center ballot measures",
+   "rank": 19,
+   "post_count": 9333,
+   "category": "politics",
+   "started": "2026-10-29",
    "new": false
+  },
+  {
+   "topic": "f4212892e704",
+   "display_name": "Israel's military campaign in Gaza",
+   "rank": 20,
+   "post_count": 120,
+   "category": "politics",
+   "started": "2026-11-22",
+   "new": true
+  },
+  {
+   "topic": "7bc14abe9d5f",
+   "display_name": "World Court rules in Rohingya genocide case",
+   "rank": 21,
+   "post_count": 1626,
+   "category": "politics",
+   "started": "2026-11-19",
+   "new": false
+  },
+  {
+   "topic": "4fbb2cfbcb59",
+   "display_name": "Transgender Day of Remembrance",
+   "rank": 22,
+   "post_count": 3012,
+   "category": "culture",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "5316d959db9a",
+   "display_name": "Thanksgiving pie rankings",
+   "rank": 23,
+   "post_count": 238,
+   "category": "culture",
+   "started": "2026-11-21",
+   "new": false
+  },
+  {
+   "topic": "c05e41c595d2",
+   "display_name": "Army canceled chemical treatment contract",
+   "rank": 24,
+   "post_count": 4854,
+   "category": "politics",
+   "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "383f13f52c2d",
+   "display_name": "Washington Spirit vs. Kansas City Current",
+   "rank": 25,
+   "post_count": 295,
+   "category": "sports",
+   "started": "2026-11-22",
+   "new": true
   }
  ],
  "history": {
@@ -620,15 +620,26 @@
   "2026-11-22": [
    "AI patching likely behind outages",
    "AI sell-off overshadows Anthropic IPO",
+   "Army canceled chemical treatment contract",
    "Bird photography",
    "Boldest movies seen on dates",
    "COP31 draft drops fossil fuels",
    "Calls to release Epstein files",
+   "Carney says Canada is busy without U.S. deal",
+   "Celebrity birthdays on November 19",
+   "Change one letter, ruin a movie",
+   "Claude AI coding tools",
+   "Data center ballot measures",
    "Democrats' speaker nomination vote",
    "FAA nationwide ground stop",
+   "Hegseth memo restricts Canada defense ties",
    "ICE detention video at Seattle airport",
+   "ICE immigration arrests",
+   "Israel's military campaign in Gaza",
+   "Mamdani plans Rikers closure",
    "Mamdani to disband NYPD unit",
    "Musk says he is not MAGA",
+   "Nvidia China chip case",
    "Ocarina of Time remake",
    "Riemann hypothesis proof claimed",
    "Russia's war in Ukraine",
@@ -636,13 +647,21 @@
    "Senate Democrats speed up Trump judge votes",
    "Stefanik's D.C. home sells above list",
    "Sunrise on the Reaping hits theaters",
+   "Thanksgiving dinner preparations",
+   "Thanksgiving pie rankings",
+   "Theresa May urges accepting Brexit",
+   "Transgender Day of Remembrance",
+   "Trump calls Putin his friend",
    "Trump order limits contractor talks",
    "Trump says Democrats have healthcare points",
    "Trump tells Europe to defund Ukraine",
    "US cleared China chip sales",
+   "US loses measles elimination status",
    "US war with Iran",
    "Unusually warm late November weather",
-   "Van Hollen challenges Schumer"
+   "Van Hollen challenges Schumer",
+   "Washington Spirit vs. Kansas City Current",
+   "World Court rules in Rohingya genocide case"
   ]
  }
 }
