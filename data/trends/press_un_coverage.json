@@ -8,7 +8,7 @@
   "window_days": 7,
   "lag_days": 2,
   "min_stories": 100,
-  "generated_at": "2026-11-24T03:03:49+00:00",
+  "generated_at": "2026-11-26T00:22:32+00:00",
   "coverage": {
    "countries_with_share": 173,
    "countries_share_withheld_low_volume": 22,
@@ -71,46 +71,46 @@
   },
   "AGO": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 11695,
-   "stories_un": 188,
+   "stories_total": 11046,
+   "stories_un": 231,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 13,
-     "total": 1207
+     "date": "2026-11-18",
+     "un": 55,
+     "total": 1914
     },
     {
-     "date": "2026-11-08",
-     "un": 13,
-     "total": 1208
+     "date": "2026-11-19",
+     "un": 47,
+     "total": 1830
     },
     {
-     "date": "2026-11-09",
-     "un": 45,
-     "total": 1799
+     "date": "2026-11-20",
+     "un": 39,
+     "total": 1708
     },
     {
-     "date": "2026-11-10",
-     "un": 17,
-     "total": 1919
+     "date": "2026-11-21",
+     "un": 11,
+     "total": 1110
     },
     {
-     "date": "2026-11-11",
-     "un": 42,
-     "total": 2009
+     "date": "2026-11-22",
+     "un": 20,
+     "total": 1062
     },
     {
-     "date": "2026-11-12",
-     "un": 33,
-     "total": 1820
+     "date": "2026-11-23",
+     "un": 38,
+     "total": 1811
     },
     {
-     "date": "2026-11-13",
-     "un": 25,
-     "total": 1733
+     "date": "2026-11-24",
+     "un": 21,
+     "total": 1611
     }
    ],
    "collection": {
@@ -118,9 +118,9 @@
     "name": "Angola - National",
     "source_count": 20
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Angola - National’ (id 34412237) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 1.61
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Angola - National’ (id 34412237) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 2.09
   },
   "ALB": {
    "window": {
@@ -3469,46 +3469,46 @@
   },
   "GMB": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 175,
+   "stories_total": 174,
    "stories_un": 6,
    "daily": [
     {
-     "date": "2026-11-07",
+     "date": "2026-11-18",
      "un": 0,
-     "total": 0
+     "total": 31
     },
     {
-     "date": "2026-11-08",
-     "un": 0,
-     "total": 0
-    },
-    {
-     "date": "2026-11-09",
-     "un": 2,
-     "total": 34
-    },
-    {
-     "date": "2026-11-10",
-     "un": 0,
-     "total": 34
-    },
-    {
-     "date": "2026-11-11",
-     "un": 0,
-     "total": 33
-    },
-    {
-     "date": "2026-11-12",
+     "date": "2026-11-19",
      "un": 1,
-     "total": 37
+     "total": 41
     },
     {
-     "date": "2026-11-13",
+     "date": "2026-11-20",
      "un": 3,
-     "total": 37
+     "total": 35
+    },
+    {
+     "date": "2026-11-21",
+     "un": 0,
+     "total": 0
+    },
+    {
+     "date": "2026-11-22",
+     "un": 0,
+     "total": 0
+    },
+    {
+     "date": "2026-11-23",
+     "un": 1,
+     "total": 35
+    },
+    {
+     "date": "2026-11-24",
+     "un": 1,
+     "total": 32
     }
    ],
    "collection": {
@@ -3516,52 +3516,52 @@
     "name": "Gambia - National",
     "source_count": 12
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Gambia - National’ (id 34412312) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 3.43
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Gambia - National’ (id 34412312) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 3.45
   },
   "GNB": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 135,
-   "stories_un": 5,
+   "stories_total": 108,
+   "stories_un": 8,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 0,
-     "total": 15
-    },
-    {
-     "date": "2026-11-08",
-     "un": 0,
-     "total": 8
-    },
-    {
-     "date": "2026-11-09",
+     "date": "2026-11-18",
      "un": 1,
-     "total": 21
+     "total": 16
     },
     {
-     "date": "2026-11-10",
+     "date": "2026-11-19",
+     "un": 0,
+     "total": 6
+    },
+    {
+     "date": "2026-11-20",
      "un": 3,
-     "total": 27
+     "total": 20
     },
     {
-     "date": "2026-11-11",
-     "un": 0,
-     "total": 15
-    },
-    {
-     "date": "2026-11-12",
-     "un": 0,
-     "total": 25
-    },
-    {
-     "date": "2026-11-13",
+     "date": "2026-11-21",
      "un": 1,
-     "total": 24
+     "total": 16
+    },
+    {
+     "date": "2026-11-22",
+     "un": 0,
+     "total": 13
+    },
+    {
+     "date": "2026-11-23",
+     "un": 1,
+     "total": 16
+    },
+    {
+     "date": "2026-11-24",
+     "un": 2,
+     "total": 21
     }
    ],
    "collection": {
@@ -3569,9 +3569,9 @@
     "name": "Guinea-Bissau - National",
     "source_count": 9
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Guinea-Bissau - National’ (id 34412317) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 3.7
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Guinea-Bissau - National’ (id 34412317) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 7.41
   },
   "GNQ": {
    "window": {
@@ -3788,46 +3788,46 @@
   },
   "GUY": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 892,
-   "stories_un": 56,
+   "stories_total": 861,
+   "stories_un": 177,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 4,
-     "total": 99
+     "date": "2026-11-18",
+     "un": 11,
+     "total": 134
     },
     {
-     "date": "2026-11-08",
-     "un": 9,
-     "total": 128
+     "date": "2026-11-19",
+     "un": 15,
+     "total": 131
     },
     {
-     "date": "2026-11-09",
-     "un": 13,
-     "total": 97
-    },
-    {
-     "date": "2026-11-10",
-     "un": 7,
-     "total": 122
-    },
-    {
-     "date": "2026-11-11",
+     "date": "2026-11-20",
      "un": 10,
-     "total": 150
+     "total": 113
     },
     {
-     "date": "2026-11-12",
-     "un": 5,
-     "total": 152
+     "date": "2026-11-21",
+     "un": 4,
+     "total": 104
     },
     {
-     "date": "2026-11-13",
-     "un": 8,
-     "total": 144
+     "date": "2026-11-22",
+     "un": 51,
+     "total": 120
+    },
+    {
+     "date": "2026-11-23",
+     "un": 33,
+     "total": 118
+    },
+    {
+     "date": "2026-11-24",
+     "un": 53,
+     "total": 141
     }
    ],
    "collection": {
@@ -3835,9 +3835,9 @@
     "name": "Guyana - National",
     "source_count": 17
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Guyana - National’ (id 34412443) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 6.28
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Guyana - National’ (id 34412443) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 20.56
   },
   "HND": {
    "window": {
@@ -3894,46 +3894,46 @@
   },
   "HRV": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 14973,
-   "stories_un": 0,
+   "stories_total": 14658,
+   "stories_un": 1,
    "daily": [
     {
-     "date": "2026-11-07",
+     "date": "2026-11-18",
      "un": 0,
-     "total": 1578
+     "total": 1850
     },
     {
-     "date": "2026-11-08",
+     "date": "2026-11-19",
      "un": 0,
-     "total": 1617
+     "total": 2426
     },
     {
-     "date": "2026-11-09",
+     "date": "2026-11-20",
      "un": 0,
-     "total": 2402
+     "total": 2281
     },
     {
-     "date": "2026-11-10",
+     "date": "2026-11-21",
      "un": 0,
-     "total": 2367
+     "total": 1685
     },
     {
-     "date": "2026-11-11",
+     "date": "2026-11-22",
      "un": 0,
-     "total": 2365
+     "total": 1608
     },
     {
-     "date": "2026-11-12",
-     "un": 0,
-     "total": 2387
+     "date": "2026-11-23",
+     "un": 1,
+     "total": 2337
     },
     {
-     "date": "2026-11-13",
+     "date": "2026-11-24",
      "un": 0,
-     "total": 2257
+     "total": 2471
     }
    ],
    "collection": {
@@ -3941,52 +3941,52 @@
     "name": "Croatia - National",
     "source_count": 65
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Croatia - National’ (id 34412323) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 0.0
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Croatia - National’ (id 34412323) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 0.01
   },
   "HTI": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 755,
-   "stories_un": 89,
+   "stories_total": 756,
+   "stories_un": 99,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 12,
-     "total": 73
+     "date": "2026-11-18",
+     "un": 17,
+     "total": 114
     },
     {
-     "date": "2026-11-08",
-     "un": 8,
-     "total": 66
+     "date": "2026-11-19",
+     "un": 21,
+     "total": 108
     },
     {
-     "date": "2026-11-09",
-     "un": 16,
-     "total": 107
+     "date": "2026-11-20",
+     "un": 13,
+     "total": 125
     },
     {
-     "date": "2026-11-10",
+     "date": "2026-11-21",
+     "un": 4,
+     "total": 79
+    },
+    {
+     "date": "2026-11-22",
+     "un": 10,
+     "total": 76
+    },
+    {
+     "date": "2026-11-23",
      "un": 15,
-     "total": 136
+     "total": 115
     },
     {
-     "date": "2026-11-11",
-     "un": 16,
-     "total": 130
-    },
-    {
-     "date": "2026-11-12",
-     "un": 11,
-     "total": 122
-    },
-    {
-     "date": "2026-11-13",
-     "un": 11,
-     "total": 121
+     "date": "2026-11-24",
+     "un": 19,
+     "total": 139
     }
    ],
    "collection": {
@@ -3994,9 +3994,9 @@
     "name": "Haiti - National",
     "source_count": 36
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Haiti - National’ (id 34412303) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 11.79
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Haiti - National’ (id 34412303) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 13.1
   },
   "HUN": {
    "window": {
@@ -4053,46 +4053,46 @@
   },
   "IDN": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 45649,
-   "stories_un": 187,
+   "stories_total": 46732,
+   "stories_un": 256,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 18,
-     "total": 4642
+     "date": "2026-11-18",
+     "un": 35,
+     "total": 7568
     },
     {
-     "date": "2026-11-08",
-     "un": 14,
-     "total": 4583
+     "date": "2026-11-19",
+     "un": 33,
+     "total": 7159
     },
     {
-     "date": "2026-11-09",
-     "un": 26,
-     "total": 7295
+     "date": "2026-11-20",
+     "un": 44,
+     "total": 6851
     },
     {
-     "date": "2026-11-10",
-     "un": 27,
-     "total": 7621
+     "date": "2026-11-21",
+     "un": 39,
+     "total": 4817
     },
     {
-     "date": "2026-11-11",
-     "un": 31,
-     "total": 7527
+     "date": "2026-11-22",
+     "un": 24,
+     "total": 5075
     },
     {
-     "date": "2026-11-12",
-     "un": 31,
-     "total": 7297
+     "date": "2026-11-23",
+     "un": 48,
+     "total": 7549
     },
     {
-     "date": "2026-11-13",
-     "un": 40,
-     "total": 6684
+     "date": "2026-11-24",
+     "un": 33,
+     "total": 7713
     }
    ],
    "collection": {
@@ -4100,52 +4100,52 @@
     "name": "Indonesia - National",
     "source_count": 111
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Indonesia - National’ (id 34412392) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 0.41
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Indonesia - National’ (id 34412392) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 0.55
   },
   "IND": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 151766,
-   "stories_un": 456,
+   "stories_total": 169350,
+   "stories_un": 839,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 39,
-     "total": 21974
+     "date": "2026-11-18",
+     "un": 104,
+     "total": 25007
     },
     {
-     "date": "2026-11-08",
-     "un": 52,
-     "total": 16439
+     "date": "2026-11-19",
+     "un": 162,
+     "total": 25913
     },
     {
-     "date": "2026-11-09",
-     "un": 64,
-     "total": 18379
+     "date": "2026-11-20",
+     "un": 177,
+     "total": 25588
     },
     {
-     "date": "2026-11-10",
-     "un": 81,
-     "total": 22712
+     "date": "2026-11-21",
+     "un": 75,
+     "total": 23281
     },
     {
-     "date": "2026-11-11",
-     "un": 62,
-     "total": 23105
+     "date": "2026-11-22",
+     "un": 93,
+     "total": 21010
     },
     {
-     "date": "2026-11-12",
-     "un": 70,
-     "total": 24429
+     "date": "2026-11-23",
+     "un": 119,
+     "total": 24461
     },
     {
-     "date": "2026-11-13",
-     "un": 88,
-     "total": 24728
+     "date": "2026-11-24",
+     "un": 109,
+     "total": 24090
     }
    ],
    "collection": {
@@ -4153,52 +4153,52 @@
     "name": "India - National",
     "source_count": 142
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘India - National’ (id 34412118) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 0.3
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘India - National’ (id 34412118) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 0.5
   },
   "IRL": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 2843,
-   "stories_un": 21,
+   "stories_total": 3002,
+   "stories_un": 54,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 1,
-     "total": 292
-    },
-    {
-     "date": "2026-11-08",
-     "un": 4,
-     "total": 251
-    },
-    {
-     "date": "2026-11-09",
+     "date": "2026-11-18",
      "un": 6,
-     "total": 455
+     "total": 468
     },
     {
-     "date": "2026-11-10",
-     "un": 3,
-     "total": 461
+     "date": "2026-11-19",
+     "un": 9,
+     "total": 500
     },
     {
-     "date": "2026-11-11",
-     "un": 1,
+     "date": "2026-11-20",
+     "un": 9,
      "total": 454
     },
     {
-     "date": "2026-11-12",
-     "un": 3,
-     "total": 463
+     "date": "2026-11-21",
+     "un": 11,
+     "total": 337
     },
     {
-     "date": "2026-11-13",
-     "un": 3,
-     "total": 467
+     "date": "2026-11-22",
+     "un": 6,
+     "total": 270
+    },
+    {
+     "date": "2026-11-23",
+     "un": 5,
+     "total": 455
+    },
+    {
+     "date": "2026-11-24",
+     "un": 8,
+     "total": 518
     }
    ],
    "collection": {
@@ -4206,52 +4206,52 @@
     "name": "Ireland - National",
     "source_count": 68
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Ireland - National’ (id 34412271) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 0.74
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Ireland - National’ (id 34412271) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 1.8
   },
   "IRN": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 26272,
-   "stories_un": 759,
+   "stories_total": 26968,
+   "stories_un": 835,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 69,
-     "total": 4159
+     "date": "2026-11-18",
+     "un": 130,
+     "total": 4273
     },
     {
-     "date": "2026-11-08",
-     "un": 73,
-     "total": 4069
+     "date": "2026-11-19",
+     "un": 129,
+     "total": 3093
     },
     {
-     "date": "2026-11-09",
-     "un": 103,
-     "total": 4071
+     "date": "2026-11-20",
+     "un": 102,
+     "total": 2923
     },
     {
-     "date": "2026-11-10",
-     "un": 77,
-     "total": 4251
+     "date": "2026-11-21",
+     "un": 138,
+     "total": 4047
     },
     {
-     "date": "2026-11-11",
-     "un": 197,
-     "total": 4095
+     "date": "2026-11-22",
+     "un": 107,
+     "total": 4137
     },
     {
-     "date": "2026-11-12",
-     "un": 135,
-     "total": 2735
+     "date": "2026-11-23",
+     "un": 141,
+     "total": 4219
     },
     {
-     "date": "2026-11-13",
-     "un": 105,
-     "total": 2892
+     "date": "2026-11-24",
+     "un": 88,
+     "total": 4276
     }
    ],
    "collection": {
@@ -4259,52 +4259,52 @@
     "name": "Iran, Islamic Republic of - National",
     "source_count": 71
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Iran, Islamic Republic of - National’ (id 34412284) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 2.89
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Iran, Islamic Republic of - National’ (id 34412284) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 3.1
   },
   "IRQ": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 827,
-   "stories_un": 21,
+   "stories_total": 844,
+   "stories_un": 19,
    "daily": [
     {
-     "date": "2026-11-07",
+     "date": "2026-11-18",
      "un": 3,
-     "total": 104
+     "total": 134
     },
     {
-     "date": "2026-11-08",
+     "date": "2026-11-19",
+     "un": 4,
+     "total": 108
+    },
+    {
+     "date": "2026-11-20",
      "un": 0,
-     "total": 125
+     "total": 94
     },
     {
-     "date": "2026-11-09",
-     "un": 1,
-     "total": 135
+     "date": "2026-11-21",
+     "un": 5,
+     "total": 101
     },
     {
-     "date": "2026-11-10",
-     "un": 3,
-     "total": 116
-    },
-    {
-     "date": "2026-11-11",
-     "un": 7,
+     "date": "2026-11-22",
+     "un": 5,
      "total": 129
     },
     {
-     "date": "2026-11-12",
-     "un": 4,
-     "total": 119
+     "date": "2026-11-23",
+     "un": 1,
+     "total": 140
     },
     {
-     "date": "2026-11-13",
-     "un": 3,
-     "total": 99
+     "date": "2026-11-24",
+     "un": 1,
+     "total": 138
     }
    ],
    "collection": {
@@ -4312,9 +4312,9 @@
     "name": "Iraq - National",
     "source_count": 37
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Iraq - National’ (id 34412423) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 2.54
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Iraq - National’ (id 34412423) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 2.25
   },
   "ISL": {
    "window": {
@@ -4371,46 +4371,46 @@
   },
   "ISR": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 10289,
-   "stories_un": 101,
+   "stories_total": 10148,
+   "stories_un": 102,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 5,
-     "total": 874
+     "date": "2026-11-18",
+     "un": 11,
+     "total": 1737
     },
     {
-     "date": "2026-11-08",
+     "date": "2026-11-19",
      "un": 22,
-     "total": 1770
-    },
-    {
-     "date": "2026-11-09",
-     "un": 16,
      "total": 1670
     },
     {
-     "date": "2026-11-10",
+     "date": "2026-11-20",
+     "un": 12,
+     "total": 943
+    },
+    {
+     "date": "2026-11-21",
      "un": 10,
-     "total": 1747
+     "total": 817
     },
     {
-     "date": "2026-11-11",
-     "un": 23,
-     "total": 1613
+     "date": "2026-11-22",
+     "un": 19,
+     "total": 1648
     },
     {
-     "date": "2026-11-12",
-     "un": 14,
-     "total": 1632
+     "date": "2026-11-23",
+     "un": 15,
+     "total": 1624
     },
     {
-     "date": "2026-11-13",
-     "un": 11,
-     "total": 983
+     "date": "2026-11-24",
+     "un": 13,
+     "total": 1709
     }
    ],
    "collection": {
@@ -4418,52 +4418,52 @@
     "name": "Israel - National",
     "source_count": 53
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Israel - National’ (id 34412391) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 0.98
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Israel - National’ (id 34412391) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 1.01
   },
   "ITA": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 43413,
-   "stories_un": 292,
+   "stories_total": 42702,
+   "stories_un": 430,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 17,
-     "total": 5181
+     "date": "2026-11-18",
+     "un": 53,
+     "total": 6560
     },
     {
-     "date": "2026-11-08",
-     "un": 12,
-     "total": 4325
+     "date": "2026-11-19",
+     "un": 77,
+     "total": 6904
     },
     {
-     "date": "2026-11-09",
-     "un": 56,
-     "total": 6303
+     "date": "2026-11-20",
+     "un": 79,
+     "total": 6834
     },
     {
-     "date": "2026-11-10",
-     "un": 68,
-     "total": 6836
+     "date": "2026-11-21",
+     "un": 22,
+     "total": 5262
     },
     {
-     "date": "2026-11-11",
-     "un": 40,
-     "total": 7049
+     "date": "2026-11-22",
+     "un": 65,
+     "total": 4394
     },
     {
-     "date": "2026-11-12",
-     "un": 57,
-     "total": 7144
+     "date": "2026-11-23",
+     "un": 74,
+     "total": 5728
     },
     {
-     "date": "2026-11-13",
-     "un": 42,
-     "total": 6575
+     "date": "2026-11-24",
+     "un": 60,
+     "total": 7020
     }
    ],
    "collection": {
@@ -4471,52 +4471,52 @@
     "name": "Italy - National",
     "source_count": 144
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Italy - National’ (id 34412372) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 0.67
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Italy - National’ (id 34412372) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 1.01
   },
   "JAM": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 1318,
-   "stories_un": 79,
+   "stories_total": 1268,
+   "stories_un": 92,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 6,
-     "total": 131
+     "date": "2026-11-18",
+     "un": 17,
+     "total": 198
     },
     {
-     "date": "2026-11-08",
-     "un": 10,
+     "date": "2026-11-19",
+     "un": 15,
+     "total": 225
+    },
+    {
+     "date": "2026-11-20",
+     "un": 12,
+     "total": 197
+    },
+    {
+     "date": "2026-11-21",
+     "un": 8,
      "total": 134
     },
     {
-     "date": "2026-11-09",
+     "date": "2026-11-22",
      "un": 12,
-     "total": 192
+     "total": 135
     },
     {
-     "date": "2026-11-10",
-     "un": 20,
-     "total": 194
+     "date": "2026-11-23",
+     "un": 10,
+     "total": 184
     },
     {
-     "date": "2026-11-11",
-     "un": 17,
-     "total": 234
-    },
-    {
-     "date": "2026-11-12",
-     "un": 8,
-     "total": 219
-    },
-    {
-     "date": "2026-11-13",
-     "un": 6,
-     "total": 214
+     "date": "2026-11-24",
+     "un": 18,
+     "total": 195
     }
    ],
    "collection": {
@@ -4524,9 +4524,9 @@
     "name": "Jamaica - National",
     "source_count": 26
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Jamaica - National’ (id 34412082) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 5.99
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Jamaica - National’ (id 34412082) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 7.26
   },
   "JOR": {
    "window": {
@@ -4583,46 +4583,46 @@
   },
   "JPN": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 51377,
-   "stories_un": 691,
+   "stories_total": 50571,
+   "stories_un": 823,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 28,
-     "total": 4766
+     "date": "2026-11-18",
+     "un": 105,
+     "total": 8957
     },
     {
-     "date": "2026-11-08",
-     "un": 44,
-     "total": 4138
+     "date": "2026-11-19",
+     "un": 169,
+     "total": 9190
     },
     {
-     "date": "2026-11-09",
-     "un": 98,
-     "total": 7095
+     "date": "2026-11-20",
+     "un": 173,
+     "total": 9997
     },
     {
-     "date": "2026-11-10",
-     "un": 144,
-     "total": 8846
+     "date": "2026-11-21",
+     "un": 103,
+     "total": 5006
     },
     {
-     "date": "2026-11-11",
-     "un": 108,
-     "total": 8705
+     "date": "2026-11-22",
+     "un": 63,
+     "total": 4361
     },
     {
-     "date": "2026-11-12",
-     "un": 148,
-     "total": 8705
+     "date": "2026-11-23",
+     "un": 99,
+     "total": 4569
     },
     {
-     "date": "2026-11-13",
-     "un": 121,
-     "total": 9122
+     "date": "2026-11-24",
+     "un": 111,
+     "total": 8491
     }
    ],
    "collection": {
@@ -4630,9 +4630,9 @@
     "name": "Japan - National",
     "source_count": 427
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Japan - National’ (id 34412056) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 1.34
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Japan - National’ (id 34412056) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 1.63
   },
   "KAZ": {
    "window": {
@@ -4742,46 +4742,46 @@
   },
   "KGZ": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 3425,
-   "stories_un": 98,
+   "stories_total": 3307,
+   "stories_un": 78,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 7,
-     "total": 243
-    },
-    {
-     "date": "2026-11-08",
+     "date": "2026-11-18",
      "un": 8,
-     "total": 194
+     "total": 607
     },
     {
-     "date": "2026-11-09",
-     "un": 12,
-     "total": 561
+     "date": "2026-11-19",
+     "un": 13,
+     "total": 564
     },
     {
-     "date": "2026-11-10",
-     "un": 12,
-     "total": 664
+     "date": "2026-11-20",
+     "un": 19,
+     "total": 527
     },
     {
-     "date": "2026-11-11",
-     "un": 23,
-     "total": 598
+     "date": "2026-11-21",
+     "un": 3,
+     "total": 225
     },
     {
-     "date": "2026-11-12",
-     "un": 24,
-     "total": 582
+     "date": "2026-11-22",
+     "un": 5,
+     "total": 140
     },
     {
-     "date": "2026-11-13",
-     "un": 12,
-     "total": 583
+     "date": "2026-11-23",
+     "un": 16,
+     "total": 643
+    },
+    {
+     "date": "2026-11-24",
+     "un": 14,
+     "total": 601
     }
    ],
    "collection": {
@@ -4789,52 +4789,52 @@
     "name": "Kyrgyzstan - National",
     "source_count": 20
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Kyrgyzstan - National’ (id 34412420) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 2.86
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Kyrgyzstan - National’ (id 34412420) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 2.36
   },
   "KHM": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 603,
-   "stories_un": 9,
+   "stories_total": 730,
+   "stories_un": 25,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 0,
-     "total": 65
+     "date": "2026-11-18",
+     "un": 1,
+     "total": 116
     },
     {
-     "date": "2026-11-08",
-     "un": 4,
-     "total": 59
-    },
-    {
-     "date": "2026-11-09",
-     "un": 2,
-     "total": 75
-    },
-    {
-     "date": "2026-11-10",
-     "un": 0,
-     "total": 106
-    },
-    {
-     "date": "2026-11-11",
+     "date": "2026-11-19",
      "un": 3,
-     "total": 122
+     "total": 148
     },
     {
-     "date": "2026-11-12",
-     "un": 0,
-     "total": 97
+     "date": "2026-11-20",
+     "un": 11,
+     "total": 143
     },
     {
-     "date": "2026-11-13",
+     "date": "2026-11-21",
+     "un": 5,
+     "total": 95
+    },
+    {
+     "date": "2026-11-22",
+     "un": 4,
+     "total": 70
+    },
+    {
+     "date": "2026-11-23",
      "un": 0,
-     "total": 79
+     "total": 76
+    },
+    {
+     "date": "2026-11-24",
+     "un": 1,
+     "total": 82
     }
    ],
    "collection": {
@@ -4842,50 +4842,50 @@
     "name": "Cambodia - National",
     "source_count": 20
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Cambodia - National’ (id 34411590) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 1.49
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Cambodia - National’ (id 34411590) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 3.42
   },
   "KIR": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
    "stories_total": 0,
    "stories_un": 0,
    "daily": [
     {
-     "date": "2026-11-07",
+     "date": "2026-11-18",
      "un": 0,
      "total": 0
     },
     {
-     "date": "2026-11-08",
+     "date": "2026-11-19",
      "un": 0,
      "total": 0
     },
     {
-     "date": "2026-11-09",
+     "date": "2026-11-20",
      "un": 0,
      "total": 0
     },
     {
-     "date": "2026-11-10",
+     "date": "2026-11-21",
      "un": 0,
      "total": 0
     },
     {
-     "date": "2026-11-11",
+     "date": "2026-11-22",
      "un": 0,
      "total": 0
     },
     {
-     "date": "2026-11-12",
+     "date": "2026-11-23",
      "un": 0,
      "total": 0
     },
     {
-     "date": "2026-11-13",
+     "date": "2026-11-24",
      "un": 0,
      "total": 0
     }
@@ -4895,53 +4895,53 @@
     "name": "Kiribati - National",
     "source_count": 2
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Kiribati - National’ (id 34412301) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Kiribati - National’ (id 34412301) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
    "share_withheld": true,
    "low_volume_note": "Only 0 stories monitored in this window (below the 100-story floor) — too few to quote a share honestly."
   },
   "KNA": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 510,
-   "stories_un": 43,
+   "stories_total": 493,
+   "stories_un": 77,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 2,
-     "total": 57
+     "date": "2026-11-18",
+     "un": 16,
+     "total": 76
     },
     {
-     "date": "2026-11-08",
-     "un": 4,
-     "total": 58
+     "date": "2026-11-19",
+     "un": 17,
+     "total": 77
     },
     {
-     "date": "2026-11-09",
+     "date": "2026-11-20",
      "un": 11,
-     "total": 82
+     "total": 81
     },
     {
-     "date": "2026-11-10",
-     "un": 9,
-     "total": 77
-    },
-    {
-     "date": "2026-11-11",
-     "un": 9,
-     "total": 85
-    },
-    {
-     "date": "2026-11-12",
+     "date": "2026-11-21",
      "un": 3,
-     "total": 77
+     "total": 48
     },
     {
-     "date": "2026-11-13",
-     "un": 5,
-     "total": 74
+     "date": "2026-11-22",
+     "un": 8,
+     "total": 59
+    },
+    {
+     "date": "2026-11-23",
+     "un": 10,
+     "total": 67
+    },
+    {
+     "date": "2026-11-24",
+     "un": 12,
+     "total": 85
     }
    ],
    "collection": {
@@ -4949,52 +4949,52 @@
     "name": "Saint Kitts and Nevis - National",
     "source_count": 16
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Saint Kitts and Nevis - National’ (id 34412190) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 8.43
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Saint Kitts and Nevis - National’ (id 34412190) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 15.62
   },
   "KOR": {
    "window": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 105191,
-   "stories_un": 471,
+   "stories_total": 96195,
+   "stories_un": 779,
    "daily": [
     {
-     "date": "2026-11-07",
-     "un": 25,
-     "total": 4643
+     "date": "2026-11-18",
+     "un": 79,
+     "total": 19637
     },
     {
-     "date": "2026-11-08",
-     "un": 35,
-     "total": 9058
+     "date": "2026-11-19",
+     "un": 202,
+     "total": 19995
     },
     {
-     "date": "2026-11-09",
-     "un": 66,
-     "total": 18144
+     "date": "2026-11-20",
+     "un": 206,
+     "total": 12908
     },
     {
-     "date": "2026-11-10",
-     "un": 92,
-     "total": 19535
+     "date": "2026-11-21",
+     "un": 30,
+     "total": 3832
     },
     {
-     "date": "2026-11-11",
-     "un": 107,
-     "total": 20042
+     "date": "2026-11-22",
+     "un": 78,
+     "total": 7813
     },
     {
-     "date": "2026-11-12",
-     "un": 80,
-     "total": 19858
+     "date": "2026-11-23",
+     "un": 129,
+     "total": 15695
     },
     {
-     "date": "2026-11-13",
-     "un": 66,
-     "total": 13911
+     "date": "2026-11-24",
+     "un": 55,
+     "total": 16315
     }
    ],
    "collection": {
@@ -5002,9 +5002,9 @@
     "name": "Korea, Republic of - National",
     "source_count": 117
    },
-   "retrieved": "2026-11-15",
-   "source": "Media Cloud national collection ‘Korea, Republic of - National’ (id 34412127) | UN-phrase share of stories 2026-11-07 to 2026-11-13 | https://search.mediacloud.org/ | retrieved 2026-11-15",
-   "share_pct": 0.45
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Korea, Republic of - National’ (id 34412127) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 0.81
   },
   "KWT": {
    "window": {
@@ -9472,46 +9472,46 @@
   },
   "TUV": {
    "window": {
-    "start": "2026-11-05",
-    "end": "2026-11-11"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 3527174,
-   "stories_un": 32119,
+   "stories_total": 3460215,
+   "stories_un": 44218,
    "daily": [
     {
-     "date": "2026-11-05",
-     "un": 4561,
-     "total": 597265
+     "date": "2026-11-18",
+     "un": 6183,
+     "total": 585434
     },
     {
-     "date": "2026-11-06",
-     "un": 4008,
-     "total": 548446
+     "date": "2026-11-19",
+     "un": 9706,
+     "total": 584324
     },
     {
-     "date": "2026-11-07",
-     "un": 2714,
-     "total": 367214
+     "date": "2026-11-20",
+     "un": 7531,
+     "total": 523371
     },
     {
-     "date": "2026-11-08",
-     "un": 2676,
-     "total": 345983
+     "date": "2026-11-21",
+     "un": 4011,
+     "total": 352398
     },
     {
-     "date": "2026-11-09",
-     "un": 5382,
-     "total": 534002
+     "date": "2026-11-22",
+     "un": 5035,
+     "total": 338429
     },
     {
-     "date": "2026-11-10",
-     "un": 5660,
-     "total": 571608
+     "date": "2026-11-23",
+     "un": 5989,
+     "total": 521857
     },
     {
-     "date": "2026-11-11",
-     "un": 7118,
-     "total": 562656
+     "date": "2026-11-24",
+     "un": 5763,
+     "total": 554402
     }
    ],
    "collection": {
@@ -9519,9 +9519,9 @@
     "name": "Tuvalu - National",
     "source_count": 0
    },
-   "retrieved": "2026-11-13",
-   "source": "Media Cloud national collection ‘Tuvalu - National’ (id 34412290) | UN-phrase share of stories 2026-11-05 to 2026-11-11 | https://search.mediacloud.org/ | retrieved 2026-11-13",
-   "share_pct": 0.91
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Tuvalu - National’ (id 34412290) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 1.28
   },
   "TZA": {
    "window": {
@@ -9843,46 +9843,46 @@
   },
   "VAT": {
    "window": {
-    "start": "2026-11-06",
-    "end": "2026-11-12"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 390,
-   "stories_un": 9,
+   "stories_total": 345,
+   "stories_un": 20,
    "daily": [
     {
-     "date": "2026-11-06",
-     "un": 3,
-     "total": 47
+     "date": "2026-11-18",
+     "un": 5,
+     "total": 63
     },
     {
-     "date": "2026-11-07",
+     "date": "2026-11-19",
+     "un": 5,
+     "total": 75
+    },
+    {
+     "date": "2026-11-20",
+     "un": 6,
+     "total": 39
+    },
+    {
+     "date": "2026-11-21",
+     "un": 1,
+     "total": 26
+    },
+    {
+     "date": "2026-11-22",
+     "un": 1,
+     "total": 18
+    },
+    {
+     "date": "2026-11-23",
      "un": 0,
-     "total": 36
+     "total": 63
     },
     {
-     "date": "2026-11-08",
-     "un": 4,
-     "total": 38
-    },
-    {
-     "date": "2026-11-09",
-     "un": 0,
+     "date": "2026-11-24",
+     "un": 2,
      "total": 61
-    },
-    {
-     "date": "2026-11-10",
-     "un": 1,
-     "total": 59
-    },
-    {
-     "date": "2026-11-11",
-     "un": 0,
-     "total": 72
-    },
-    {
-     "date": "2026-11-12",
-     "un": 1,
-     "total": 77
     }
    ],
    "collection": {
@@ -9890,52 +9890,52 @@
     "name": "Holy See (Vatican City State) - National",
     "source_count": 10
    },
-   "retrieved": "2026-11-14",
-   "source": "Media Cloud national collection ‘Holy See (Vatican City State) - National’ (id 34412389) | UN-phrase share of stories 2026-11-06 to 2026-11-12 | https://search.mediacloud.org/ | retrieved 2026-11-14",
-   "share_pct": 2.31
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Holy See (Vatican City State) - National’ (id 34412389) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 5.8
   },
   "VCT": {
    "window": {
-    "start": "2026-11-06",
-    "end": "2026-11-12"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 381,
-   "stories_un": 39,
+   "stories_total": 368,
+   "stories_un": 66,
    "daily": [
     {
-     "date": "2026-11-06",
-     "un": 5,
-     "total": 62
+     "date": "2026-11-18",
+     "un": 14,
+     "total": 59
     },
     {
-     "date": "2026-11-07",
-     "un": 2,
-     "total": 37
+     "date": "2026-11-19",
+     "un": 14,
+     "total": 68
     },
     {
-     "date": "2026-11-08",
-     "un": 5,
+     "date": "2026-11-20",
+     "un": 9,
+     "total": 57
+    },
+    {
+     "date": "2026-11-21",
+     "un": 3,
+     "total": 33
+    },
+    {
+     "date": "2026-11-22",
+     "un": 7,
      "total": 34
     },
     {
-     "date": "2026-11-09",
-     "un": 10,
-     "total": 61
-    },
-    {
-     "date": "2026-11-10",
+     "date": "2026-11-23",
      "un": 8,
-     "total": 73
+     "total": 55
     },
     {
-     "date": "2026-11-11",
-     "un": 6,
-     "total": 60
-    },
-    {
-     "date": "2026-11-12",
-     "un": 3,
-     "total": 54
+     "date": "2026-11-24",
+     "un": 11,
+     "total": 62
     }
    ],
    "collection": {
@@ -9943,9 +9943,9 @@
     "name": "Saint Vincent and the Grenadines - National",
     "source_count": 8
    },
-   "retrieved": "2026-11-14",
-   "source": "Media Cloud national collection ‘Saint Vincent and the Grenadines - National’ (id 34412162) | UN-phrase share of stories 2026-11-06 to 2026-11-12 | https://search.mediacloud.org/ | retrieved 2026-11-14",
-   "share_pct": 10.24
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Saint Vincent and the Grenadines - National’ (id 34412162) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 17.93
   },
   "VEN": {
    "window": {
@@ -10002,46 +10002,46 @@
   },
   "VNM": {
    "window": {
-    "start": "2026-11-06",
-    "end": "2026-11-12"
+    "start": "2026-11-18",
+    "end": "2026-11-24"
    },
-   "stories_total": 25438,
-   "stories_un": 470,
+   "stories_total": 24544,
+   "stories_un": 617,
    "daily": [
     {
-     "date": "2026-11-06",
-     "un": 81,
-     "total": 3722
+     "date": "2026-11-18",
+     "un": 180,
+     "total": 4057
     },
     {
-     "date": "2026-11-07",
-     "un": 40,
-     "total": 3001
+     "date": "2026-11-19",
+     "un": 107,
+     "total": 3962
     },
     {
-     "date": "2026-11-08",
-     "un": 53,
-     "total": 2680
+     "date": "2026-11-20",
+     "un": 105,
+     "total": 3832
     },
     {
-     "date": "2026-11-09",
-     "un": 90,
-     "total": 3780
-    },
-    {
-     "date": "2026-11-10",
-     "un": 70,
-     "total": 4109
-    },
-    {
-     "date": "2026-11-11",
+     "date": "2026-11-21",
      "un": 56,
-     "total": 3986
+     "total": 3215
     },
     {
-     "date": "2026-11-12",
-     "un": 80,
-     "total": 4160
+     "date": "2026-11-22",
+     "un": 54,
+     "total": 2578
+    },
+    {
+     "date": "2026-11-23",
+     "un": 64,
+     "total": 3659
+    },
+    {
+     "date": "2026-11-24",
+     "un": 51,
+     "total": 3241
     }
    ],
    "collection": {
@@ -10049,9 +10049,9 @@
     "name": "Viet Nam - National",
     "source_count": 180
    },
-   "retrieved": "2026-11-14",
-   "source": "Media Cloud national collection ‘Viet Nam - National’ (id 34412246) | UN-phrase share of stories 2026-11-06 to 2026-11-12 | https://search.mediacloud.org/ | retrieved 2026-11-14",
-   "share_pct": 1.85
+   "retrieved": "2026-11-26",
+   "source": "Media Cloud national collection ‘Viet Nam - National’ (id 34412246) | UN-phrase share of stories 2026-11-18 to 2026-11-24 | https://search.mediacloud.org/ | retrieved 2026-11-26",
+   "share_pct": 2.51
   },
   "VUT": {
    "window": {
