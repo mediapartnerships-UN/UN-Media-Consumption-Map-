@@ -6,233 +6,233 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-26T15:40:37+00:00",
+ "retrieved_at": "2026-11-26T20:21:37+00:00",
  "date": "2026-11-26",
  "trends": [
   {
-   "topic": "b30e2b26d3d6",
-   "display_name": "Thanksgiving Day celebrations",
+   "topic": "2f36a20a105e",
+   "display_name": "Tornado warning in Hampton Roads",
    "rank": 1,
-   "post_count": 5509,
-   "category": "culture",
-   "started": "2026-11-23",
+   "post_count": 120,
+   "category": "other",
+   "started": "2026-11-26",
    "new": true
   },
   {
-   "topic": "217cfc46ba79",
-   "display_name": "Kushner praises Putin's restraint",
+   "topic": "672ee501d5a7",
+   "display_name": "Israeli strikes in Gaza",
    "rank": 2,
-   "post_count": 18619,
+   "post_count": 988,
    "category": "politics",
-   "started": "2026-11-14",
-   "new": true
-  },
-  {
-   "topic": "4caa2c3f0c66",
-   "display_name": "Aaron Rodgers reportedly out",
-   "rank": 3,
-   "post_count": 1653,
-   "category": "sports",
-   "started": "2026-11-25",
+   "started": "2026-11-24",
    "new": false
   },
   {
-   "topic": "2957908391e1",
-   "display_name": "UK net migration falls to 77,000",
-   "rank": 4,
-   "post_count": 783,
-   "category": "politics",
+   "topic": "ff57499ceaf7",
+   "display_name": "Birthday twin spectrum prompt",
+   "rank": 3,
+   "post_count": 980,
+   "category": "culture",
    "started": "2026-11-26",
+   "new": true
+  },
+  {
+   "topic": "b30e2b26d3d6",
+   "display_name": "Thanksgiving Day celebrations",
+   "rank": 4,
+   "post_count": 11454,
+   "category": "culture",
+   "started": "2026-11-23",
    "new": true
   },
   {
    "topic": "00fbbcfbde85",
    "display_name": "Grand Theft Auto VI",
    "rank": 5,
-   "post_count": 2392,
+   "post_count": 2733,
    "category": "entertainment",
    "started": "2026-11-25",
    "new": false
   },
   {
-   "topic": "e8c214304f07",
-   "display_name": "New Avengers: Doomsday poster",
+   "topic": "2ce0cc6a9894",
+   "display_name": "Wu-Tang Clan Thanksgiving halftime show",
    "rank": 6,
-   "post_count": 974,
+   "post_count": 363,
    "category": "entertainment",
-   "started": "2026-11-25",
-   "new": true
-  },
-  {
-   "topic": "ce4371e3feb9",
-   "display_name": "Thanksgiving storm threatens travel",
-   "rank": 7,
-   "post_count": 205,
-   "category": "other",
-   "started": "2026-11-25",
-   "new": true
-  },
-  {
-   "topic": "e9b7e4c3b92a",
-   "display_name": "Jason Arday plagiarism claims",
-   "rank": 8,
-   "post_count": 132,
-   "category": "culture",
    "started": "2026-11-26",
    "new": true
   },
   {
-   "topic": "73ecbcfa356a",
-   "display_name": "Duran Duran's Andy Taylor dies",
-   "rank": 9,
-   "post_count": 1629,
+   "topic": "2727efa61393",
+   "display_name": "Describe a film without its name",
+   "rank": 7,
+   "post_count": 1474,
    "category": "entertainment",
    "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "1327f6eb42a2",
+   "display_name": "Lions vs. Bears",
+   "rank": 8,
+   "post_count": 196,
+   "category": "sports",
+   "started": "2026-11-26",
+   "new": true
+  },
+  {
+   "topic": "5510cca87eba",
+   "display_name": "Van Hollen challenges Schumer",
+   "rank": 9,
+   "post_count": 5843,
+   "category": "politics",
+   "started": "2026-11-14",
+   "new": false
+  },
+  {
+   "topic": "049763533cfe",
+   "display_name": "Macy's parade postponed to Saturday",
+   "rank": 10,
+   "post_count": 2409,
+   "category": "culture",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "b986517c3ad5",
+   "display_name": "Vance blames Obama for detonation",
+   "rank": 11,
+   "post_count": 13094,
+   "category": "politics",
+   "started": "2026-11-24",
+   "new": false
+  },
+  {
+   "topic": "d33946f6ef05",
+   "display_name": "Trump calls GDP revision fake",
+   "rank": 12,
+   "post_count": 1326,
+   "category": "politics",
+   "started": "2026-11-24",
    "new": true
   },
   {
    "topic": "a4c1b75a716f",
    "display_name": "Nvidia chip exports to China",
-   "rank": 10,
-   "post_count": 851,
+   "rank": 13,
+   "post_count": 1017,
    "category": "science-tech",
    "started": "2026-11-24",
    "new": true
   },
   {
-   "topic": "b986517c3ad5",
-   "display_name": "FEMA hotline unanswered in Iowa",
-   "rank": 11,
-   "post_count": 12175,
+   "topic": "326815c478fb",
+   "display_name": "Musk pledges kids SpaceX shares",
+   "rank": 14,
+   "post_count": 316,
+   "category": "business",
+   "started": "2026-11-26",
+   "new": true
+  },
+  {
+   "topic": "ce4371e3feb9",
+   "display_name": "Thanksgiving storm threatens travel",
+   "rank": 15,
+   "post_count": 366,
+   "category": "other",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "ada010afdb58",
+   "display_name": "Hakeem Jeffries outlines House agenda",
+   "rank": 16,
+   "post_count": 298,
    "category": "politics",
-   "started": "2026-11-24",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "217cfc46ba79",
+   "display_name": "Kushner praises Putin's restraint",
+   "rank": 17,
+   "post_count": 18836,
+   "category": "politics",
+   "started": "2026-11-14",
+   "new": true
+  },
+  {
+   "topic": "e8c214304f07",
+   "display_name": "New Avengers: Doomsday poster",
+   "rank": 18,
+   "post_count": 1047,
+   "category": "entertainment",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "9978857c5efa",
+   "display_name": "Burnham's UK-EU deal",
+   "rank": 19,
+   "post_count": 3286,
+   "category": "politics",
+   "started": "2026-11-22",
+   "new": false
+  },
+  {
+   "topic": "4caa2c3f0c66",
+   "display_name": "Aaron Rodgers reportedly out",
+   "rank": 20,
+   "post_count": 1964,
+   "category": "sports",
+   "started": "2026-11-25",
+   "new": false
+  },
+  {
+   "topic": "892aad2d4d59",
+   "display_name": "World tops 2C for six straight days",
+   "rank": 21,
+   "post_count": 248,
+   "category": "science-tech",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "7bd371cf1a31",
+   "display_name": "November full supermoon",
+   "rank": 22,
+   "post_count": 1445,
+   "category": "science-tech",
+   "started": "2026-11-23",
    "new": false
   },
   {
    "topic": "6e83a5924f0d",
    "display_name": "Ukraine claims Libya warship sinking",
-   "rank": 12,
-   "post_count": 3515,
+   "rank": 23,
+   "post_count": 3591,
    "category": "politics",
    "started": "2026-11-22",
    "new": false
   },
   {
-   "topic": "42a525891bb2",
-   "display_name": "Cybersecurity breach reported at CIA",
-   "rank": 13,
-   "post_count": 1715,
-   "category": "politics",
-   "started": "2026-11-24",
-   "new": false
-  },
-  {
-   "topic": "e91b9e15d194",
-   "display_name": "Bird photography",
-   "rank": 14,
-   "post_count": 4557,
-   "category": "culture",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
-   "topic": "ff57499ceaf7",
-   "display_name": "Birthday twin spectrum prompt",
-   "rank": 15,
-   "post_count": 100,
-   "category": "culture",
-   "started": "2026-11-26",
+   "topic": "40b3fbb40d6b",
+   "display_name": "Blade Runner 2099 series premiere",
+   "rank": 24,
+   "post_count": 185,
+   "category": "entertainment",
+   "started": "2026-11-25",
    "new": true
   },
   {
    "topic": "4754b557e1be",
    "display_name": "Canned cranberry sauce",
-   "rank": 16,
-   "post_count": 2957,
-   "category": "culture",
-   "started": "2026-11-19",
-   "new": false
-  },
-  {
-   "topic": "aae46c323ad5",
-   "display_name": "Houthis claim Saudi port strikes",
-   "rank": 17,
-   "post_count": 115,
-   "category": "politics",
-   "started": "2026-11-25",
-   "new": true
-  },
-  {
-   "topic": "716f7ca460d4",
-   "display_name": "Trump floats Jensen Huang pardon",
-   "rank": 18,
-   "post_count": 767,
-   "category": "politics",
-   "started": "2026-11-24",
-   "new": false
-  },
-  {
-   "topic": "672ee501d5a7",
-   "display_name": "Israeli strikes in Gaza",
-   "rank": 19,
-   "post_count": 865,
-   "category": "politics",
-   "started": "2026-11-24",
-   "new": false
-  },
-  {
-   "topic": "6c3664d75d44",
-   "display_name": "Wolqotd on closest Scions friendships",
-   "rank": 20,
-   "post_count": 112,
-   "category": "entertainment",
-   "started": "2026-11-26",
-   "new": true
-  },
-  {
-   "topic": "c25fd7eded56",
-   "display_name": "Day to end violence against women",
-   "rank": 21,
-   "post_count": 1015,
-   "category": "culture",
-   "started": "2026-11-25",
-   "new": false
-  },
-  {
-   "topic": "7bc14abe9d5f",
-   "display_name": "World Court rules in Rohingya genocide case",
-   "rank": 22,
-   "post_count": 1982,
-   "category": "politics",
-   "started": "2026-11-19",
-   "new": false
-  },
-  {
-   "topic": "19aeb2361290",
-   "display_name": "Potential 2028 presidential contenders",
-   "rank": 23,
-   "post_count": 165,
-   "category": "politics",
-   "started": "2026-11-24",
-   "new": true
-  },
-  {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake",
-   "rank": 24,
-   "post_count": 15952,
-   "category": "entertainment",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "58c3da2147e2",
-   "display_name": "King tides flood West Coast",
    "rank": 25,
-   "post_count": 1680,
-   "category": "other",
-   "started": "2026-11-22",
-   "new": true
+   "post_count": 2995,
+   "category": "culture",
+   "started": "2026-11-19",
+   "new": false
   }
  ],
  "history": {
@@ -622,6 +622,7 @@
    "Aaron Rodgers reportedly out",
    "Bird photography",
    "Birthday twin spectrum prompt",
+   "Blade Runner 2099 series premiere",
    "Burnham's UK-EU deal",
    "Calls to release Epstein files",
    "Canned cranberry sauce",
@@ -635,6 +636,7 @@
    "GTA VI's Jason and Lucia",
    "Gaza families' donation appeals",
    "Grand Theft Auto VI",
+   "Hakeem Jeffries outlines House agenda",
    "Houthis claim Saudi port strikes",
    "Huang reinstated as Nvidia CEO",
    "ICE arrests at Seattle airport",
@@ -645,8 +647,11 @@
    "King tides flood West Coast",
    "King tides threaten Bay Area flooding",
    "Kushner praises Putin's restraint",
+   "Lions vs. Bears",
+   "Macy's parade postponed to Saturday",
    "Macy's parade turns 100",
    "Mike McCarthy's ice cream sandwich assistant",
+   "Musk pledges kids SpaceX shares",
    "Mystery $300M Trump D.C. fund",
    "New Avengers: Doomsday poster",
    "November full supermoon",
@@ -658,6 +663,8 @@
    "Steven Universe actor comes out",
    "Thanksgiving Day celebrations",
    "Thanksgiving storm threatens travel",
+   "Tornado warning in Hampton Roads",
+   "Trump calls GDP revision fake",
    "Trump calls Putin his friend",
    "Trump floats Jensen Huang pardon",
    "UK net migration falls to 77,000",
@@ -666,7 +673,9 @@
    "Van Hollen challenges Schumer",
    "Vance blames Obama for detonation",
    "Wolqotd on closest Scions friendships",
-   "World Court rules in Rohingya genocide case"
+   "World Court rules in Rohingya genocide case",
+   "World tops 2C for six straight days",
+   "Wu-Tang Clan Thanksgiving halftime show"
   ]
  }
 }
