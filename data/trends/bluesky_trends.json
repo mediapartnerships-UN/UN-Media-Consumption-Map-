@@ -6,231 +6,231 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-26T00:12:28+00:00",
+ "retrieved_at": "2026-11-26T04:17:08+00:00",
  "date": "2026-11-26",
  "trends": [
   {
-   "topic": "2727efa61393",
-   "display_name": "Describe a film without its name",
-   "rank": 1,
-   "post_count": 296,
-   "category": "entertainment",
-   "started": "2026-11-25",
-   "new": true
-  },
-  {
    "topic": "b30e2b26d3d6",
    "display_name": "Thanksgiving Day celebrations",
-   "rank": 2,
-   "post_count": 346,
+   "rank": 1,
+   "post_count": 714,
    "category": "culture",
    "started": "2026-11-23",
    "new": true
   },
   {
-   "topic": "e8c214304f07",
-   "display_name": "New Avengers: Doomsday poster",
-   "rank": 3,
-   "post_count": 420,
+   "topic": "00fbbcfbde85",
+   "display_name": "Grand Theft Auto VI",
+   "rank": 2,
+   "post_count": 1885,
    "category": "entertainment",
    "started": "2026-11-25",
-   "new": true
-  },
-  {
-   "topic": "58c3da2147e2",
-   "display_name": "King tides threaten Bay Area flooding",
-   "rank": 4,
-   "post_count": 1462,
-   "category": "other",
-   "started": "2026-11-22",
    "new": false
   },
   {
    "topic": "b986517c3ad5",
    "display_name": "FEMA hotline unanswered in Iowa",
-   "rank": 5,
-   "post_count": 11080,
+   "rank": 3,
+   "post_count": 11635,
    "category": "politics",
    "started": "2026-11-24",
    "new": false
   },
   {
-   "topic": "73ecbcfa356a",
-   "display_name": "Duran Duran's Andy Taylor dies",
-   "rank": 6,
-   "post_count": 849,
+   "topic": "e8c214304f07",
+   "display_name": "New Avengers: Doomsday poster",
+   "rank": 4,
+   "post_count": 717,
    "category": "entertainment",
    "started": "2026-11-25",
    "new": true
-  },
-  {
-   "topic": "4c6959ba363f",
-   "display_name": "Huang reinstated as Nvidia CEO",
-   "rank": 7,
-   "post_count": 8654,
-   "category": "business",
-   "started": "2026-11-20",
-   "new": false
   },
   {
    "topic": "4caa2c3f0c66",
    "display_name": "Aaron Rodgers reportedly out",
-   "rank": 8,
-   "post_count": 928,
+   "rank": 5,
+   "post_count": 1293,
    "category": "sports",
-   "started": "2026-11-25",
-   "new": false
-  },
-  {
-   "topic": "b482762f84b3",
-   "display_name": "Denny's restores Jensen Huang plaque",
-   "rank": 9,
-   "post_count": 180,
-   "category": "business",
-   "started": "2026-11-25",
-   "new": true
-  },
-  {
-   "topic": "049763533cfe",
-   "display_name": "Macy's parade turns 100",
-   "rank": 10,
-   "post_count": 1117,
-   "category": "culture",
-   "started": "2026-11-25",
-   "new": true
-  },
-  {
-   "topic": "00fbbcfbde85",
-   "display_name": "Grand Theft Auto VI",
-   "rank": 11,
-   "post_count": 1551,
-   "category": "entertainment",
-   "started": "2026-11-25",
-   "new": false
-  },
-  {
-   "topic": "a4c1b75a716f",
-   "display_name": "Nvidia chip exports to China",
-   "rank": 12,
-   "post_count": 489,
-   "category": "science-tech",
-   "started": "2026-11-24",
-   "new": true
-  },
-  {
-   "topic": "b3313a1bf22b",
-   "display_name": "Vance blames Obama for detonation",
-   "rank": 13,
-   "post_count": 541,
-   "category": "politics",
-   "started": "2026-11-25",
-   "new": false
-  },
-  {
-   "topic": "4262fbfdeb00",
-   "display_name": "AI water use compared to golf",
-   "rank": 14,
-   "post_count": 453,
-   "category": "science-tech",
-   "started": "2026-11-25",
-   "new": false
-  },
-  {
-   "topic": "217cfc46ba79",
-   "display_name": "Trump calls Putin his friend",
-   "rank": 15,
-   "post_count": 18256,
-   "category": "politics",
-   "started": "2026-11-14",
-   "new": false
-  },
-  {
-   "topic": "9440cbe8793e",
-   "display_name": "Aaron Rodgers criticizes Mike McCarthy",
-   "rank": 16,
-   "post_count": 1529,
-   "category": "sports",
-   "started": "2026-11-25",
-   "new": false
-  },
-  {
-   "topic": "ed444592f746",
-   "display_name": "Steven Universe actor comes out",
-   "rank": 17,
-   "post_count": 615,
-   "category": "entertainment",
    "started": "2026-11-25",
    "new": false
   },
   {
    "topic": "f11581ca7486",
    "display_name": "FCC approves SpaceX Starmind satellites",
-   "rank": 18,
-   "post_count": 403,
+   "rank": 6,
+   "post_count": 556,
    "category": "science-tech",
    "started": "2026-11-25",
    "new": false
   },
   {
+   "topic": "be1eb0de476a",
+   "display_name": "ABC licenses FCC court case",
+   "rank": 7,
+   "post_count": 182,
+   "category": "politics",
+   "started": "2026-11-26",
+   "new": true
+  },
+  {
+   "topic": "73ecbcfa356a",
+   "display_name": "Duran Duran's Andy Taylor dies",
+   "rank": 8,
+   "post_count": 1216,
+   "category": "entertainment",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "049763533cfe",
+   "display_name": "Macy's parade turns 100",
+   "rank": 9,
+   "post_count": 1486,
+   "category": "culture",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
    "topic": "088e8265d639",
    "display_name": "Mike McCarthy's ice cream sandwich assistant",
-   "rank": 19,
-   "post_count": 405,
+   "rank": 10,
+   "post_count": 478,
    "category": "sports",
    "started": "2026-11-25",
    "new": true
   },
   {
-   "topic": "4f33eec27550",
-   "display_name": "Mystery $300M Trump D.C. fund",
-   "rank": 20,
-   "post_count": 132,
-   "category": "politics",
+   "topic": "2727efa61393",
+   "display_name": "Describe a film without its name",
+   "rank": 11,
+   "post_count": 947,
+   "category": "entertainment",
    "started": "2026-11-25",
-   "new": false
+   "new": true
   },
   {
-   "topic": "5510cca87eba",
-   "display_name": "Van Hollen challenges Schumer",
-   "rank": 21,
-   "post_count": 5611,
+   "topic": "716f7ca460d4",
+   "display_name": "Trump floats Jensen Huang pardon",
+   "rank": 12,
+   "post_count": 622,
    "category": "politics",
-   "started": "2026-11-14",
+   "started": "2026-11-24",
    "new": false
   },
   {
-   "topic": "fba11daf4901",
-   "display_name": "Riemann hypothesis proof claimed",
-   "rank": 22,
-   "post_count": 2386,
-   "category": "science-tech",
+   "topic": "00d4241b94de",
+   "display_name": "Calls to release Epstein files",
+   "rank": 13,
+   "post_count": 1109,
+   "category": "politics",
    "started": "2026-11-20",
    "new": false
   },
   {
-   "topic": "7bd371cf1a31",
-   "display_name": "November full supermoon",
-   "rank": 23,
-   "post_count": 1330,
-   "category": "science-tech",
-   "started": "2026-11-23",
+   "topic": "8130317be1ba",
+   "display_name": "GTA VI's Jason and Lucia",
+   "rank": 14,
+   "post_count": 630,
+   "category": "entertainment",
+   "started": "2026-11-20",
    "new": false
   },
   {
-   "topic": "f4960492985c",
-   "display_name": "ICE arrests at Seattle airport",
-   "rank": 24,
-   "post_count": 4194,
-   "category": "politics",
-   "started": "2026-11-21",
-   "new": false
-  },
-  {
-   "topic": "c25fd7eded56",
-   "display_name": "Day to end violence against women",
-   "rank": 25,
-   "post_count": 869,
+   "topic": "c7057d98ce4f",
+   "display_name": "Joyce Carol Oates on trans literature",
+   "rank": 15,
+   "post_count": 251,
    "category": "culture",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "58c3da2147e2",
+   "display_name": "King tides flood West Coast",
+   "rank": 16,
+   "post_count": 1585,
+   "category": "other",
+   "started": "2026-11-22",
+   "new": true
+  },
+  {
+   "topic": "84d5e7a4542e",
+   "display_name": "SoftBank shares fall in AI sell-off",
+   "rank": 17,
+   "post_count": 496,
+   "category": "business",
+   "started": "2026-11-25",
+   "new": false
+  },
+  {
+   "topic": "6e83a5924f0d",
+   "display_name": "Ukraine claims Libya warship sinking",
+   "rank": 18,
+   "post_count": 3344,
+   "category": "politics",
+   "started": "2026-11-22",
+   "new": false
+  },
+  {
+   "topic": "4c6959ba363f",
+   "display_name": "Denny's restores Jensen Huang plaque",
+   "rank": 19,
+   "post_count": 9231,
+   "category": "business",
+   "started": "2026-11-20",
+   "new": true
+  },
+  {
+   "topic": "6a27ce676985",
+   "display_name": "Gaza families' donation appeals",
+   "rank": 20,
+   "post_count": 1257,
+   "category": "politics",
+   "started": "2026-11-17",
+   "new": false
+  },
+  {
+   "topic": "9978857c5efa",
+   "display_name": "Burnham's UK-EU deal",
+   "rank": 21,
+   "post_count": 3011,
+   "category": "politics",
+   "started": "2026-11-22",
+   "new": false
+  },
+  {
+   "topic": "4754b557e1be",
+   "display_name": "Canned cranberry sauce",
+   "rank": 22,
+   "post_count": 2890,
+   "category": "culture",
+   "started": "2026-11-19",
+   "new": false
+  },
+  {
+   "topic": "53209bc9781e",
+   "display_name": "US loses measles elimination status",
+   "rank": 23,
+   "post_count": 8017,
+   "category": "politics",
+   "started": "2026-11-13",
+   "new": false
+  },
+  {
+   "topic": "281e86b7f00c",
+   "display_name": "Jacob Geller's allegations response",
+   "rank": 24,
+   "post_count": 108,
+   "category": "entertainment",
+   "started": "2026-11-25",
+   "new": true
+  },
+  {
+   "topic": "9440cbe8793e",
+   "display_name": "Aaron Rodgers criticizes Mike McCarthy",
+   "rank": 25,
+   "post_count": 1577,
+   "category": "sports",
    "started": "2026-11-25",
    "new": false
   }
@@ -616,18 +616,27 @@
    "Wrong Lord of the Rings quotes"
   ],
   "2026-11-26": [
+   "ABC licenses FCC court case",
    "AI water use compared to golf",
    "Aaron Rodgers criticizes Mike McCarthy",
    "Aaron Rodgers reportedly out",
+   "Burnham's UK-EU deal",
+   "Calls to release Epstein files",
+   "Canned cranberry sauce",
    "Day to end violence against women",
    "Denny's restores Jensen Huang plaque",
    "Describe a film without its name",
    "Duran Duran's Andy Taylor dies",
    "FCC approves SpaceX Starmind satellites",
    "FEMA hotline unanswered in Iowa",
+   "GTA VI's Jason and Lucia",
+   "Gaza families' donation appeals",
    "Grand Theft Auto VI",
    "Huang reinstated as Nvidia CEO",
    "ICE arrests at Seattle airport",
+   "Jacob Geller's allegations response",
+   "Joyce Carol Oates on trans literature",
+   "King tides flood West Coast",
    "King tides threaten Bay Area flooding",
    "Macy's parade turns 100",
    "Mike McCarthy's ice cream sandwich assistant",
@@ -636,9 +645,13 @@
    "November full supermoon",
    "Nvidia chip exports to China",
    "Riemann hypothesis proof claimed",
+   "SoftBank shares fall in AI sell-off",
    "Steven Universe actor comes out",
    "Thanksgiving Day celebrations",
    "Trump calls Putin his friend",
+   "Trump floats Jensen Huang pardon",
+   "US loses measles elimination status",
+   "Ukraine claims Libya warship sinking",
    "Van Hollen challenges Schumer",
    "Vance blames Obama for detonation"
   ]
