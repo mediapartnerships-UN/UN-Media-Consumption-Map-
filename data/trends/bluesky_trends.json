@@ -6,23 +6,14 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-27T00:31:21+00:00",
+ "retrieved_at": "2026-11-27T04:25:36+00:00",
  "date": "2026-11-27",
  "trends": [
   {
-   "topic": "e0a028913939",
-   "display_name": "Joe Milton plays quarterback for Eagles",
+   "topic": "7a0e0bdaea55",
+   "display_name": "Victoria votes in state election",
    "rank": 1,
-   "post_count": 151,
-   "category": "sports",
-   "started": "2026-11-26",
-   "new": true
-  },
-  {
-   "topic": "7c265869e67d",
-   "display_name": "Katie Miller car seat claim",
-   "rank": 2,
-   "post_count": 427,
+   "post_count": 337,
    "category": "politics",
    "started": "2026-11-26",
    "new": true
@@ -30,18 +21,27 @@
   {
    "topic": "b30e2b26d3d6",
    "display_name": "Thanksgiving Day celebrations",
-   "rank": 3,
-   "post_count": 15266,
+   "rank": 2,
+   "post_count": 18567,
    "category": "culture",
    "started": "2026-11-23",
    "new": false
   },
   {
-   "topic": "4caa2c3f0c66",
-   "display_name": "Aaron Rodgers reportedly out",
+   "topic": "049763533cfe",
+   "display_name": "Macy's parade postponed to Saturday",
+   "rank": 3,
+   "post_count": 2676,
+   "category": "culture",
+   "started": "2026-11-25",
+   "new": false
+  },
+  {
+   "topic": "00fbbcfbde85",
+   "display_name": "Grand Theft Auto VI",
    "rank": 4,
-   "post_count": 2059,
-   "category": "sports",
+   "post_count": 3169,
+   "category": "entertainment",
    "started": "2026-11-25",
    "new": false
   },
@@ -49,61 +49,61 @@
    "topic": "ff57499ceaf7",
    "display_name": "Birthday twin spectrum prompt",
    "rank": 5,
-   "post_count": 1860,
+   "post_count": 2090,
    "category": "culture",
    "started": "2026-11-26",
    "new": false
   },
   {
-   "topic": "00fbbcfbde85",
-   "display_name": "Grand Theft Auto VI",
+   "topic": "a4c1b75a716f",
+   "display_name": "Nvidia chip exports to China",
    "rank": 6,
-   "post_count": 2993,
-   "category": "entertainment",
-   "started": "2026-11-25",
+   "post_count": 1158,
+   "category": "science-tech",
+   "started": "2026-11-24",
    "new": false
   },
   {
    "topic": "326815c478fb",
    "display_name": "Musk pledges kids SpaceX shares",
    "rank": 7,
-   "post_count": 484,
+   "post_count": 555,
    "category": "business",
    "started": "2026-11-26",
    "new": false
   },
   {
-   "topic": "19aeb2361290",
-   "display_name": "Potential 2028 presidential contenders",
+   "topic": "8561abd9ba19",
+   "display_name": "EU leaders debate next budget",
    "rank": 8,
-   "post_count": 231,
+   "post_count": 146,
    "category": "politics",
-   "started": "2026-11-24",
-   "new": false
+   "started": "2026-11-26",
+   "new": true
   },
   {
-   "topic": "049763533cfe",
-   "display_name": "Macy's parade postponed to Saturday",
+   "topic": "4a3f47821090",
+   "display_name": "Eagles vs. Cowboys",
    "rank": 9,
-   "post_count": 2581,
-   "category": "culture",
+   "post_count": 297,
+   "category": "sports",
+   "started": "2026-11-26",
+   "new": true
+  },
+  {
+   "topic": "4caa2c3f0c66",
+   "display_name": "Aaron Rodgers reportedly out",
+   "rank": 10,
+   "post_count": 2140,
+   "category": "sports",
    "started": "2026-11-25",
    "new": false
   },
   {
-   "topic": "6d6ef12d751f",
-   "display_name": "Boreen daily trivia scores",
-   "rank": 10,
-   "post_count": 469,
-   "category": "entertainment",
-   "started": "2026-11-24",
-   "new": true
-  },
-  {
-   "topic": "7a0e0bdaea55",
-   "display_name": "Victoria votes in state election",
+   "topic": "7c265869e67d",
+   "display_name": "Katie Miller car seat claim",
    "rank": 11,
-   "post_count": 152,
+   "post_count": 613,
    "category": "politics",
    "started": "2026-11-26",
    "new": true
@@ -112,16 +112,34 @@
    "topic": "b986517c3ad5",
    "display_name": "Vance blames Obama for detonation",
    "rank": 12,
-   "post_count": 13196,
+   "post_count": 13232,
    "category": "politics",
    "started": "2026-11-24",
    "new": false
   },
   {
-   "topic": "9978857c5efa",
-   "display_name": "Burnham's UK-EU deal",
+   "topic": "465ccea03082",
+   "display_name": "Original characters as nameless NPCs",
    "rank": 13,
-   "post_count": 3310,
+   "post_count": 112,
+   "category": "entertainment",
+   "started": "2026-11-27",
+   "new": true
+  },
+  {
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake",
+   "rank": 14,
+   "post_count": 16011,
+   "category": "entertainment",
+   "started": "2026-11-04",
+   "new": false
+  },
+  {
+   "topic": "eecf5d7b03b0",
+   "display_name": "Medicare for All and universal healthcare",
+   "rank": 15,
+   "post_count": 839,
    "category": "politics",
    "started": "2026-11-22",
    "new": false
@@ -129,110 +147,92 @@
   {
    "topic": "f4960492985c",
    "display_name": "ICE arrests at Seattle airport",
-   "rank": 14,
-   "post_count": 4430,
+   "rank": 16,
+   "post_count": 4451,
    "category": "politics",
    "started": "2026-11-21",
    "new": false
   },
   {
-   "topic": "ddb8a805b49a",
-   "display_name": "US war with Iran",
-   "rank": 15,
-   "post_count": 465,
-   "category": "politics",
-   "started": "2026-11-23",
-   "new": false
-  },
-  {
-   "topic": "b110f123cf0f",
-   "display_name": "Doug Ford urges fighting home invaders",
-   "rank": 16,
-   "post_count": 192,
-   "category": "politics",
-   "started": "2026-11-26",
-   "new": true
-  },
-  {
-   "topic": "6a27ce676985",
-   "display_name": "Gaza families' donation appeals",
+   "topic": "9af36f07571d",
+   "display_name": "Fox News and American decline",
    "rank": 17,
-   "post_count": 1364,
-   "category": "politics",
-   "started": "2026-11-17",
-   "new": false
-  },
-  {
-   "topic": "ada010afdb58",
-   "display_name": "Hakeem Jeffries outlines House agenda",
-   "rank": 18,
-   "post_count": 309,
-   "category": "politics",
-   "started": "2026-11-25",
-   "new": false
-  },
-  {
-   "topic": "a4c1b75a716f",
-   "display_name": "Nvidia chip exports to China",
-   "rank": 19,
-   "post_count": 1109,
-   "category": "science-tech",
-   "started": "2026-11-24",
-   "new": false
-  },
-  {
-   "topic": "6e83a5924f0d",
-   "display_name": "Ukraine claims Libya warship sinking",
-   "rank": 20,
-   "post_count": 3663,
-   "category": "politics",
-   "started": "2026-11-22",
-   "new": false
-  },
-  {
-   "topic": "a3b64f1cc0e5",
-   "display_name": "Poilievre says NDP not for workers",
-   "rank": 21,
-   "post_count": 118,
-   "category": "politics",
-   "started": "2026-11-26",
-   "new": true
-  },
-  {
-   "topic": "40b3fbb40d6b",
-   "display_name": "Blade Runner 2099 series premiere",
-   "rank": 22,
-   "post_count": 225,
-   "category": "entertainment",
-   "started": "2026-11-25",
-   "new": false
-  },
-  {
-   "topic": "7bc14abe9d5f",
-   "display_name": "World Court rules in Rohingya genocide case",
-   "rank": 23,
-   "post_count": 1994,
+   "post_count": 396,
    "category": "politics",
    "started": "2026-11-19",
    "new": false
   },
   {
-   "topic": "716f7ca460d4",
-   "display_name": "Nvidia reinstates Jensen Huang",
-   "rank": 24,
-   "post_count": 893,
-   "category": "business",
-   "started": "2026-11-24",
+   "topic": "b654f7740672",
+   "display_name": "OCASK prompt on insults",
+   "rank": 18,
+   "post_count": 140,
+   "category": "culture",
+   "started": "2026-11-26",
    "new": true
   },
   {
-   "topic": "58c3da2147e2",
-   "display_name": "King tides flood West Coast",
-   "rank": 25,
-   "post_count": 1766,
-   "category": "other",
-   "started": "2026-11-22",
+   "topic": "19aeb2361290",
+   "display_name": "Potential 2028 presidential contenders",
+   "rank": 19,
+   "post_count": 247,
+   "category": "politics",
+   "started": "2026-11-24",
    "new": false
+  },
+  {
+   "topic": "b110f123cf0f",
+   "display_name": "Doug Ford urges fighting home invaders",
+   "rank": 20,
+   "post_count": 231,
+   "category": "politics",
+   "started": "2026-11-26",
+   "new": true
+  },
+  {
+   "topic": "f11581ca7486",
+   "display_name": "FCC approves SpaceX Starmind satellites",
+   "rank": 21,
+   "post_count": 1105,
+   "category": "science-tech",
+   "started": "2026-11-25",
+   "new": false
+  },
+  {
+   "topic": "ada010afdb58",
+   "display_name": "Hakeem Jeffries outlines House agenda",
+   "rank": 22,
+   "post_count": 315,
+   "category": "politics",
+   "started": "2026-11-25",
+   "new": false
+  },
+  {
+   "topic": "5510cca87eba",
+   "display_name": "Van Hollen challenges Schumer",
+   "rank": 23,
+   "post_count": 5942,
+   "category": "politics",
+   "started": "2026-11-14",
+   "new": false
+  },
+  {
+   "topic": "e9b7e4c3b92a",
+   "display_name": "Jason Arday plagiarism claims",
+   "rank": 24,
+   "post_count": 223,
+   "category": "culture",
+   "started": "2026-11-26",
+   "new": false
+  },
+  {
+   "topic": "bbc9d6c56b0d",
+   "display_name": "Zelenskyy's Thanksgiving message to America",
+   "rank": 25,
+   "post_count": 211,
+   "category": "politics",
+   "started": "2026-11-26",
+   "new": true
   }
  ],
  "history": {
@@ -613,25 +613,36 @@
    "Boreen daily trivia scores",
    "Burnham's UK-EU deal",
    "Doug Ford urges fighting home invaders",
+   "EU leaders debate next budget",
+   "Eagles vs. Cowboys",
+   "FCC approves SpaceX Starmind satellites",
+   "Fox News and American decline",
    "Gaza families' donation appeals",
    "Grand Theft Auto VI",
    "Hakeem Jeffries outlines House agenda",
    "ICE arrests at Seattle airport",
+   "Jason Arday plagiarism claims",
    "Joe Milton plays quarterback for Eagles",
    "Katie Miller car seat claim",
    "King tides flood West Coast",
    "Macy's parade postponed to Saturday",
+   "Medicare for All and universal healthcare",
    "Musk pledges kids SpaceX shares",
    "Nvidia chip exports to China",
    "Nvidia reinstates Jensen Huang",
+   "OCASK prompt on insults",
+   "Ocarina of Time remake",
+   "Original characters as nameless NPCs",
    "Poilievre says NDP not for workers",
    "Potential 2028 presidential contenders",
    "Thanksgiving Day celebrations",
    "US war with Iran",
    "Ukraine claims Libya warship sinking",
+   "Van Hollen challenges Schumer",
    "Vance blames Obama for detonation",
    "Victoria votes in state election",
-   "World Court rules in Rohingya genocide case"
+   "World Court rules in Rohingya genocide case",
+   "Zelenskyy's Thanksgiving message to America"
   ]
  }
 }
